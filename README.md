@@ -1,1 +1,7 @@
 # Sectoral-Responses-to-ECB-Rate-Hikes-Impact-on-GDP-and-Wages
+
+This paper explores the heterogeneous impact of the interest rate hikes introduced by the European Central Bank in July 2022, examining how differences in the sectoral composition of Eurozone countries influence their economic responses to monetary tightening: the analysis investigates whether the relative weight of the primary, secondary, and tertiary sectors affects the extent to which each country is exposed to and influenced by changes in interest rates. Drawing on macroeconomic data from Eurostat and the ECB, and employing a Difference-in-Differences (DiD) approach, the study evaluates the effects of the policy on both GDP and wages, where countries are grouped into treatment and control categories based on the predominance of each sector in their economy, measured as the share of sectoral value added over total GDP. 
+
+The findings suggest that countries with a strong secondary sector appear to be more resilient to interest rate hikes, showing significant wage increases and no substantial decline in output; in contrast, economies more dependent on the primary or tertiary sectors tend to suffer a marked drop in GDP without experiencing any meaningful wage growth. 
+
+However, the analysis also acknowledges some limitations, particularly concerning the assumption of treatment participation in the primary and tertiary sectors, which may not have been fully exposed to the effects of monetary policy. 
