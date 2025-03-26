@@ -1,0 +1,110 @@
+# Load required package
+library(dplyr)
+
+# Read in datasets
+GDP <- read.csv("C:/Users/lolle/Desktop/va/GDP.csv")
+prim <- read.csv("C:/Users/lolle/Desktop/va/modified_primary_va.csv")
+sec  <- read.csv("C:/Users/lolle/Desktop/va/modified_secondary_va.csv")
+ter  <- read.csv("C:/Users/lolle/Desktop/va/modified_tertiary_va.csv")
+
+
+# Define the filtering criteria for quarters
+gdp_filtered <- GDP %>%
+  filter((Year == 2021 & Quarter %in% c("Q1", "Q2", "Q3", "Q4")) |
+           (Year == 2022 & Quarter %in% c("Q1", "Q2"))) %>%
+  filter(Country != "Euroarea")
+
+# ----------------------------
+# Primary Sector Processing
+# ----------------------------
+
+# Filter primary sector data for the specified quarters and remove Euroarea
+prim_filtered <- prim %>%
+  filter((Year == 2021 & Quarter %in% c("Q1", "Q2", "Q3", "Q4")) |
+           (Year == 2022 & Quarter %in% c("Q1", "Q2"))) %>%
+  filter(Country != "Euroarea")
+
+# Merge primary sector data with GDP data by Country, Year, and Quarter
+merged_prim <- inner_join(prim_filtered, gdp_filtered, 
+                          by = c("Country", "Year", "Quarter"), 
+                          suffix = c("_prim", "_gdp"))
+
+# Compute the ratio: primary sector value added divided by GDP value
+merged_prim <- merged_prim %>%
+  mutate(ratio = Value_prim / Value_gdp)
+
+# Average the ratio for each country and sort descending
+ranking_prim <- merged_prim %>%
+  group_by(Country) %>%
+  summarise(avg_ratio = mean(ratio, na.rm = TRUE)) %>%
+  arrange(desc(avg_ratio))
+
+# Print the ranking for the primary sector
+print("Ranking for Primary Sector (Agriculture, Forestry and Fishing):")
+print(ranking_prim, n = Inf)
+
+# ----------------------------
+# Secondary Sector Processing
+# ----------------------------
+
+# Filter secondary sector data for the specified quarters and remove Euroarea
+sec_filtered <- sec %>%
+  filter((Year == 2021 & Quarter %in% c("Q1", "Q2", "Q3", "Q4")) |
+           (Year == 2022 & Quarter %in% c("Q1", "Q2"))) %>%
+  filter(Country != "Euroarea")
+
+# Merge secondary sector data with GDP data by Country, Year, and Quarter
+merged_sec <- inner_join(sec_filtered, gdp_filtered, 
+                         by = c("Country", "Year", "Quarter"), 
+                         suffix = c("_sec", "_gdp"))
+
+# Compute the ratio: secondary sector value added divided by GDP value
+merged_sec <- merged_sec %>%
+  mutate(ratio = Value_sec / Value_gdp)
+
+# Average the ratio for each country and sort descending
+ranking_sec <- merged_sec %>%
+  group_by(Country) %>%
+  summarise(avg_ratio = mean(ratio, na.rm = TRUE)) %>%
+  arrange(desc(avg_ratio))
+
+# Print the ranking for the secondary sector
+print("Ranking for Secondary Sector:")
+print(ranking_sec, n = Inf)
+
+# ----------------------------
+# Tertiary Sector Processing
+# ----------------------------
+
+# Filter wholesale/retail sector data for the specified quarters and remove Euroarea
+ter_filtered <- ter %>%
+  filter((Year == 2021 & Quarter %in% c("Q1", "Q2", "Q3", "Q4")) |
+           (Year == 2022 & Quarter %in% c("Q1", "Q2"))) %>%
+  filter(Country != "Euroarea")
+
+# Merge wholesale/retail (now tertiary) sector data with GDP data by Country, Year, and Quarter
+merged_ter <- inner_join(ter_filtered, gdp_filtered, 
+                         by = c("Country", "Year", "Quarter"), 
+                         suffix = c("_ter", "_gdp"))
+
+# Compute the ratio: tertiary sector value added divided by GDP value
+merged_ter <- merged_ter %>%
+  mutate(ratio = Value_ter / Value_gdp)
+
+# Average the ratio for each country and sort descending
+ranking_tertiary <- merged_ter %>%
+  group_by(Country) %>%
+  summarise(avg_ratio = mean(ratio, na.rm = TRUE)) %>%
+  arrange(desc(avg_ratio))
+
+# Print the ranking for the tertiary sector
+print("Ranking for Tertiary Sector (Wholesale/Retail Trade, Transport, Accommodation and Food Service Activities):")
+print(ranking_tertiary, n = Inf)
+
+# ----------------------------
+# Save rankings to CSV files
+# ----------------------------
+
+write.csv(ranking_prim, "ranking_primary.csv", row.names = FALSE)
+write.csv(ranking_sec,  "ranking_secondary.csv", row.names = FALSE)
+write.csv(ranking_tertiary,  "ranking_tertiary.csv", row.names = FALSE)
