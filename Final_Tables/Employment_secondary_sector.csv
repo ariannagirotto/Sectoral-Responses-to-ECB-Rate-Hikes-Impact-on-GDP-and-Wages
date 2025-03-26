@@ -1,0 +1,3466 @@
+"Sector","Country","Year","Quarter","Value"
+"Construction","Austria",2010,"Q1",242.16
+"Construction","Austria",2010,"Q2",284.86
+"Construction","Austria",2010,"Q3",296.63
+"Construction","Austria",2010,"Q4",287.52
+"Construction","Austria",2011,"Q1",243.64
+"Construction","Austria",2011,"Q2",290
+"Construction","Austria",2011,"Q3",304.6
+"Construction","Austria",2011,"Q4",291.02
+"Construction","Austria",2012,"Q1",246.13
+"Construction","Austria",2012,"Q2",293.19
+"Construction","Austria",2012,"Q3",306.76
+"Construction","Austria",2012,"Q4",295.82
+"Construction","Austria",2013,"Q1",240.88
+"Construction","Austria",2013,"Q2",290.65
+"Construction","Austria",2013,"Q3",304.78
+"Construction","Austria",2013,"Q4",291.49
+"Construction","Austria",2014,"Q1",249.97
+"Construction","Austria",2014,"Q2",293.57
+"Construction","Austria",2014,"Q3",305.03
+"Construction","Austria",2014,"Q4",290.51
+"Construction","Austria",2015,"Q1",247.96
+"Construction","Austria",2015,"Q2",292.16
+"Construction","Austria",2015,"Q3",303.49
+"Construction","Austria",2015,"Q4",290.98
+"Construction","Austria",2016,"Q1",250.34
+"Construction","Austria",2016,"Q2",295.38
+"Construction","Austria",2016,"Q3",307.07
+"Construction","Austria",2016,"Q4",297.97
+"Construction","Austria",2017,"Q1",255.84
+"Construction","Austria",2017,"Q2",304.12
+"Construction","Austria",2017,"Q3",314.11
+"Construction","Austria",2017,"Q4",303.51
+"Construction","Austria",2018,"Q1",264.1
+"Construction","Austria",2018,"Q2",309.82
+"Construction","Austria",2018,"Q3",319.3
+"Construction","Austria",2018,"Q4",310.21
+"Construction","Austria",2019,"Q1",275.08
+"Construction","Austria",2019,"Q2",318.21
+"Construction","Austria",2019,"Q3",327.57
+"Construction","Austria",2019,"Q4",319.61
+"Construction","Austria",2021,"Q1",292.86
+"Construction","Austria",2021,"Q2",334.08
+"Construction","Austria",2021,"Q3",342.1
+"Construction","Austria",2021,"Q4",334.83
+"Construction","Austria",2022,"Q1",305.41
+"Construction","Austria",2022,"Q2",339.62
+"Construction","Austria",2022,"Q3",344.67
+"Construction","Austria",2022,"Q4",335.57
+"Construction","Austria",2023,"Q1",302.06
+"Construction","Austria",2023,"Q2",336.16
+"Construction","Austria",2023,"Q3",340.68
+"Construction","Austria",2023,"Q4",329.08
+"Construction","Austria",2024,"Q1",293.28
+"Construction","Austria",2024,"Q2",326
+"Construction","Austria",2024,"Q3",330.97
+"Construction","Belgium",2010,"Q1",261.5
+"Construction","Belgium",2010,"Q2",262.8
+"Construction","Belgium",2010,"Q3",266.1
+"Construction","Belgium",2010,"Q4",265.6
+"Construction","Belgium",2011,"Q1",265.6
+"Construction","Belgium",2011,"Q2",266.6
+"Construction","Belgium",2011,"Q3",269.6
+"Construction","Belgium",2011,"Q4",269
+"Construction","Belgium",2012,"Q1",268.7
+"Construction","Belgium",2012,"Q2",268.2
+"Construction","Belgium",2012,"Q3",269.9
+"Construction","Belgium",2012,"Q4",267
+"Construction","Belgium",2013,"Q1",265.5
+"Construction","Belgium",2013,"Q2",264.3
+"Construction","Belgium",2013,"Q3",265
+"Construction","Belgium",2013,"Q4",260.7
+"Construction","Belgium",2014,"Q1",259.3
+"Construction","Belgium",2014,"Q2",259.2
+"Construction","Belgium",2014,"Q3",260.2
+"Construction","Belgium",2014,"Q4",257.1
+"Construction","Belgium",2015,"Q1",256.5
+"Construction","Belgium",2015,"Q2",256.6
+"Construction","Belgium",2015,"Q3",258.2
+"Construction","Belgium",2015,"Q4",255.9
+"Construction","Belgium",2016,"Q1",256
+"Construction","Belgium",2016,"Q2",257.8
+"Construction","Belgium",2016,"Q3",260.5
+"Construction","Belgium",2016,"Q4",259.3
+"Construction","Belgium",2017,"Q1",257.7
+"Construction","Belgium",2017,"Q2",259.6
+"Construction","Belgium",2017,"Q3",261.6
+"Construction","Belgium",2017,"Q4",259.6
+"Construction","Belgium",2018,"Q1",263.9
+"Construction","Belgium",2018,"Q2",265.6
+"Construction","Belgium",2018,"Q3",267.7
+"Construction","Belgium",2018,"Q4",266.6
+"Construction","Belgium",2019,"Q1",266.5
+"Construction","Belgium",2019,"Q2",267.9
+"Construction","Belgium",2019,"Q3",270.7
+"Construction","Belgium",2019,"Q4",269.8
+"Construction","Belgium",2021,"Q1",280.1
+"Construction","Belgium",2021,"Q2",283.3
+"Construction","Belgium",2021,"Q3",286.2
+"Construction","Belgium",2021,"Q4",285.7
+"Construction","Belgium",2022,"Q1",287.8
+"Construction","Belgium",2022,"Q2",289.8
+"Construction","Belgium",2022,"Q3",291.5
+"Construction","Belgium",2022,"Q4",290.8
+"Construction","Belgium",2023,"Q1",291.9
+"Construction","Belgium",2023,"Q2",292.9
+"Construction","Belgium",2023,"Q3",293.3
+"Construction","Belgium",2023,"Q4",291.7
+"Construction","Belgium",2024,"Q1",292
+"Construction","Belgium",2024,"Q2",291.5
+"Construction","Belgium",2024,"Q3",291.6
+"Construction","Cyprus",2010,"Q1",42.91
+"Construction","Cyprus",2010,"Q2",43.14
+"Construction","Cyprus",2010,"Q3",42.43
+"Construction","Cyprus",2010,"Q4",41.87
+"Construction","Cyprus",2011,"Q1",41.07
+"Construction","Cyprus",2011,"Q2",40.73
+"Construction","Cyprus",2011,"Q3",39.41
+"Construction","Cyprus",2011,"Q4",38.56
+"Construction","Cyprus",2012,"Q1",36.52
+"Construction","Cyprus",2012,"Q2",35.48
+"Construction","Cyprus",2012,"Q3",32.59
+"Construction","Cyprus",2012,"Q4",31.94
+"Construction","Cyprus",2013,"Q1",29.78
+"Construction","Cyprus",2013,"Q2",27.56
+"Construction","Cyprus",2013,"Q3",25.64
+"Construction","Cyprus",2013,"Q4",25.6
+"Construction","Cyprus",2014,"Q1",24.73
+"Construction","Cyprus",2014,"Q2",24.62
+"Construction","Cyprus",2014,"Q3",24.21
+"Construction","Cyprus",2014,"Q4",24.14
+"Construction","Cyprus",2015,"Q1",23.82
+"Construction","Cyprus",2015,"Q2",24.19
+"Construction","Cyprus",2015,"Q3",24.36
+"Construction","Cyprus",2015,"Q4",24.84
+"Construction","Cyprus",2016,"Q1",25.3
+"Construction","Cyprus",2016,"Q2",25.82
+"Construction","Cyprus",2016,"Q3",26.43
+"Construction","Cyprus",2016,"Q4",27.44
+"Construction","Cyprus",2017,"Q1",28.89
+"Construction","Cyprus",2017,"Q2",29.82
+"Construction","Cyprus",2017,"Q3",29.96
+"Construction","Cyprus",2017,"Q4",32.09
+"Construction","Cyprus",2018,"Q1",31.68
+"Construction","Cyprus",2018,"Q2",33.15
+"Construction","Cyprus",2018,"Q3",34.4
+"Construction","Cyprus",2018,"Q4",36.27
+"Construction","Cyprus",2019,"Q1",37.04
+"Construction","Cyprus",2019,"Q2",39
+"Construction","Cyprus",2019,"Q3",39.77
+"Construction","Cyprus",2019,"Q4",41.4
+"Construction","Cyprus",2021,"Q1",42.3
+"Construction","Cyprus",2021,"Q2",43.2
+"Construction","Cyprus",2021,"Q3",43.93
+"Construction","Cyprus",2021,"Q4",44.23
+"Construction","Cyprus",2022,"Q1",44.79
+"Construction","Cyprus",2022,"Q2",44.59
+"Construction","Cyprus",2022,"Q3",44.63
+"Construction","Cyprus",2022,"Q4",44.74
+"Construction","Cyprus",2023,"Q1",44.95
+"Construction","Cyprus",2023,"Q2",45.21
+"Construction","Cyprus",2023,"Q3",45.26
+"Construction","Cyprus",2023,"Q4",45.64
+"Construction","Cyprus",2024,"Q1",45.82
+"Construction","Cyprus",2024,"Q2",45.86
+"Construction","Cyprus",2024,"Q3",46.1
+"Construction","Germany",2010,"Q1",2243
+"Construction","Germany",2010,"Q2",2320
+"Construction","Germany",2010,"Q3",2372
+"Construction","Germany",2010,"Q4",2383
+"Construction","Germany",2011,"Q1",2290
+"Construction","Germany",2011,"Q2",2363
+"Construction","Germany",2011,"Q3",2408
+"Construction","Germany",2011,"Q4",2419
+"Construction","Germany",2012,"Q1",2335
+"Construction","Germany",2012,"Q2",2397
+"Construction","Germany",2012,"Q3",2437
+"Construction","Germany",2012,"Q4",2443
+"Construction","Germany",2013,"Q1",2351
+"Construction","Germany",2013,"Q2",2410
+"Construction","Germany",2013,"Q3",2455
+"Construction","Germany",2013,"Q4",2454
+"Construction","Germany",2014,"Q1",2370
+"Construction","Germany",2014,"Q2",2427
+"Construction","Germany",2014,"Q3",2459
+"Construction","Germany",2014,"Q4",2460
+"Construction","Germany",2015,"Q1",2371
+"Construction","Germany",2015,"Q2",2423
+"Construction","Germany",2015,"Q3",2457
+"Construction","Germany",2015,"Q4",2460
+"Construction","Germany",2016,"Q1",2384
+"Construction","Germany",2016,"Q2",2439
+"Construction","Germany",2016,"Q3",2478
+"Construction","Germany",2016,"Q4",2490
+"Construction","Germany",2017,"Q1",2426
+"Construction","Germany",2017,"Q2",2478
+"Construction","Germany",2017,"Q3",2510
+"Construction","Germany",2017,"Q4",2522
+"Construction","Germany",2018,"Q1",2468
+"Construction","Germany",2018,"Q2",2515
+"Construction","Germany",2018,"Q3",2550
+"Construction","Germany",2018,"Q4",2565
+"Construction","Germany",2019,"Q1",2511
+"Construction","Germany",2019,"Q2",2550
+"Construction","Germany",2019,"Q3",2580
+"Construction","Germany",2019,"Q4",2597
+"Construction","Germany",2021,"Q1",2581
+"Construction","Germany",2021,"Q2",2613
+"Construction","Germany",2021,"Q3",2627
+"Construction","Germany",2021,"Q4",2642
+"Construction","Germany",2022,"Q1",2603
+"Construction","Germany",2022,"Q2",2632
+"Construction","Germany",2022,"Q3",2652
+"Construction","Germany",2022,"Q4",2669
+"Construction","Germany",2023,"Q1",2626
+"Construction","Germany",2023,"Q2",2649
+"Construction","Germany",2023,"Q3",2660
+"Construction","Germany",2023,"Q4",2666
+"Construction","Germany",2024,"Q1",2612
+"Construction","Germany",2024,"Q2",2625
+"Construction","Germany",2024,"Q3",2626
+"Construction","Euroarea",2010,"Q1",10428.19
+"Construction","Euroarea",2010,"Q2",10555.35
+"Construction","Euroarea",2010,"Q3",10586.03
+"Construction","Euroarea",2010,"Q4",10463.88
+"Construction","Euroarea",2011,"Q1",10134.54
+"Construction","Euroarea",2011,"Q2",10281.72
+"Construction","Euroarea",2011,"Q3",10231.36
+"Construction","Euroarea",2011,"Q4",10008.07
+"Construction","Euroarea",2012,"Q1",9671.76
+"Construction","Euroarea",2012,"Q2",9848.45
+"Construction","Euroarea",2012,"Q3",9763.19
+"Construction","Euroarea",2012,"Q4",9579.43
+"Construction","Euroarea",2013,"Q1",9242.16
+"Construction","Euroarea",2013,"Q2",9387.39
+"Construction","Euroarea",2013,"Q3",9467.59
+"Construction","Euroarea",2013,"Q4",9384.86
+"Construction","Euroarea",2014,"Q1",9077.94
+"Construction","Euroarea",2014,"Q2",9272.59
+"Construction","Euroarea",2014,"Q3",9378.52
+"Construction","Euroarea",2014,"Q4",9286.11
+"Construction","Euroarea",2015,"Q1",9110.42
+"Construction","Euroarea",2015,"Q2",9344.07
+"Construction","Euroarea",2015,"Q3",9377.12
+"Construction","Euroarea",2015,"Q4",9279.18
+"Construction","Euroarea",2016,"Q1",9117.01
+"Construction","Euroarea",2016,"Q2",9374.46
+"Construction","Euroarea",2016,"Q3",9399.78
+"Construction","Euroarea",2016,"Q4",9331.83
+"Construction","Euroarea",2017,"Q1",9225.32
+"Construction","Euroarea",2017,"Q2",9438.13
+"Construction","Euroarea",2017,"Q3",9483.44
+"Construction","Euroarea",2017,"Q4",9508.98
+"Construction","Euroarea",2018,"Q1",9393.45
+"Construction","Euroarea",2018,"Q2",9641.63
+"Construction","Euroarea",2018,"Q3",9782.14
+"Construction","Euroarea",2018,"Q4",9870.74
+"Construction","Euroarea",2019,"Q1",9753.4
+"Construction","Euroarea",2019,"Q2",9939.85
+"Construction","Euroarea",2019,"Q3",9993.77
+"Construction","Euroarea",2019,"Q4",10086.56
+"Construction","Euroarea",2021,"Q1",10102.97
+"Construction","Euroarea",2021,"Q2",10369.25
+"Construction","Euroarea",2021,"Q3",10403.36
+"Construction","Euroarea",2021,"Q4",10463.14
+"Construction","Euroarea",2022,"Q1",10488.05
+"Construction","Euroarea",2022,"Q2",10782.39
+"Construction","Euroarea",2022,"Q3",10810.89
+"Construction","Euroarea",2022,"Q4",10772.85
+"Construction","Euroarea",2023,"Q1",10665.42
+"Construction","Euroarea",2023,"Q2",10849.58
+"Construction","Euroarea",2023,"Q3",10946.1
+"Construction","Euroarea",2023,"Q4",10966.36
+"Construction","Euroarea",2024,"Q1",10847.52
+"Construction","Euroarea",2024,"Q2",10989.11
+"Construction","Euroarea",2024,"Q3",11014.52
+"Construction","Estonia",2010,"Q1",33
+"Construction","Estonia",2010,"Q2",33.3
+"Construction","Estonia",2010,"Q3",40
+"Construction","Estonia",2010,"Q4",40.9
+"Construction","Estonia",2011,"Q1",38.5
+"Construction","Estonia",2011,"Q2",40.7
+"Construction","Estonia",2011,"Q3",52.9
+"Construction","Estonia",2011,"Q4",51.4
+"Construction","Estonia",2012,"Q1",43.6
+"Construction","Estonia",2012,"Q2",42.8
+"Construction","Estonia",2012,"Q3",51
+"Construction","Estonia",2012,"Q4",50.9
+"Construction","Estonia",2013,"Q1",45.7
+"Construction","Estonia",2013,"Q2",45.1
+"Construction","Estonia",2013,"Q3",49.8
+"Construction","Estonia",2013,"Q4",48.3
+"Construction","Estonia",2014,"Q1",44.3
+"Construction","Estonia",2014,"Q2",45.9
+"Construction","Estonia",2014,"Q3",52.4
+"Construction","Estonia",2014,"Q4",49.3
+"Construction","Estonia",2015,"Q1",44.4
+"Construction","Estonia",2015,"Q2",54.4
+"Construction","Estonia",2015,"Q3",59.4
+"Construction","Estonia",2015,"Q4",49.6
+"Construction","Estonia",2016,"Q1",41.3
+"Construction","Estonia",2016,"Q2",45.2
+"Construction","Estonia",2016,"Q3",52.8
+"Construction","Estonia",2016,"Q4",43.2
+"Construction","Estonia",2017,"Q1",43.8
+"Construction","Estonia",2017,"Q2",45.2
+"Construction","Estonia",2017,"Q3",49.1
+"Construction","Estonia",2017,"Q4",49.7
+"Construction","Estonia",2018,"Q1",44.23
+"Construction","Estonia",2018,"Q2",55.17
+"Construction","Estonia",2018,"Q3",52.82
+"Construction","Estonia",2018,"Q4",46.16
+"Construction","Estonia",2019,"Q1",51.08
+"Construction","Estonia",2019,"Q2",51.75
+"Construction","Estonia",2019,"Q3",51.23
+"Construction","Estonia",2019,"Q4",49.25
+"Construction","Estonia",2021,"Q1",43.98
+"Construction","Estonia",2021,"Q2",49.21
+"Construction","Estonia",2021,"Q3",52
+"Construction","Estonia",2021,"Q4",51.01
+"Construction","Estonia",2022,"Q1",49.56
+"Construction","Estonia",2022,"Q2",52.08
+"Construction","Estonia",2022,"Q3",55.23
+"Construction","Estonia",2022,"Q4",51.64
+"Construction","Estonia",2023,"Q1",55.89
+"Construction","Estonia",2023,"Q2",50.73
+"Construction","Estonia",2023,"Q3",49.51
+"Construction","Estonia",2023,"Q4",53.5
+"Construction","Estonia",2024,"Q1",50.27
+"Construction","Estonia",2024,"Q2",53.82
+"Construction","Estonia",2024,"Q3",54.46
+"Construction","Greece",2010,"Q1",289.04
+"Construction","Greece",2010,"Q2",280.01
+"Construction","Greece",2010,"Q3",275.42
+"Construction","Greece",2010,"Q4",266.18
+"Construction","Greece",2011,"Q1",250.71
+"Construction","Greece",2011,"Q2",253.99
+"Construction","Greece",2011,"Q3",237.29
+"Construction","Greece",2011,"Q4",222.71
+"Construction","Greece",2012,"Q1",222.71
+"Construction","Greece",2012,"Q2",215.46
+"Construction","Greece",2012,"Q3",204.05
+"Construction","Greece",2012,"Q4",184.97
+"Construction","Greece",2013,"Q1",210.3
+"Construction","Greece",2013,"Q2",204.26
+"Construction","Greece",2013,"Q3",200.09
+"Construction","Greece",2013,"Q4",196.82
+"Construction","Greece",2014,"Q1",198.38
+"Construction","Greece",2014,"Q2",200.62
+"Construction","Greece",2014,"Q3",209.57
+"Construction","Greece",2014,"Q4",207.37
+"Construction","Greece",2015,"Q1",193.17
+"Construction","Greece",2015,"Q2",200.42
+"Construction","Greece",2015,"Q3",195.15
+"Construction","Greece",2015,"Q4",191.9
+"Construction","Greece",2016,"Q1",197.49
+"Construction","Greece",2016,"Q2",208.65
+"Construction","Greece",2016,"Q3",194.82
+"Construction","Greece",2016,"Q4",187.4
+"Construction","Greece",2017,"Q1",191.94
+"Construction","Greece",2017,"Q2",192.18
+"Construction","Greece",2017,"Q3",195.32
+"Construction","Greece",2017,"Q4",182.59
+"Construction","Greece",2018,"Q1",191.48
+"Construction","Greece",2018,"Q2",194.97
+"Construction","Greece",2018,"Q3",193.24
+"Construction","Greece",2018,"Q4",194.16
+"Construction","Greece",2019,"Q1",189.17
+"Construction","Greece",2019,"Q2",196.13
+"Construction","Greece",2019,"Q3",192.57
+"Construction","Greece",2019,"Q4",191.82
+"Construction","Greece",2021,"Q1",174.03
+"Construction","Greece",2021,"Q2",179.82
+"Construction","Greece",2021,"Q3",185.48
+"Construction","Greece",2021,"Q4",188.24
+"Construction","Greece",2022,"Q1",184.49
+"Construction","Greece",2022,"Q2",191.89
+"Construction","Greece",2022,"Q3",189.95
+"Construction","Greece",2022,"Q4",187.19
+"Construction","Greece",2023,"Q1",187.83
+"Construction","Greece",2023,"Q2",187.84
+"Construction","Greece",2023,"Q3",200.01
+"Construction","Greece",2023,"Q4",197.62
+"Construction","Greece",2024,"Q1",213.33
+"Construction","Greece",2024,"Q2",202.59
+"Construction","Greece",2024,"Q3",217.2
+"Construction","Spain",2010,"Q1",1690.4
+"Construction","Spain",2010,"Q2",1723.5
+"Construction","Spain",2010,"Q3",1689.5
+"Construction","Spain",2010,"Q4",1593.8
+"Construction","Spain",2011,"Q1",1517.2
+"Construction","Spain",2011,"Q2",1462.5
+"Construction","Spain",2011,"Q3",1410.2
+"Construction","Spain",2011,"Q4",1314.1
+"Construction","Spain",2012,"Q1",1220.3
+"Construction","Spain",2012,"Q2",1237.7
+"Construction","Spain",2012,"Q3",1184.5
+"Construction","Spain",2012,"Q4",1123.1
+"Construction","Spain",2013,"Q1",1079.5
+"Construction","Spain",2013,"Q2",1062.3
+"Construction","Spain",2013,"Q3",1049.2
+"Construction","Spain",2013,"Q4",1016.2
+"Construction","Spain",2014,"Q1",978
+"Construction","Spain",2014,"Q2",1021
+"Construction","Spain",2014,"Q3",1055.4
+"Construction","Spain",2014,"Q4",1061.2
+"Construction","Spain",2015,"Q1",1065.3
+"Construction","Spain",2015,"Q2",1105.9
+"Construction","Spain",2015,"Q3",1119.2
+"Construction","Spain",2015,"Q4",1116.4
+"Construction","Spain",2016,"Q1",1075.1
+"Construction","Spain",2016,"Q2",1116.9
+"Construction","Spain",2016,"Q3",1144.9
+"Construction","Spain",2016,"Q4",1142.3
+"Construction","Spain",2017,"Q1",1115.7
+"Construction","Spain",2017,"Q2",1165.9
+"Construction","Spain",2017,"Q3",1184.1
+"Construction","Spain",2017,"Q4",1198.7
+"Construction","Spain",2018,"Q1",1170.3
+"Construction","Spain",2018,"Q2",1232.4
+"Construction","Spain",2018,"Q3",1255.6
+"Construction","Spain",2018,"Q4",1318.1
+"Construction","Spain",2019,"Q1",1344
+"Construction","Spain",2019,"Q2",1351.2
+"Construction","Spain",2019,"Q3",1344.4
+"Construction","Spain",2019,"Q4",1373.2
+"Construction","Spain",2021,"Q1",1316.8
+"Construction","Spain",2021,"Q2",1373.8
+"Construction","Spain",2021,"Q3",1350.9
+"Construction","Spain",2021,"Q4",1354.9
+"Construction","Spain",2022,"Q1",1393.8
+"Construction","Spain",2022,"Q2",1422.8
+"Construction","Spain",2022,"Q3",1435.4
+"Construction","Spain",2022,"Q4",1430
+"Construction","Spain",2023,"Q1",1407.3
+"Construction","Spain",2023,"Q2",1473.4
+"Construction","Spain",2023,"Q3",1488.8
+"Construction","Spain",2023,"Q4",1544.1
+"Construction","Spain",2024,"Q1",1500.3
+"Construction","Spain",2024,"Q2",1554.1
+"Construction","Spain",2024,"Q3",1554.3
+"Construction","Finland",2010,"Q1",174
+"Construction","Finland",2010,"Q2",187.6
+"Construction","Finland",2010,"Q3",200
+"Construction","Finland",2010,"Q4",189.6
+"Construction","Finland",2011,"Q1",176.8
+"Construction","Finland",2011,"Q2",198
+"Construction","Finland",2011,"Q3",200
+"Construction","Finland",2011,"Q4",192.8
+"Construction","Finland",2012,"Q1",181.2
+"Construction","Finland",2012,"Q2",190.4
+"Construction","Finland",2012,"Q3",198.4
+"Construction","Finland",2012,"Q4",190.8
+"Construction","Finland",2013,"Q1",180
+"Construction","Finland",2013,"Q2",188.4
+"Construction","Finland",2013,"Q3",193.6
+"Construction","Finland",2013,"Q4",184.8
+"Construction","Finland",2014,"Q1",173.6
+"Construction","Finland",2014,"Q2",186
+"Construction","Finland",2014,"Q3",193.6
+"Construction","Finland",2014,"Q4",181.6
+"Construction","Finland",2015,"Q1",177.2
+"Construction","Finland",2015,"Q2",190.8
+"Construction","Finland",2015,"Q3",200.8
+"Construction","Finland",2015,"Q4",192.8
+"Construction","Finland",2016,"Q1",186.4
+"Construction","Finland",2016,"Q2",202.4
+"Construction","Finland",2016,"Q3",206.8
+"Construction","Finland",2016,"Q4",195.6
+"Construction","Finland",2017,"Q1",192
+"Construction","Finland",2017,"Q2",203.6
+"Construction","Finland",2017,"Q3",206.4
+"Construction","Finland",2017,"Q4",195.6
+"Construction","Finland",2018,"Q1",198
+"Construction","Finland",2018,"Q2",210
+"Construction","Finland",2018,"Q3",216.8
+"Construction","Finland",2018,"Q4",206
+"Construction","Finland",2019,"Q1",198
+"Construction","Finland",2019,"Q2",212.8
+"Construction","Finland",2019,"Q3",209.2
+"Construction","Finland",2019,"Q4",194.8
+"Construction","Finland",2021,"Q1",186.4
+"Construction","Finland",2021,"Q2",207.2
+"Construction","Finland",2021,"Q3",208.8
+"Construction","Finland",2021,"Q4",199.2
+"Construction","Finland",2022,"Q1",187.2
+"Construction","Finland",2022,"Q2",209.6
+"Construction","Finland",2022,"Q3",212
+"Construction","Finland",2022,"Q4",194.8
+"Construction","Finland",2023,"Q1",190.4
+"Construction","Finland",2023,"Q2",204.8
+"Construction","Finland",2023,"Q3",198
+"Construction","Finland",2023,"Q4",181.2
+"Construction","Finland",2024,"Q1",167.4
+"Construction","Finland",2024,"Q2",183.9
+"Construction","Finland",2024,"Q3",190.4
+"Construction","France",2010,"Q1",1898.3
+"Construction","France",2010,"Q2",1899.5
+"Construction","France",2010,"Q3",1901.5
+"Construction","France",2010,"Q4",1893
+"Construction","France",2011,"Q1",1892.2
+"Construction","France",2011,"Q2",1902.9
+"Construction","France",2011,"Q3",1905.6
+"Construction","France",2011,"Q4",1894.8
+"Construction","France",2012,"Q1",1891
+"Construction","France",2012,"Q2",1899.3
+"Construction","France",2012,"Q3",1900
+"Construction","France",2012,"Q4",1888.9
+"Construction","France",2013,"Q1",1882.5
+"Construction","France",2013,"Q2",1890.2
+"Construction","France",2013,"Q3",1894.3
+"Construction","France",2013,"Q4",1883.8
+"Construction","France",2014,"Q1",1879
+"Construction","France",2014,"Q2",1884.6
+"Construction","France",2014,"Q3",1878.2
+"Construction","France",2014,"Q4",1855.3
+"Construction","France",2015,"Q1",1839.8
+"Construction","France",2015,"Q2",1837.7
+"Construction","France",2015,"Q3",1827
+"Construction","France",2015,"Q4",1804.7
+"Construction","France",2016,"Q1",1791.5
+"Construction","France",2016,"Q2",1793.5
+"Construction","France",2016,"Q3",1789
+"Construction","France",2016,"Q4",1770.7
+"Construction","France",2017,"Q1",1763.8
+"Construction","France",2017,"Q2",1775.5
+"Construction","France",2017,"Q3",1781
+"Construction","France",2017,"Q4",1775.1
+"Construction","France",2018,"Q1",1779.4
+"Construction","France",2018,"Q2",1795.3
+"Construction","France",2018,"Q3",1808.1
+"Construction","France",2018,"Q4",1809.4
+"Construction","France",2019,"Q1",1821.6
+"Construction","France",2019,"Q2",1848.2
+"Construction","France",2019,"Q3",1865.8
+"Construction","France",2019,"Q4",1873.6
+"Construction","France",2021,"Q1",1963.1
+"Construction","France",2021,"Q2",1992.5
+"Construction","France",2021,"Q3",2008.2
+"Construction","France",2021,"Q4",2012.2
+"Construction","France",2022,"Q1",2024.1
+"Construction","France",2022,"Q2",2041.6
+"Construction","France",2022,"Q3",2045.2
+"Construction","France",2022,"Q4",2039.1
+"Construction","France",2023,"Q1",2041
+"Construction","France",2023,"Q2",2048.6
+"Construction","France",2023,"Q3",2043.5
+"Construction","France",2023,"Q4",2030.5
+"Construction","France",2024,"Q1",2026.3
+"Construction","France",2024,"Q2",2026.3
+"Construction","France",2024,"Q3",2017.5
+"Construction","Croatia",2010,"Q1",133.25
+"Construction","Croatia",2010,"Q2",113.44
+"Construction","Croatia",2010,"Q3",122.61
+"Construction","Croatia",2010,"Q4",132.25
+"Construction","Croatia",2011,"Q1",124.02
+"Construction","Croatia",2011,"Q2",111.5
+"Construction","Croatia",2011,"Q3",112.64
+"Construction","Croatia",2011,"Q4",115.81
+"Construction","Croatia",2012,"Q1",103.81
+"Construction","Croatia",2012,"Q2",113.04
+"Construction","Croatia",2012,"Q3",111.87
+"Construction","Croatia",2012,"Q4",100.06
+"Construction","Croatia",2013,"Q1",107.9
+"Construction","Croatia",2013,"Q2",105.62
+"Construction","Croatia",2013,"Q3",96.73
+"Construction","Croatia",2013,"Q4",112.92
+"Construction","Croatia",2014,"Q1",104.08
+"Construction","Croatia",2014,"Q2",97.99
+"Construction","Croatia",2014,"Q3",96.21
+"Construction","Croatia",2014,"Q4",104.74
+"Construction","Croatia",2015,"Q1",104.47
+"Construction","Croatia",2015,"Q2",99.74
+"Construction","Croatia",2015,"Q3",108.46
+"Construction","Croatia",2015,"Q4",111.43
+"Construction","Croatia",2016,"Q1",115.65
+"Construction","Croatia",2016,"Q2",109.1
+"Construction","Croatia",2016,"Q3",103.23
+"Construction","Croatia",2016,"Q4",107.78
+"Construction","Croatia",2017,"Q1",111.91
+"Construction","Croatia",2017,"Q2",105.39
+"Construction","Croatia",2017,"Q3",98.92
+"Construction","Croatia",2017,"Q4",113.32
+"Construction","Croatia",2018,"Q1",124.96
+"Construction","Croatia",2018,"Q2",120.99
+"Construction","Croatia",2018,"Q3",120.99
+"Construction","Croatia",2018,"Q4",115.2
+"Construction","Croatia",2019,"Q1",132.22
+"Construction","Croatia",2019,"Q2",121.89
+"Construction","Croatia",2019,"Q3",101.87
+"Construction","Croatia",2019,"Q4",126.52
+"Construction","Croatia",2021,"Q1",145.85
+"Construction","Croatia",2021,"Q2",142.33
+"Construction","Croatia",2021,"Q3",131.36
+"Construction","Croatia",2021,"Q4",128.91
+"Construction","Croatia",2022,"Q1",137.96
+"Construction","Croatia",2022,"Q2",144.38
+"Construction","Croatia",2022,"Q3",139.63
+"Construction","Croatia",2022,"Q4",135.27
+"Construction","Croatia",2023,"Q1",133.84
+"Construction","Croatia",2023,"Q2",139.69
+"Construction","Croatia",2023,"Q3",154.4
+"Construction","Croatia",2023,"Q4",157.49
+"Construction","Croatia",2024,"Q1",148.92
+"Construction","Croatia",2024,"Q2",149.38
+"Construction","Croatia",2024,"Q3",157.92
+"Construction","Ireland",2010,"Q1",108.11
+"Construction","Ireland",2010,"Q2",104.83
+"Construction","Ireland",2010,"Q3",95.84
+"Construction","Ireland",2010,"Q4",91.31
+"Construction","Ireland",2011,"Q1",89.14
+"Construction","Ireland",2011,"Q2",87.11
+"Construction","Ireland",2011,"Q3",88.63
+"Construction","Ireland",2011,"Q4",88.38
+"Construction","Ireland",2012,"Q1",84.46
+"Construction","Ireland",2012,"Q2",81.33
+"Construction","Ireland",2012,"Q3",83.03
+"Construction","Ireland",2012,"Q4",85.22
+"Construction","Ireland",2013,"Q1",80.44
+"Construction","Ireland",2013,"Q2",85.99
+"Construction","Ireland",2013,"Q3",89.44
+"Construction","Ireland",2013,"Q4",87.82
+"Construction","Ireland",2014,"Q1",87.18
+"Construction","Ireland",2014,"Q2",90.72
+"Construction","Ireland",2014,"Q3",97.21
+"Construction","Ireland",2014,"Q4",100.69
+"Construction","Ireland",2015,"Q1",105.47
+"Construction","Ireland",2015,"Q2",109.27
+"Construction","Ireland",2015,"Q3",111.11
+"Construction","Ireland",2015,"Q4",109.93
+"Construction","Ireland",2016,"Q1",114.38
+"Construction","Ireland",2016,"Q2",119.63
+"Construction","Ireland",2016,"Q3",120.08
+"Construction","Ireland",2016,"Q4",121.47
+"Construction","Ireland",2017,"Q1",125.63
+"Construction","Ireland",2017,"Q2",128.71
+"Construction","Ireland",2017,"Q3",129.5
+"Construction","Ireland",2017,"Q4",134.4
+"Construction","Ireland",2018,"Q1",137.85
+"Construction","Ireland",2018,"Q2",146.78
+"Construction","Ireland",2018,"Q3",147.83
+"Construction","Ireland",2018,"Q4",144.6
+"Construction","Ireland",2019,"Q1",145.48
+"Construction","Ireland",2019,"Q2",147.14
+"Construction","Ireland",2019,"Q3",151.17
+"Construction","Ireland",2019,"Q4",148.34
+"Construction","Ireland",2021,"Q1",124.94
+"Construction","Ireland",2021,"Q2",130
+"Construction","Ireland",2021,"Q3",148.85
+"Construction","Ireland",2021,"Q4",161.5
+"Construction","Ireland",2022,"Q1",163.53
+"Construction","Ireland",2022,"Q2",171.53
+"Construction","Ireland",2022,"Q3",173.88
+"Construction","Ireland",2022,"Q4",166.02
+"Construction","Ireland",2023,"Q1",163.24
+"Construction","Ireland",2023,"Q2",172.72
+"Construction","Ireland",2023,"Q3",170
+"Construction","Ireland",2023,"Q4",161.71
+"Construction","Ireland",2024,"Q1",172.3
+"Construction","Ireland",2024,"Q2",161.43
+"Construction","Ireland",2024,"Q3",176.5
+"Construction","Italy",2010,"Q1",1900.6
+"Construction","Italy",2010,"Q2",1899.1
+"Construction","Italy",2010,"Q3",1863.1
+"Construction","Italy",2010,"Q4",1869.1
+"Construction","Italy",2011,"Q1",1843.9
+"Construction","Italy",2011,"Q2",1899.1
+"Construction","Italy",2011,"Q3",1830.5
+"Construction","Italy",2011,"Q4",1780.5
+"Construction","Italy",2012,"Q1",1768.5
+"Construction","Italy",2012,"Q2",1801.9
+"Construction","Italy",2012,"Q3",1721.4
+"Construction","Italy",2012,"Q4",1695.1
+"Construction","Italy",2013,"Q1",1604.6
+"Construction","Italy",2013,"Q2",1615.9
+"Construction","Italy",2013,"Q3",1621
+"Construction","Italy",2013,"Q4",1615.8
+"Construction","Italy",2014,"Q1",1546
+"Construction","Italy",2014,"Q2",1564.7
+"Construction","Italy",2014,"Q3",1571.8
+"Construction","Italy",2014,"Q4",1513.5
+"Construction","Italy",2015,"Q1",1508.7
+"Construction","Italy",2015,"Q2",1572
+"Construction","Italy",2015,"Q3",1538.3
+"Construction","Italy",2015,"Q4",1492.8
+"Construction","Italy",2016,"Q1",1516.4
+"Construction","Italy",2016,"Q2",1572.5
+"Construction","Italy",2016,"Q3",1521.8
+"Construction","Italy",2016,"Q4",1499.8
+"Construction","Italy",2017,"Q1",1522.5
+"Construction","Italy",2017,"Q2",1523.1
+"Construction","Italy",2017,"Q3",1506.5
+"Construction","Italy",2017,"Q4",1502.5
+"Construction","Italy",2018,"Q1",1465.9
+"Construction","Italy",2018,"Q2",1497.8
+"Construction","Italy",2018,"Q3",1528.1
+"Construction","Italy",2018,"Q4",1558.7
+"Construction","Italy",2019,"Q1",1483.7
+"Construction","Italy",2019,"Q2",1506.1
+"Construction","Italy",2019,"Q3",1523.4
+"Construction","Italy",2019,"Q4",1543.1
+"Construction","Italy",2021,"Q1",1583.1
+"Construction","Italy",2021,"Q2",1630.8
+"Construction","Italy",2021,"Q3",1616.4
+"Construction","Italy",2021,"Q4",1662.2
+"Construction","Italy",2022,"Q1",1675.4
+"Construction","Italy",2022,"Q2",1778.9
+"Construction","Italy",2022,"Q3",1733
+"Construction","Italy",2022,"Q4",1742.2
+"Construction","Italy",2023,"Q1",1732
+"Construction","Italy",2023,"Q2",1749.6
+"Construction","Italy",2023,"Q3",1759.5
+"Construction","Italy",2023,"Q4",1779.2
+"Construction","Italy",2024,"Q1",1803.3
+"Construction","Italy",2024,"Q2",1838.2
+"Construction","Italy",2024,"Q3",1797.7
+"Construction","Lithuania",2010,"Q1",83.3
+"Construction","Lithuania",2010,"Q2",82.19
+"Construction","Lithuania",2010,"Q3",87.72
+"Construction","Lithuania",2010,"Q4",95.53
+"Construction","Lithuania",2011,"Q1",77.74
+"Construction","Lithuania",2011,"Q2",82
+"Construction","Lithuania",2011,"Q3",91.29
+"Construction","Lithuania",2011,"Q4",90.14
+"Construction","Lithuania",2012,"Q1",80.87
+"Construction","Lithuania",2012,"Q2",86.29
+"Construction","Lithuania",2012,"Q3",97.75
+"Construction","Lithuania",2012,"Q4",93.27
+"Construction","Lithuania",2013,"Q1",80.78
+"Construction","Lithuania",2013,"Q2",97.21
+"Construction","Lithuania",2013,"Q3",111.01
+"Construction","Lithuania",2013,"Q4",108.01
+"Construction","Lithuania",2014,"Q1",93
+"Construction","Lithuania",2014,"Q2",94.33
+"Construction","Lithuania",2014,"Q3",103.76
+"Construction","Lithuania",2014,"Q4",105.86
+"Construction","Lithuania",2015,"Q1",106.33
+"Construction","Lithuania",2015,"Q2",107.02
+"Construction","Lithuania",2015,"Q3",103.59
+"Construction","Lithuania",2015,"Q4",105.5
+"Construction","Lithuania",2016,"Q1",100.29
+"Construction","Lithuania",2016,"Q2",106.58
+"Construction","Lithuania",2016,"Q3",107.13
+"Construction","Lithuania",2016,"Q4",102.59
+"Construction","Lithuania",2017,"Q1",96.81
+"Construction","Lithuania",2017,"Q2",102.98
+"Construction","Lithuania",2017,"Q3",102.28
+"Construction","Lithuania",2017,"Q4",99.79
+"Construction","Lithuania",2018,"Q1",95.07
+"Construction","Lithuania",2018,"Q2",99.58
+"Construction","Lithuania",2018,"Q3",109.57
+"Construction","Lithuania",2018,"Q4",110.27
+"Construction","Lithuania",2019,"Q1",101.68
+"Construction","Lithuania",2019,"Q2",102.37
+"Construction","Lithuania",2019,"Q3",110.52
+"Construction","Lithuania",2019,"Q4",114.24
+"Construction","Lithuania",2021,"Q1",99.08
+"Construction","Lithuania",2021,"Q2",104.57
+"Construction","Lithuania",2021,"Q3",109.37
+"Construction","Lithuania",2021,"Q4",107.58
+"Construction","Lithuania",2022,"Q1",106.44
+"Construction","Lithuania",2022,"Q2",126.06
+"Construction","Lithuania",2022,"Q3",126.84
+"Construction","Lithuania",2022,"Q4",115.3
+"Construction","Lithuania",2023,"Q1",111.92
+"Construction","Lithuania",2023,"Q2",119.76
+"Construction","Lithuania",2023,"Q3",129.21
+"Construction","Lithuania",2023,"Q4",118.45
+"Construction","Lithuania",2024,"Q1",111.77
+"Construction","Lithuania",2024,"Q2",123.93
+"Construction","Lithuania",2024,"Q3",132.23
+"Construction","Luxembourg",2010,"Q1",38.56
+"Construction","Luxembourg",2010,"Q2",39.03
+"Construction","Luxembourg",2010,"Q3",39.07
+"Construction","Luxembourg",2010,"Q4",39.36
+"Construction","Luxembourg",2011,"Q1",39.2
+"Construction","Luxembourg",2011,"Q2",39.96
+"Construction","Luxembourg",2011,"Q3",40.11
+"Construction","Luxembourg",2011,"Q4",40.21
+"Construction","Luxembourg",2012,"Q1",39.89
+"Construction","Luxembourg",2012,"Q2",40.56
+"Construction","Luxembourg",2012,"Q3",40.47
+"Construction","Luxembourg",2012,"Q4",40.58
+"Construction","Luxembourg",2013,"Q1",40.19
+"Construction","Luxembourg",2013,"Q2",40.73
+"Construction","Luxembourg",2013,"Q3",40.65
+"Construction","Luxembourg",2013,"Q4",40.75
+"Construction","Luxembourg",2014,"Q1",40.57
+"Construction","Luxembourg",2014,"Q2",41.23
+"Construction","Luxembourg",2014,"Q3",41.26
+"Construction","Luxembourg",2014,"Q4",41.54
+"Construction","Luxembourg",2015,"Q1",41.31
+"Construction","Luxembourg",2015,"Q2",41.91
+"Construction","Luxembourg",2015,"Q3",41.99
+"Construction","Luxembourg",2015,"Q4",42.39
+"Construction","Luxembourg",2016,"Q1",42.36
+"Construction","Luxembourg",2016,"Q2",43.09
+"Construction","Luxembourg",2016,"Q3",43.32
+"Construction","Luxembourg",2016,"Q4",43.88
+"Construction","Luxembourg",2017,"Q1",43.64
+"Construction","Luxembourg",2017,"Q2",44.43
+"Construction","Luxembourg",2017,"Q3",44.5
+"Construction","Luxembourg",2017,"Q4",45.09
+"Construction","Luxembourg",2018,"Q1",45.18
+"Construction","Luxembourg",2018,"Q2",45.9
+"Construction","Luxembourg",2018,"Q3",46.05
+"Construction","Luxembourg",2018,"Q4",46.76
+"Construction","Luxembourg",2019,"Q1",46.97
+"Construction","Luxembourg",2019,"Q2",47.59
+"Construction","Luxembourg",2019,"Q3",47.64
+"Construction","Luxembourg",2019,"Q4",48.44
+"Construction","Luxembourg",2021,"Q1",50.27
+"Construction","Luxembourg",2021,"Q2",51.07
+"Construction","Luxembourg",2021,"Q3",50.95
+"Construction","Luxembourg",2021,"Q4",51.59
+"Construction","Luxembourg",2022,"Q1",51.96
+"Construction","Luxembourg",2022,"Q2",52.57
+"Construction","Luxembourg",2022,"Q3",52.25
+"Construction","Luxembourg",2022,"Q4",52.68
+"Construction","Luxembourg",2023,"Q1",52.49
+"Construction","Luxembourg",2023,"Q2",52.49
+"Construction","Luxembourg",2023,"Q3",51.52
+"Construction","Luxembourg",2023,"Q4",51.1
+"Construction","Luxembourg",2024,"Q1",50.09
+"Construction","Luxembourg",2024,"Q2",49.72
+"Construction","Luxembourg",2024,"Q3",48.94
+"Construction","Latvia",2010,"Q1",51.93
+"Construction","Latvia",2010,"Q2",56.13
+"Construction","Latvia",2010,"Q3",64.29
+"Construction","Latvia",2010,"Q4",61.13
+"Construction","Latvia",2011,"Q1",56.63
+"Construction","Latvia",2011,"Q2",61.4
+"Construction","Latvia",2011,"Q3",65.01
+"Construction","Latvia",2011,"Q4",63.6
+"Construction","Latvia",2012,"Q1",54.42
+"Construction","Latvia",2012,"Q2",61.58
+"Construction","Latvia",2012,"Q3",65.72
+"Construction","Latvia",2012,"Q4",61.52
+"Construction","Latvia",2013,"Q1",55.64
+"Construction","Latvia",2013,"Q2",66.39
+"Construction","Latvia",2013,"Q3",73.13
+"Construction","Latvia",2013,"Q4",63.08
+"Construction","Latvia",2014,"Q1",63.12
+"Construction","Latvia",2014,"Q2",70.98
+"Construction","Latvia",2014,"Q3",68.43
+"Construction","Latvia",2014,"Q4",64.32
+"Construction","Latvia",2015,"Q1",72.11
+"Construction","Latvia",2015,"Q2",68.45
+"Construction","Latvia",2015,"Q3",61.8
+"Construction","Latvia",2015,"Q4",59.64
+"Construction","Latvia",2016,"Q1",60.8
+"Construction","Latvia",2016,"Q2",61.13
+"Construction","Latvia",2016,"Q3",57.64
+"Construction","Latvia",2016,"Q4",61.35
+"Construction","Latvia",2017,"Q1",61.63
+"Construction","Latvia",2017,"Q2",64.09
+"Construction","Latvia",2017,"Q3",62.18
+"Construction","Latvia",2017,"Q4",66.12
+"Construction","Latvia",2018,"Q1",69.05
+"Construction","Latvia",2018,"Q2",70.23
+"Construction","Latvia",2018,"Q3",66.21
+"Construction","Latvia",2018,"Q4",72.32
+"Construction","Latvia",2019,"Q1",64.56
+"Construction","Latvia",2019,"Q2",65.48
+"Construction","Latvia",2019,"Q3",61.24
+"Construction","Latvia",2019,"Q4",64.6
+"Construction","Latvia",2021,"Q1",62.38
+"Construction","Latvia",2021,"Q2",63.34
+"Construction","Latvia",2021,"Q3",56.78
+"Construction","Latvia",2021,"Q4",61.13
+"Construction","Latvia",2022,"Q1",68.47
+"Construction","Latvia",2022,"Q2",57.95
+"Construction","Latvia",2022,"Q3",60.14
+"Construction","Latvia",2022,"Q4",62.96
+"Construction","Latvia",2023,"Q1",69.29
+"Construction","Latvia",2023,"Q2",59.44
+"Construction","Latvia",2023,"Q3",60.47
+"Construction","Latvia",2023,"Q4",63.41
+"Construction","Latvia",2024,"Q1",66.12
+"Construction","Latvia",2024,"Q2",55.82
+"Construction","Latvia",2024,"Q3",57.24
+"Construction","Malta",2010,"Q1",11.01
+"Construction","Malta",2010,"Q2",10.93
+"Construction","Malta",2010,"Q3",10.91
+"Construction","Malta",2010,"Q4",10.75
+"Construction","Malta",2011,"Q1",10.99
+"Construction","Malta",2011,"Q2",11
+"Construction","Malta",2011,"Q3",10.91
+"Construction","Malta",2011,"Q4",10.87
+"Construction","Malta",2012,"Q1",10.84
+"Construction","Malta",2012,"Q2",10.87
+"Construction","Malta",2012,"Q3",10.74
+"Construction","Malta",2012,"Q4",10.69
+"Construction","Malta",2013,"Q1",10.59
+"Construction","Malta",2013,"Q2",10.55
+"Construction","Malta",2013,"Q3",10.63
+"Construction","Malta",2013,"Q4",10.7
+"Construction","Malta",2014,"Q1",10.63
+"Construction","Malta",2014,"Q2",10.67
+"Construction","Malta",2014,"Q3",10.66
+"Construction","Malta",2014,"Q4",10.7
+"Construction","Malta",2015,"Q1",11.27
+"Construction","Malta",2015,"Q2",11.27
+"Construction","Malta",2015,"Q3",11.2
+"Construction","Malta",2015,"Q4",11.2
+"Construction","Malta",2016,"Q1",11.29
+"Construction","Malta",2016,"Q2",11.41
+"Construction","Malta",2016,"Q3",11.43
+"Construction","Malta",2016,"Q4",11.44
+"Construction","Malta",2017,"Q1",11.39
+"Construction","Malta",2017,"Q2",11.61
+"Construction","Malta",2017,"Q3",11.69
+"Construction","Malta",2017,"Q4",11.6
+"Construction","Malta",2018,"Q1",11.98
+"Construction","Malta",2018,"Q2",12.24
+"Construction","Malta",2018,"Q3",12.29
+"Construction","Malta",2018,"Q4",12.65
+"Construction","Malta",2019,"Q1",13.47
+"Construction","Malta",2019,"Q2",14.01
+"Construction","Malta",2019,"Q3",14.38
+"Construction","Malta",2019,"Q4",15.08
+"Construction","Malta",2021,"Q1",16.1
+"Construction","Malta",2021,"Q2",16.57
+"Construction","Malta",2021,"Q3",16.82
+"Construction","Malta",2021,"Q4",16.87
+"Construction","Malta",2022,"Q1",16.71
+"Construction","Malta",2022,"Q2",17.25
+"Construction","Malta",2022,"Q3",17.53
+"Construction","Malta",2022,"Q4",17.9
+"Construction","Malta",2023,"Q1",18.37
+"Construction","Malta",2023,"Q2",18.3
+"Construction","Malta",2023,"Q3",18.47
+"Construction","Malta",2023,"Q4",18.84
+"Construction","Malta",2024,"Q1",19.36
+"Construction","Malta",2024,"Q2",19.3
+"Construction","Malta",2024,"Q3",19.37
+"Construction","Netherlands",2010,"Q1",520
+"Construction","Netherlands",2010,"Q2",511
+"Construction","Netherlands",2010,"Q3",510
+"Construction","Netherlands",2010,"Q4",507
+"Construction","Netherlands",2011,"Q1",513
+"Construction","Netherlands",2011,"Q2",511
+"Construction","Netherlands",2011,"Q3",512
+"Construction","Netherlands",2011,"Q4",506
+"Construction","Netherlands",2012,"Q1",505
+"Construction","Netherlands",2012,"Q2",505
+"Construction","Netherlands",2012,"Q3",495
+"Construction","Netherlands",2012,"Q4",485
+"Construction","Netherlands",2013,"Q1",470
+"Construction","Netherlands",2013,"Q2",467
+"Construction","Netherlands",2013,"Q3",466
+"Construction","Netherlands",2013,"Q4",463
+"Construction","Netherlands",2014,"Q1",459
+"Construction","Netherlands",2014,"Q2",460
+"Construction","Netherlands",2014,"Q3",444
+"Construction","Netherlands",2014,"Q4",454
+"Construction","Netherlands",2015,"Q1",450
+"Construction","Netherlands",2015,"Q2",447
+"Construction","Netherlands",2015,"Q3",447
+"Construction","Netherlands",2015,"Q4",450
+"Construction","Netherlands",2016,"Q1",447
+"Construction","Netherlands",2016,"Q2",455
+"Construction","Netherlands",2016,"Q3",457
+"Construction","Netherlands",2016,"Q4",447
+"Construction","Netherlands",2017,"Q1",458
+"Construction","Netherlands",2017,"Q2",477
+"Construction","Netherlands",2017,"Q3",460
+"Construction","Netherlands",2017,"Q4",473
+"Construction","Netherlands",2018,"Q1",488
+"Construction","Netherlands",2018,"Q2",485
+"Construction","Netherlands",2018,"Q3",492
+"Construction","Netherlands",2018,"Q4",491
+"Construction","Netherlands",2019,"Q1",502
+"Construction","Netherlands",2019,"Q2",518
+"Construction","Netherlands",2019,"Q3",514
+"Construction","Netherlands",2019,"Q4",522
+"Construction","Netherlands",2021,"Q1",547
+"Construction","Netherlands",2021,"Q2",547
+"Construction","Netherlands",2021,"Q3",552
+"Construction","Netherlands",2021,"Q4",544
+"Construction","Netherlands",2022,"Q1",557
+"Construction","Netherlands",2022,"Q2",573
+"Construction","Netherlands",2022,"Q3",585
+"Construction","Netherlands",2022,"Q4",586
+"Construction","Netherlands",2023,"Q1",580
+"Construction","Netherlands",2023,"Q2",584
+"Construction","Netherlands",2023,"Q3",608
+"Construction","Netherlands",2023,"Q4",597
+"Construction","Netherlands",2024,"Q1",593
+"Construction","Netherlands",2024,"Q2",600
+"Construction","Netherlands",2024,"Q3",604
+"Construction","Portugal",2010,"Q1",437.95
+"Construction","Portugal",2010,"Q2",436.35
+"Construction","Portugal",2010,"Q3",440.73
+"Construction","Portugal",2010,"Q4",430.48
+"Construction","Portugal",2011,"Q1",414.3
+"Construction","Portugal",2011,"Q2",409.56
+"Construction","Portugal",2011,"Q3",397.32
+"Construction","Portugal",2011,"Q4",370.14
+"Construction","Portugal",2012,"Q1",341.34
+"Construction","Portugal",2012,"Q2",326.03
+"Construction","Portugal",2012,"Q3",310.75
+"Construction","Portugal",2012,"Q4",295.24
+"Construction","Portugal",2013,"Q1",283.59
+"Construction","Portugal",2013,"Q2",286.06
+"Construction","Portugal",2013,"Q3",288.61
+"Construction","Portugal",2013,"Q4",287.43
+"Construction","Portugal",2014,"Q1",273.68
+"Construction","Portugal",2014,"Q2",274.55
+"Construction","Portugal",2014,"Q3",276.51
+"Construction","Portugal",2014,"Q4",273.7
+"Construction","Portugal",2015,"Q1",271.85
+"Construction","Portugal",2015,"Q2",278.8
+"Construction","Portugal",2015,"Q3",280.37
+"Construction","Portugal",2015,"Q4",281.89
+"Construction","Portugal",2016,"Q1",278.38
+"Construction","Portugal",2016,"Q2",283.46
+"Construction","Portugal",2016,"Q3",289.11
+"Construction","Portugal",2016,"Q4",291.23
+"Construction","Portugal",2017,"Q1",292.66
+"Construction","Portugal",2017,"Q2",298.03
+"Construction","Portugal",2017,"Q3",300.91
+"Construction","Portugal",2017,"Q4",305.8
+"Construction","Portugal",2018,"Q1",309.3
+"Construction","Portugal",2018,"Q2",312.54
+"Construction","Portugal",2018,"Q3",314.55
+"Construction","Portugal",2018,"Q4",318.92
+"Construction","Portugal",2019,"Q1",322.57
+"Construction","Portugal",2019,"Q2",327.47
+"Construction","Portugal",2019,"Q3",329.33
+"Construction","Portugal",2019,"Q4",331.46
+"Construction","Portugal",2021,"Q1",335.9
+"Construction","Portugal",2021,"Q2",348.7
+"Construction","Portugal",2021,"Q3",349.57
+"Construction","Portugal",2021,"Q4",352.23
+"Construction","Portugal",2022,"Q1",365.15
+"Construction","Portugal",2022,"Q2",367.59
+"Construction","Portugal",2022,"Q3",375.55
+"Construction","Portugal",2022,"Q4",376.61
+"Construction","Portugal",2023,"Q1",384.03
+"Construction","Portugal",2023,"Q2",389.31
+"Construction","Portugal",2023,"Q3",392.34
+"Construction","Portugal",2023,"Q4",397.49
+"Construction","Portugal",2024,"Q1",403.49
+"Construction","Portugal",2024,"Q2",400.42
+"Construction","Portugal",2024,"Q3",403.6
+"Construction","Slovenia",2010,"Q1",85.9
+"Construction","Slovenia",2010,"Q2",83.87
+"Construction","Slovenia",2010,"Q3",82.82
+"Construction","Slovenia",2010,"Q4",79.3
+"Construction","Slovenia",2011,"Q1",74.78
+"Construction","Slovenia",2011,"Q2",73.71
+"Construction","Slovenia",2011,"Q3",73.67
+"Construction","Slovenia",2011,"Q4",70.77
+"Construction","Slovenia",2012,"Q1",67.88
+"Construction","Slovenia",2012,"Q2",68.95
+"Construction","Slovenia",2012,"Q3",68.37
+"Construction","Slovenia",2012,"Q4",65.58
+"Construction","Slovenia",2013,"Q1",60.53
+"Construction","Slovenia",2013,"Q2",62.76
+"Construction","Slovenia",2013,"Q3",64.65
+"Construction","Slovenia",2013,"Q4",63.9
+"Construction","Slovenia",2014,"Q1",59.7
+"Construction","Slovenia",2014,"Q2",62.38
+"Construction","Slovenia",2014,"Q3",63.89
+"Construction","Slovenia",2014,"Q4",63.19
+"Construction","Slovenia",2015,"Q1",59.65
+"Construction","Slovenia",2015,"Q2",63.22
+"Construction","Slovenia",2015,"Q3",64.44
+"Construction","Slovenia",2015,"Q4",63.34
+"Construction","Slovenia",2016,"Q1",59.23
+"Construction","Slovenia",2016,"Q2",62.64
+"Construction","Slovenia",2016,"Q3",63.62
+"Construction","Slovenia",2016,"Q4",63.11
+"Construction","Slovenia",2017,"Q1",59.89
+"Construction","Slovenia",2017,"Q2",63.79
+"Construction","Slovenia",2017,"Q3",65.22
+"Construction","Slovenia",2017,"Q4",65.31
+"Construction","Slovenia",2018,"Q1",63.55
+"Construction","Slovenia",2018,"Q2",67.36
+"Construction","Slovenia",2018,"Q3",69.48
+"Construction","Slovenia",2018,"Q4",70.24
+"Construction","Slovenia",2019,"Q1",69.8
+"Construction","Slovenia",2019,"Q2",74.29
+"Construction","Slovenia",2019,"Q3",75.55
+"Construction","Slovenia",2019,"Q4",75.5
+"Construction","Slovenia",2021,"Q1",76
+"Construction","Slovenia",2021,"Q2",78.25
+"Construction","Slovenia",2021,"Q3",80.23
+"Construction","Slovenia",2021,"Q4",81.13
+"Construction","Slovenia",2022,"Q1",81.56
+"Construction","Slovenia",2022,"Q2",84.35
+"Construction","Slovenia",2022,"Q3",85.86
+"Construction","Slovenia",2022,"Q4",86.55
+"Construction","Slovenia",2023,"Q1",85.67
+"Construction","Slovenia",2023,"Q2",87.21
+"Construction","Slovenia",2023,"Q3",87.49
+"Construction","Slovenia",2023,"Q4",87.4
+"Construction","Slovenia",2024,"Q1",86.21
+"Construction","Slovenia",2024,"Q2",87.22
+"Construction","Slovenia",2024,"Q3",86.62
+"Construction","Slovakia",2010,"Q1",183.13
+"Construction","Slovakia",2010,"Q2",184.93
+"Construction","Slovakia",2010,"Q3",185.85
+"Construction","Slovakia",2010,"Q4",186.63
+"Construction","Slovakia",2011,"Q1",175.52
+"Construction","Slovakia",2011,"Q2",177.65
+"Construction","Slovakia",2011,"Q3",182.18
+"Construction","Slovakia",2011,"Q4",178.82
+"Construction","Slovakia",2012,"Q1",170.2
+"Construction","Slovakia",2012,"Q2",173.43
+"Construction","Slovakia",2012,"Q3",175.08
+"Construction","Slovakia",2012,"Q4",171.84
+"Construction","Slovakia",2013,"Q1",163.74
+"Construction","Slovakia",2013,"Q2",167.01
+"Construction","Slovakia",2013,"Q3",169.64
+"Construction","Slovakia",2013,"Q4",170
+"Construction","Slovakia",2014,"Q1",162.6
+"Construction","Slovakia",2014,"Q2",162.29
+"Construction","Slovakia",2014,"Q3",165.99
+"Construction","Slovakia",2014,"Q4",166.26
+"Construction","Slovakia",2015,"Q1",159.84
+"Construction","Slovakia",2015,"Q2",160.58
+"Construction","Slovakia",2015,"Q3",164.69
+"Construction","Slovakia",2015,"Q4",164.4
+"Construction","Slovakia",2016,"Q1",163.17
+"Construction","Slovakia",2016,"Q2",163.55
+"Construction","Slovakia",2016,"Q3",165.51
+"Construction","Slovakia",2016,"Q4",167.54
+"Construction","Slovakia",2017,"Q1",166.53
+"Construction","Slovakia",2017,"Q2",166.41
+"Construction","Slovakia",2017,"Q3",171.23
+"Construction","Slovakia",2017,"Q4",173.2
+"Construction","Slovakia",2018,"Q1",170.18
+"Construction","Slovakia",2018,"Q2",170.96
+"Construction","Slovakia",2018,"Q3",174.58
+"Construction","Slovakia",2018,"Q4",177.02
+"Construction","Slovakia",2019,"Q1",177.75
+"Construction","Slovakia",2019,"Q2",180.46
+"Construction","Slovakia",2019,"Q3",184.67
+"Construction","Slovakia",2019,"Q4",187.23
+"Construction","Slovakia",2021,"Q1",180.43
+"Construction","Slovakia",2021,"Q2",179.96
+"Construction","Slovakia",2021,"Q3",185.7
+"Construction","Slovakia",2021,"Q4",183.89
+"Construction","Slovakia",2022,"Q1",184.24
+"Construction","Slovakia",2022,"Q2",185.39
+"Construction","Slovakia",2022,"Q3",190.93
+"Construction","Slovakia",2022,"Q4",188.25
+"Construction","Slovakia",2023,"Q1",186.83
+"Construction","Slovakia",2023,"Q2",188.47
+"Construction","Slovakia",2023,"Q3",194.51
+"Construction","Slovakia",2023,"Q4",193.81
+"Construction","Slovakia",2024,"Q1",189.07
+"Construction","Slovakia",2024,"Q2",190.59
+"Construction","Slovakia",2024,"Q3",197.24
+"Industry (except construction)","Austria",2010,"Q1",658.94
+"Industry (except construction)","Austria",2010,"Q2",665.65
+"Industry (except construction)","Austria",2010,"Q3",684.35
+"Industry (except construction)","Austria",2010,"Q4",679.18
+"Industry (except construction)","Austria",2011,"Q1",664.69
+"Industry (except construction)","Austria",2011,"Q2",675
+"Industry (except construction)","Austria",2011,"Q3",695.63
+"Industry (except construction)","Austria",2011,"Q4",689.52
+"Industry (except construction)","Austria",2012,"Q1",675.2
+"Industry (except construction)","Austria",2012,"Q2",681.88
+"Industry (except construction)","Austria",2012,"Q3",700.45
+"Industry (except construction)","Austria",2012,"Q4",695.1
+"Industry (except construction)","Austria",2013,"Q1",675.43
+"Industry (except construction)","Austria",2013,"Q2",684.98
+"Industry (except construction)","Austria",2013,"Q3",702.02
+"Industry (except construction)","Austria",2013,"Q4",693.46
+"Industry (except construction)","Austria",2014,"Q1",683.51
+"Industry (except construction)","Austria",2014,"Q2",688.34
+"Industry (except construction)","Austria",2014,"Q3",700.88
+"Industry (except construction)","Austria",2014,"Q4",690.42
+"Industry (except construction)","Austria",2015,"Q1",681.87
+"Industry (except construction)","Austria",2015,"Q2",689.61
+"Industry (except construction)","Austria",2015,"Q3",704.65
+"Industry (except construction)","Austria",2015,"Q4",696.38
+"Industry (except construction)","Austria",2016,"Q1",687.7
+"Industry (except construction)","Austria",2016,"Q2",696.31
+"Industry (except construction)","Austria",2016,"Q3",711.68
+"Industry (except construction)","Austria",2016,"Q4",702.78
+"Industry (except construction)","Austria",2017,"Q1",692.7
+"Industry (except construction)","Austria",2017,"Q2",701.45
+"Industry (except construction)","Austria",2017,"Q3",715.98
+"Industry (except construction)","Austria",2017,"Q4",710.19
+"Industry (except construction)","Austria",2018,"Q1",709.34
+"Industry (except construction)","Austria",2018,"Q2",718.86
+"Industry (except construction)","Austria",2018,"Q3",733.54
+"Industry (except construction)","Austria",2018,"Q4",726.21
+"Industry (except construction)","Austria",2019,"Q1",724.45
+"Industry (except construction)","Austria",2019,"Q2",732.93
+"Industry (except construction)","Austria",2019,"Q3",744.61
+"Industry (except construction)","Austria",2019,"Q4",737.76
+"Industry (except construction)","Austria",2021,"Q1",722.94
+"Industry (except construction)","Austria",2021,"Q2",729.28
+"Industry (except construction)","Austria",2021,"Q3",742.33
+"Industry (except construction)","Austria",2021,"Q4",738.14
+"Industry (except construction)","Austria",2022,"Q1",736.9
+"Industry (except construction)","Austria",2022,"Q2",745.79
+"Industry (except construction)","Austria",2022,"Q3",759.42
+"Industry (except construction)","Austria",2022,"Q4",755.86
+"Industry (except construction)","Austria",2023,"Q1",751.89
+"Industry (except construction)","Austria",2023,"Q2",756.96
+"Industry (except construction)","Austria",2023,"Q3",764.18
+"Industry (except construction)","Austria",2023,"Q4",756.53
+"Industry (except construction)","Austria",2024,"Q1",748.42
+"Industry (except construction)","Austria",2024,"Q2",748.51
+"Industry (except construction)","Austria",2024,"Q3",754.39
+"Industry (except construction)","Belgium",2010,"Q1",591.3
+"Industry (except construction)","Belgium",2010,"Q2",588.7
+"Industry (except construction)","Belgium",2010,"Q3",591.6
+"Industry (except construction)","Belgium",2010,"Q4",588.8
+"Industry (except construction)","Belgium",2011,"Q1",592.1
+"Industry (except construction)","Belgium",2011,"Q2",592.8
+"Industry (except construction)","Belgium",2011,"Q3",596.5
+"Industry (except construction)","Belgium",2011,"Q4",592.5
+"Industry (except construction)","Belgium",2012,"Q1",588.1
+"Industry (except construction)","Belgium",2012,"Q2",586.6
+"Industry (except construction)","Belgium",2012,"Q3",587.1
+"Industry (except construction)","Belgium",2012,"Q4",580.1
+"Industry (except construction)","Belgium",2013,"Q1",575.9
+"Industry (except construction)","Belgium",2013,"Q2",572.4
+"Industry (except construction)","Belgium",2013,"Q3",572.6
+"Industry (except construction)","Belgium",2013,"Q4",566.6
+"Industry (except construction)","Belgium",2014,"Q1",561.8
+"Industry (except construction)","Belgium",2014,"Q2",559.1
+"Industry (except construction)","Belgium",2014,"Q3",560.5
+"Industry (except construction)","Belgium",2014,"Q4",555.6
+"Industry (except construction)","Belgium",2015,"Q1",545.3
+"Industry (except construction)","Belgium",2015,"Q2",544.8
+"Industry (except construction)","Belgium",2015,"Q3",547.8
+"Industry (except construction)","Belgium",2015,"Q4",544.2
+"Industry (except construction)","Belgium",2016,"Q1",543.4
+"Industry (except construction)","Belgium",2016,"Q2",545.2
+"Industry (except construction)","Belgium",2016,"Q3",549.5
+"Industry (except construction)","Belgium",2016,"Q4",546.3
+"Industry (except construction)","Belgium",2017,"Q1",547.8
+"Industry (except construction)","Belgium",2017,"Q2",549.4
+"Industry (except construction)","Belgium",2017,"Q3",552.3
+"Industry (except construction)","Belgium",2017,"Q4",550.2
+"Industry (except construction)","Belgium",2018,"Q1",549.3
+"Industry (except construction)","Belgium",2018,"Q2",552.2
+"Industry (except construction)","Belgium",2018,"Q3",556.8
+"Industry (except construction)","Belgium",2018,"Q4",554.2
+"Industry (except construction)","Belgium",2019,"Q1",556.2
+"Industry (except construction)","Belgium",2019,"Q2",557.8
+"Industry (except construction)","Belgium",2019,"Q3",561.5
+"Industry (except construction)","Belgium",2019,"Q4",558.3
+"Industry (except construction)","Belgium",2021,"Q1",554.5
+"Industry (except construction)","Belgium",2021,"Q2",555.8
+"Industry (except construction)","Belgium",2021,"Q3",559
+"Industry (except construction)","Belgium",2021,"Q4",558.7
+"Industry (except construction)","Belgium",2022,"Q1",561.1
+"Industry (except construction)","Belgium",2022,"Q2",563.4
+"Industry (except construction)","Belgium",2022,"Q3",566.4
+"Industry (except construction)","Belgium",2022,"Q4",564.4
+"Industry (except construction)","Belgium",2023,"Q1",564.5
+"Industry (except construction)","Belgium",2023,"Q2",564.3
+"Industry (except construction)","Belgium",2023,"Q3",564.1
+"Industry (except construction)","Belgium",2023,"Q4",559.4
+"Industry (except construction)","Belgium",2024,"Q1",557.5
+"Industry (except construction)","Belgium",2024,"Q2",554.4
+"Industry (except construction)","Belgium",2024,"Q3",553
+"Industry (except construction)","Cyprus",2010,"Q1",42.75
+"Industry (except construction)","Cyprus",2010,"Q2",42.66
+"Industry (except construction)","Cyprus",2010,"Q3",41.93
+"Industry (except construction)","Cyprus",2010,"Q4",42.25
+"Industry (except construction)","Cyprus",2011,"Q1",41.77
+"Industry (except construction)","Cyprus",2011,"Q2",41.59
+"Industry (except construction)","Cyprus",2011,"Q3",40.93
+"Industry (except construction)","Cyprus",2011,"Q4",40.42
+"Industry (except construction)","Cyprus",2012,"Q1",40.12
+"Industry (except construction)","Cyprus",2012,"Q2",39.16
+"Industry (except construction)","Cyprus",2012,"Q3",38.38
+"Industry (except construction)","Cyprus",2012,"Q4",37.85
+"Industry (except construction)","Cyprus",2013,"Q1",36.67
+"Industry (except construction)","Cyprus",2013,"Q2",35.45
+"Industry (except construction)","Cyprus",2013,"Q3",34.49
+"Industry (except construction)","Cyprus",2013,"Q4",34.7
+"Industry (except construction)","Cyprus",2014,"Q1",33.64
+"Industry (except construction)","Cyprus",2014,"Q2",33.76
+"Industry (except construction)","Cyprus",2014,"Q3",33.31
+"Industry (except construction)","Cyprus",2014,"Q4",33.64
+"Industry (except construction)","Cyprus",2015,"Q1",33.95
+"Industry (except construction)","Cyprus",2015,"Q2",34.16
+"Industry (except construction)","Cyprus",2015,"Q3",34.34
+"Industry (except construction)","Cyprus",2015,"Q4",34.9
+"Industry (except construction)","Cyprus",2016,"Q1",35.25
+"Industry (except construction)","Cyprus",2016,"Q2",35.84
+"Industry (except construction)","Cyprus",2016,"Q3",35.87
+"Industry (except construction)","Cyprus",2016,"Q4",36.45
+"Industry (except construction)","Cyprus",2017,"Q1",36.53
+"Industry (except construction)","Cyprus",2017,"Q2",37.64
+"Industry (except construction)","Cyprus",2017,"Q3",38.12
+"Industry (except construction)","Cyprus",2017,"Q4",38.76
+"Industry (except construction)","Cyprus",2018,"Q1",37.19
+"Industry (except construction)","Cyprus",2018,"Q2",38.64
+"Industry (except construction)","Cyprus",2018,"Q3",39.2
+"Industry (except construction)","Cyprus",2018,"Q4",39.68
+"Industry (except construction)","Cyprus",2019,"Q1",38.21
+"Industry (except construction)","Cyprus",2019,"Q2",39.13
+"Industry (except construction)","Cyprus",2019,"Q3",39.53
+"Industry (except construction)","Cyprus",2019,"Q4",40
+"Industry (except construction)","Cyprus",2021,"Q1",39.25
+"Industry (except construction)","Cyprus",2021,"Q2",39.57
+"Industry (except construction)","Cyprus",2021,"Q3",39.85
+"Industry (except construction)","Cyprus",2021,"Q4",39.92
+"Industry (except construction)","Cyprus",2022,"Q1",40.16
+"Industry (except construction)","Cyprus",2022,"Q2",40.88
+"Industry (except construction)","Cyprus",2022,"Q3",41.55
+"Industry (except construction)","Cyprus",2022,"Q4",41.61
+"Industry (except construction)","Cyprus",2023,"Q1",41.19
+"Industry (except construction)","Cyprus",2023,"Q2",42.03
+"Industry (except construction)","Cyprus",2023,"Q3",42.29
+"Industry (except construction)","Cyprus",2023,"Q4",42.23
+"Industry (except construction)","Cyprus",2024,"Q1",42.03
+"Industry (except construction)","Cyprus",2024,"Q2",42.6
+"Industry (except construction)","Cyprus",2024,"Q3",43.14
+"Industry (except construction)","Germany",2010,"Q1",7656
+"Industry (except construction)","Germany",2010,"Q2",7668
+"Industry (except construction)","Germany",2010,"Q3",7743
+"Industry (except construction)","Germany",2010,"Q4",7779
+"Industry (except construction)","Germany",2011,"Q1",7751
+"Industry (except construction)","Germany",2011,"Q2",7807
+"Industry (except construction)","Germany",2011,"Q3",7912
+"Industry (except construction)","Germany",2011,"Q4",7970
+"Industry (except construction)","Germany",2012,"Q1",7926
+"Industry (except construction)","Germany",2012,"Q2",7950
+"Industry (except construction)","Germany",2012,"Q3",8028
+"Industry (except construction)","Germany",2012,"Q4",8050
+"Industry (except construction)","Germany",2013,"Q1",7992
+"Industry (except construction)","Germany",2013,"Q2",7990
+"Industry (except construction)","Germany",2013,"Q3",8042
+"Industry (except construction)","Germany",2013,"Q4",8056
+"Industry (except construction)","Germany",2014,"Q1",8000
+"Industry (except construction)","Germany",2014,"Q2",8032
+"Industry (except construction)","Germany",2014,"Q3",8099
+"Industry (except construction)","Germany",2014,"Q4",8121
+"Industry (except construction)","Germany",2015,"Q1",8044
+"Industry (except construction)","Germany",2015,"Q2",8052
+"Industry (except construction)","Germany",2015,"Q3",8112
+"Industry (except construction)","Germany",2015,"Q4",8130
+"Industry (except construction)","Germany",2016,"Q1",8065
+"Industry (except construction)","Germany",2016,"Q2",8079
+"Industry (except construction)","Germany",2016,"Q3",8133
+"Industry (except construction)","Germany",2016,"Q4",8156
+"Industry (except construction)","Germany",2017,"Q1",8112
+"Industry (except construction)","Germany",2017,"Q2",8142
+"Industry (except construction)","Germany",2017,"Q3",8214
+"Industry (except construction)","Germany",2017,"Q4",8257
+"Industry (except construction)","Germany",2018,"Q1",8249
+"Industry (except construction)","Germany",2018,"Q2",8279
+"Industry (except construction)","Germany",2018,"Q3",8363
+"Industry (except construction)","Germany",2018,"Q4",8403
+"Industry (except construction)","Germany",2019,"Q1",8363
+"Industry (except construction)","Germany",2019,"Q2",8364
+"Industry (except construction)","Germany",2019,"Q3",8396
+"Industry (except construction)","Germany",2019,"Q4",8381
+"Industry (except construction)","Germany",2021,"Q1",8074
+"Industry (except construction)","Germany",2021,"Q2",8071
+"Industry (except construction)","Germany",2021,"Q3",8094
+"Industry (except construction)","Germany",2021,"Q4",8121
+"Industry (except construction)","Germany",2022,"Q1",8080
+"Industry (except construction)","Germany",2022,"Q2",8088
+"Industry (except construction)","Germany",2022,"Q3",8123
+"Industry (except construction)","Germany",2022,"Q4",8158
+"Industry (except construction)","Germany",2023,"Q1",8124
+"Industry (except construction)","Germany",2023,"Q2",8132
+"Industry (except construction)","Germany",2023,"Q3",8153
+"Industry (except construction)","Germany",2023,"Q4",8171
+"Industry (except construction)","Germany",2024,"Q1",8107
+"Industry (except construction)","Germany",2024,"Q2",8088
+"Industry (except construction)","Germany",2024,"Q3",8082
+"Industry (except construction)","Euroarea",2010,"Q1",23156.04
+"Industry (except construction)","Euroarea",2010,"Q2",23210.89
+"Industry (except construction)","Euroarea",2010,"Q3",23283.47
+"Industry (except construction)","Euroarea",2010,"Q4",23261.54
+"Industry (except construction)","Euroarea",2011,"Q1",23051.96
+"Industry (except construction)","Euroarea",2011,"Q2",23197.11
+"Industry (except construction)","Euroarea",2011,"Q3",23365.22
+"Industry (except construction)","Euroarea",2011,"Q4",23340.48
+"Industry (except construction)","Euroarea",2012,"Q1",23061.77
+"Industry (except construction)","Euroarea",2012,"Q2",23031.69
+"Industry (except construction)","Euroarea",2012,"Q3",23095.04
+"Industry (except construction)","Euroarea",2012,"Q4",22989.97
+"Industry (except construction)","Euroarea",2013,"Q1",22716.46
+"Industry (except construction)","Euroarea",2013,"Q2",22694.9
+"Industry (except construction)","Euroarea",2013,"Q3",22794.94
+"Industry (except construction)","Euroarea",2013,"Q4",22770.19
+"Industry (except construction)","Euroarea",2014,"Q1",22544
+"Industry (except construction)","Euroarea",2014,"Q2",22656.18
+"Industry (except construction)","Euroarea",2014,"Q3",22755.91
+"Industry (except construction)","Euroarea",2014,"Q4",22766.88
+"Industry (except construction)","Euroarea",2015,"Q1",22464.66
+"Industry (except construction)","Euroarea",2015,"Q2",22631.83
+"Industry (except construction)","Euroarea",2015,"Q3",22814.89
+"Industry (except construction)","Euroarea",2015,"Q4",22846.2
+"Industry (except construction)","Euroarea",2016,"Q1",22680.49
+"Industry (except construction)","Euroarea",2016,"Q2",22845.01
+"Industry (except construction)","Euroarea",2016,"Q3",23036.93
+"Industry (except construction)","Euroarea",2016,"Q4",23040.15
+"Industry (except construction)","Euroarea",2017,"Q1",22863.16
+"Industry (except construction)","Euroarea",2017,"Q2",23041.11
+"Industry (except construction)","Euroarea",2017,"Q3",23286.41
+"Industry (except construction)","Euroarea",2017,"Q4",23307.97
+"Industry (except construction)","Euroarea",2018,"Q1",23231.18
+"Industry (except construction)","Euroarea",2018,"Q2",23448.75
+"Industry (except construction)","Euroarea",2018,"Q3",23619.14
+"Industry (except construction)","Euroarea",2018,"Q4",23672.19
+"Industry (except construction)","Euroarea",2019,"Q1",23633.27
+"Industry (except construction)","Euroarea",2019,"Q2",23767.09
+"Industry (except construction)","Euroarea",2019,"Q3",23904.25
+"Industry (except construction)","Euroarea",2019,"Q4",23820.69
+"Industry (except construction)","Euroarea",2021,"Q1",23120.43
+"Industry (except construction)","Euroarea",2021,"Q2",23271.75
+"Industry (except construction)","Euroarea",2021,"Q3",23467.46
+"Industry (except construction)","Euroarea",2021,"Q4",23591.54
+"Industry (except construction)","Euroarea",2022,"Q1",23474.84
+"Industry (except construction)","Euroarea",2022,"Q2",23578.42
+"Industry (except construction)","Euroarea",2022,"Q3",23739.01
+"Industry (except construction)","Euroarea",2022,"Q4",23792.67
+"Industry (except construction)","Euroarea",2023,"Q1",23749.69
+"Industry (except construction)","Euroarea",2023,"Q2",23831.76
+"Industry (except construction)","Euroarea",2023,"Q3",23926.35
+"Industry (except construction)","Euroarea",2023,"Q4",23908.04
+"Industry (except construction)","Euroarea",2024,"Q1",23782.03
+"Industry (except construction)","Euroarea",2024,"Q2",23957.29
+"Industry (except construction)","Euroarea",2024,"Q3",23986.73
+"Industry (except construction)","Estonia",2010,"Q1",109.5
+"Industry (except construction)","Estonia",2010,"Q2",114.6
+"Industry (except construction)","Estonia",2010,"Q3",127.4
+"Industry (except construction)","Estonia",2010,"Q4",135.6
+"Industry (except construction)","Estonia",2011,"Q1",128.3
+"Industry (except construction)","Estonia",2011,"Q2",126
+"Industry (except construction)","Estonia",2011,"Q3",139.5
+"Industry (except construction)","Estonia",2011,"Q4",145.7
+"Industry (except construction)","Estonia",2012,"Q1",132.6
+"Industry (except construction)","Estonia",2012,"Q2",124.4
+"Industry (except construction)","Estonia",2012,"Q3",130.8
+"Industry (except construction)","Estonia",2012,"Q4",131.4
+"Industry (except construction)","Estonia",2013,"Q1",130
+"Industry (except construction)","Estonia",2013,"Q2",129.7
+"Industry (except construction)","Estonia",2013,"Q3",130.2
+"Industry (except construction)","Estonia",2013,"Q4",124.4
+"Industry (except construction)","Estonia",2014,"Q1",120.7
+"Industry (except construction)","Estonia",2014,"Q2",128.7
+"Industry (except construction)","Estonia",2014,"Q3",126.9
+"Industry (except construction)","Estonia",2014,"Q4",130.3
+"Industry (except construction)","Estonia",2015,"Q1",130.3
+"Industry (except construction)","Estonia",2015,"Q2",133.9
+"Industry (except construction)","Estonia",2015,"Q3",133.1
+"Industry (except construction)","Estonia",2015,"Q4",128.5
+"Industry (except construction)","Estonia",2016,"Q1",132.7
+"Industry (except construction)","Estonia",2016,"Q2",130.7
+"Industry (except construction)","Estonia",2016,"Q3",130.1
+"Industry (except construction)","Estonia",2016,"Q4",131.1
+"Industry (except construction)","Estonia",2017,"Q1",130.4
+"Industry (except construction)","Estonia",2017,"Q2",133.7
+"Industry (except construction)","Estonia",2017,"Q3",139.1
+"Industry (except construction)","Estonia",2017,"Q4",146.6
+"Industry (except construction)","Estonia",2018,"Q1",143.25
+"Industry (except construction)","Estonia",2018,"Q2",134.56
+"Industry (except construction)","Estonia",2018,"Q3",130.88
+"Industry (except construction)","Estonia",2018,"Q4",142.31
+"Industry (except construction)","Estonia",2019,"Q1",136.64
+"Industry (except construction)","Estonia",2019,"Q2",127.43
+"Industry (except construction)","Estonia",2019,"Q3",134.51
+"Industry (except construction)","Estonia",2019,"Q4",139.17
+"Industry (except construction)","Estonia",2021,"Q1",130.02
+"Industry (except construction)","Estonia",2021,"Q2",125.8
+"Industry (except construction)","Estonia",2021,"Q3",132.8
+"Industry (except construction)","Estonia",2021,"Q4",133.13
+"Industry (except construction)","Estonia",2022,"Q1",134.36
+"Industry (except construction)","Estonia",2022,"Q2",131.42
+"Industry (except construction)","Estonia",2022,"Q3",135.91
+"Industry (except construction)","Estonia",2022,"Q4",136.63
+"Industry (except construction)","Estonia",2023,"Q1",128.8
+"Industry (except construction)","Estonia",2023,"Q2",131.96
+"Industry (except construction)","Estonia",2023,"Q3",134.66
+"Industry (except construction)","Estonia",2023,"Q4",133.59
+"Industry (except construction)","Estonia",2024,"Q1",119.37
+"Industry (except construction)","Estonia",2024,"Q2",120.63
+"Industry (except construction)","Estonia",2024,"Q3",132
+"Industry (except construction)","Greece",2010,"Q1",486.28
+"Industry (except construction)","Greece",2010,"Q2",486.47
+"Industry (except construction)","Greece",2010,"Q3",471.09
+"Industry (except construction)","Greece",2010,"Q4",455.22
+"Industry (except construction)","Greece",2011,"Q1",464.58
+"Industry (except construction)","Greece",2011,"Q2",442.99
+"Industry (except construction)","Greece",2011,"Q3",448.54
+"Industry (except construction)","Greece",2011,"Q4",420.53
+"Industry (except construction)","Greece",2012,"Q1",426.16
+"Industry (except construction)","Greece",2012,"Q2",409.52
+"Industry (except construction)","Greece",2012,"Q3",411.59
+"Industry (except construction)","Greece",2012,"Q4",405.74
+"Industry (except construction)","Greece",2013,"Q1",399.27
+"Industry (except construction)","Greece",2013,"Q2",401.45
+"Industry (except construction)","Greece",2013,"Q3",403.76
+"Industry (except construction)","Greece",2013,"Q4",407.49
+"Industry (except construction)","Greece",2014,"Q1",417.92
+"Industry (except construction)","Greece",2014,"Q2",425.36
+"Industry (except construction)","Greece",2014,"Q3",415.58
+"Industry (except construction)","Greece",2014,"Q4",409.75
+"Industry (except construction)","Greece",2015,"Q1",389.2
+"Industry (except construction)","Greece",2015,"Q2",385.91
+"Industry (except construction)","Greece",2015,"Q3",398.75
+"Industry (except construction)","Greece",2015,"Q4",391.62
+"Industry (except construction)","Greece",2016,"Q1",401.35
+"Industry (except construction)","Greece",2016,"Q2",414.88
+"Industry (except construction)","Greece",2016,"Q3",418.72
+"Industry (except construction)","Greece",2016,"Q4",399.4
+"Industry (except construction)","Greece",2017,"Q1",403.52
+"Industry (except construction)","Greece",2017,"Q2",402.39
+"Industry (except construction)","Greece",2017,"Q3",401.44
+"Industry (except construction)","Greece",2017,"Q4",401.68
+"Industry (except construction)","Greece",2018,"Q1",419.77
+"Industry (except construction)","Greece",2018,"Q2",427.19
+"Industry (except construction)","Greece",2018,"Q3",427.9
+"Industry (except construction)","Greece",2018,"Q4",417.7
+"Industry (except construction)","Greece",2019,"Q1",425.32
+"Industry (except construction)","Greece",2019,"Q2",430.9
+"Industry (except construction)","Greece",2019,"Q3",432.29
+"Industry (except construction)","Greece",2019,"Q4",418.47
+"Industry (except construction)","Greece",2021,"Q1",438.2
+"Industry (except construction)","Greece",2021,"Q2",444.87
+"Industry (except construction)","Greece",2021,"Q3",466.7
+"Industry (except construction)","Greece",2021,"Q4",467.4
+"Industry (except construction)","Greece",2022,"Q1",463.85
+"Industry (except construction)","Greece",2022,"Q2",463.47
+"Industry (except construction)","Greece",2022,"Q3",469.28
+"Industry (except construction)","Greece",2022,"Q4",473.88
+"Industry (except construction)","Greece",2023,"Q1",479.28
+"Industry (except construction)","Greece",2023,"Q2",478.68
+"Industry (except construction)","Greece",2023,"Q3",480.12
+"Industry (except construction)","Greece",2023,"Q4",476.23
+"Industry (except construction)","Greece",2024,"Q1",488.27
+"Industry (except construction)","Greece",2024,"Q2",484.37
+"Industry (except construction)","Greece",2024,"Q3",494.12
+"Industry (except construction)","Spain",2010,"Q1",2472.8
+"Industry (except construction)","Spain",2010,"Q2",2499.4
+"Industry (except construction)","Spain",2010,"Q3",2478.7
+"Industry (except construction)","Spain",2010,"Q4",2493.9
+"Industry (except construction)","Spain",2011,"Q1",2378.8
+"Industry (except construction)","Spain",2011,"Q2",2416.6
+"Industry (except construction)","Spain",2011,"Q3",2402.4
+"Industry (except construction)","Spain",2011,"Q4",2391
+"Industry (except construction)","Spain",2012,"Q1",2259.2
+"Industry (except construction)","Spain",2012,"Q2",2241.9
+"Industry (except construction)","Spain",2012,"Q3",2229.3
+"Industry (except construction)","Spain",2012,"Q4",2213.6
+"Industry (except construction)","Spain",2013,"Q1",2123.9
+"Industry (except construction)","Spain",2013,"Q2",2124.5
+"Industry (except construction)","Spain",2013,"Q3",2139.4
+"Industry (except construction)","Spain",2013,"Q4",2137
+"Industry (except construction)","Spain",2014,"Q1",2060.3
+"Industry (except construction)","Spain",2014,"Q2",2090.2
+"Industry (except construction)","Spain",2014,"Q3",2139.4
+"Industry (except construction)","Spain",2014,"Q4",2157.7
+"Industry (except construction)","Spain",2015,"Q1",2095.9
+"Industry (except construction)","Spain",2015,"Q2",2154.7
+"Industry (except construction)","Spain",2015,"Q3",2205.7
+"Industry (except construction)","Spain",2015,"Q4",2214.5
+"Industry (except construction)","Spain",2016,"Q1",2174.5
+"Industry (except construction)","Spain",2016,"Q2",2227.4
+"Industry (except construction)","Spain",2016,"Q3",2282.9
+"Industry (except construction)","Spain",2016,"Q4",2300.8
+"Industry (except construction)","Spain",2017,"Q1",2227.8
+"Industry (except construction)","Spain",2017,"Q2",2277.9
+"Industry (except construction)","Spain",2017,"Q3",2335
+"Industry (except construction)","Spain",2017,"Q4",2364.9
+"Industry (except construction)","Spain",2018,"Q1",2307
+"Industry (except construction)","Spain",2018,"Q2",2350.7
+"Industry (except construction)","Spain",2018,"Q3",2371.5
+"Industry (except construction)","Spain",2018,"Q4",2368
+"Industry (except construction)","Spain",2019,"Q1",2343.9
+"Industry (except construction)","Spain",2019,"Q2",2405.4
+"Industry (except construction)","Spain",2019,"Q3",2468.4
+"Industry (except construction)","Spain",2019,"Q4",2446.3
+"Industry (except construction)","Spain",2021,"Q1",2273.1
+"Industry (except construction)","Spain",2021,"Q2",2300.1
+"Industry (except construction)","Spain",2021,"Q3",2369.1
+"Industry (except construction)","Spain",2021,"Q4",2396.9
+"Industry (except construction)","Spain",2022,"Q1",2299.7
+"Industry (except construction)","Spain",2022,"Q2",2377.6
+"Industry (except construction)","Spain",2022,"Q3",2421.1
+"Industry (except construction)","Spain",2022,"Q4",2425.6
+"Industry (except construction)","Spain",2023,"Q1",2381
+"Industry (except construction)","Spain",2023,"Q2",2390.8
+"Industry (except construction)","Spain",2023,"Q3",2449.3
+"Industry (except construction)","Spain",2023,"Q4",2464.1
+"Industry (except construction)","Spain",2024,"Q1",2386.6
+"Industry (except construction)","Spain",2024,"Q2",2509.9
+"Industry (except construction)","Spain",2024,"Q3",2502.7
+"Industry (except construction)","Finland",2010,"Q1",391.2
+"Industry (except construction)","Finland",2010,"Q2",409.6
+"Industry (except construction)","Finland",2010,"Q3",399.2
+"Industry (except construction)","Finland",2010,"Q4",392.4
+"Industry (except construction)","Finland",2011,"Q1",386.8
+"Industry (except construction)","Finland",2011,"Q2",404.4
+"Industry (except construction)","Finland",2011,"Q3",418.8
+"Industry (except construction)","Finland",2011,"Q4",401.2
+"Industry (except construction)","Finland",2012,"Q1",398
+"Industry (except construction)","Finland",2012,"Q2",414
+"Industry (except construction)","Finland",2012,"Q3",407.2
+"Industry (except construction)","Finland",2012,"Q4",389.6
+"Industry (except construction)","Finland",2013,"Q1",384.8
+"Industry (except construction)","Finland",2013,"Q2",398.4
+"Industry (except construction)","Finland",2013,"Q3",389.6
+"Industry (except construction)","Finland",2013,"Q4",381.2
+"Industry (except construction)","Finland",2014,"Q1",374.8
+"Industry (except construction)","Finland",2014,"Q2",386
+"Industry (except construction)","Finland",2014,"Q3",378.8
+"Industry (except construction)","Finland",2014,"Q4",373.6
+"Industry (except construction)","Finland",2015,"Q1",368
+"Industry (except construction)","Finland",2015,"Q2",374.8
+"Industry (except construction)","Finland",2015,"Q3",378.4
+"Industry (except construction)","Finland",2015,"Q4",368.8
+"Industry (except construction)","Finland",2016,"Q1",358.8
+"Industry (except construction)","Finland",2016,"Q2",374
+"Industry (except construction)","Finland",2016,"Q3",376.4
+"Industry (except construction)","Finland",2016,"Q4",368.8
+"Industry (except construction)","Finland",2017,"Q1",354.4
+"Industry (except construction)","Finland",2017,"Q2",373.2
+"Industry (except construction)","Finland",2017,"Q3",380.4
+"Industry (except construction)","Finland",2017,"Q4",372
+"Industry (except construction)","Finland",2018,"Q1",363.6
+"Industry (except construction)","Finland",2018,"Q2",376
+"Industry (except construction)","Finland",2018,"Q3",382.4
+"Industry (except construction)","Finland",2018,"Q4",384
+"Industry (except construction)","Finland",2019,"Q1",362.4
+"Industry (except construction)","Finland",2019,"Q2",388.8
+"Industry (except construction)","Finland",2019,"Q3",387.6
+"Industry (except construction)","Finland",2019,"Q4",376
+"Industry (except construction)","Finland",2021,"Q1",359.2
+"Industry (except construction)","Finland",2021,"Q2",383.2
+"Industry (except construction)","Finland",2021,"Q3",377.6
+"Industry (except construction)","Finland",2021,"Q4",374.8
+"Industry (except construction)","Finland",2022,"Q1",368.8
+"Industry (except construction)","Finland",2022,"Q2",383.2
+"Industry (except construction)","Finland",2022,"Q3",388.4
+"Industry (except construction)","Finland",2022,"Q4",392
+"Industry (except construction)","Finland",2023,"Q1",383.6
+"Industry (except construction)","Finland",2023,"Q2",395.2
+"Industry (except construction)","Finland",2023,"Q3",383.6
+"Industry (except construction)","Finland",2023,"Q4",373.2
+"Industry (except construction)","Finland",2024,"Q1",371.1
+"Industry (except construction)","Finland",2024,"Q2",381.7
+"Industry (except construction)","Finland",2024,"Q3",371.5
+"Industry (except construction)","France",2010,"Q1",3074.5
+"Industry (except construction)","France",2010,"Q2",3055.6
+"Industry (except construction)","France",2010,"Q3",3047.7
+"Industry (except construction)","France",2010,"Q4",3030.5
+"Industry (except construction)","France",2011,"Q1",3023.7
+"Industry (except construction)","France",2011,"Q2",3035.7
+"Industry (except construction)","France",2011,"Q3",3045.4
+"Industry (except construction)","France",2011,"Q4",3035.1
+"Industry (except construction)","France",2012,"Q1",3021.5
+"Industry (except construction)","France",2012,"Q2",3024.7
+"Industry (except construction)","France",2012,"Q3",3029.6
+"Industry (except construction)","France",2012,"Q4",3016.4
+"Industry (except construction)","France",2013,"Q1",3000.1
+"Industry (except construction)","France",2013,"Q2",2998
+"Industry (except construction)","France",2013,"Q3",2998.4
+"Industry (except construction)","France",2013,"Q4",2989.8
+"Industry (except construction)","France",2014,"Q1",2984.8
+"Industry (except construction)","France",2014,"Q2",2989.2
+"Industry (except construction)","France",2014,"Q3",2985.4
+"Industry (except construction)","France",2014,"Q4",2961.6
+"Industry (except construction)","France",2015,"Q1",2935.4
+"Industry (except construction)","France",2015,"Q2",2929.9
+"Industry (except construction)","France",2015,"Q3",2927.9
+"Industry (except construction)","France",2015,"Q4",2915.5
+"Industry (except construction)","France",2016,"Q1",2910.4
+"Industry (except construction)","France",2016,"Q2",2916.9
+"Industry (except construction)","France",2016,"Q3",2920.9
+"Industry (except construction)","France",2016,"Q4",2908
+"Industry (except construction)","France",2017,"Q1",2893.9
+"Industry (except construction)","France",2017,"Q2",2897.4
+"Industry (except construction)","France",2017,"Q3",2897.7
+"Industry (except construction)","France",2017,"Q4",2886.6
+"Industry (except construction)","France",2018,"Q1",2877.7
+"Industry (except construction)","France",2018,"Q2",2887.2
+"Industry (except construction)","France",2018,"Q3",2903.1
+"Industry (except construction)","France",2018,"Q4",2918.4
+"Industry (except construction)","France",2019,"Q1",2950.3
+"Industry (except construction)","France",2019,"Q2",2983.6
+"Industry (except construction)","France",2019,"Q3",3002.1
+"Industry (except construction)","France",2019,"Q4",3002.6
+"Industry (except construction)","France",2021,"Q1",2972.5
+"Industry (except construction)","France",2021,"Q2",2990.4
+"Industry (except construction)","France",2021,"Q3",3007.6
+"Industry (except construction)","France",2021,"Q4",3017.6
+"Industry (except construction)","France",2022,"Q1",3024.8
+"Industry (except construction)","France",2022,"Q2",3036.9
+"Industry (except construction)","France",2022,"Q3",3050.7
+"Industry (except construction)","France",2022,"Q4",3055.9
+"Industry (except construction)","France",2023,"Q1",3058.2
+"Industry (except construction)","France",2023,"Q2",3067.4
+"Industry (except construction)","France",2023,"Q3",3078.3
+"Industry (except construction)","France",2023,"Q4",3085
+"Industry (except construction)","France",2024,"Q1",3090
+"Industry (except construction)","France",2024,"Q2",3097.2
+"Industry (except construction)","France",2024,"Q3",3101.8
+"Industry (except construction)","Croatia",2010,"Q1",322.36
+"Industry (except construction)","Croatia",2010,"Q2",313.46
+"Industry (except construction)","Croatia",2010,"Q3",334.17
+"Industry (except construction)","Croatia",2010,"Q4",353.02
+"Industry (except construction)","Croatia",2011,"Q1",333.21
+"Industry (except construction)","Croatia",2011,"Q2",314.4
+"Industry (except construction)","Croatia",2011,"Q3",328.32
+"Industry (except construction)","Croatia",2011,"Q4",344.52
+"Industry (except construction)","Croatia",2012,"Q1",354.43
+"Industry (except construction)","Croatia",2012,"Q2",320.95
+"Industry (except construction)","Croatia",2012,"Q3",306.29
+"Industry (except construction)","Croatia",2012,"Q4",306.95
+"Industry (except construction)","Croatia",2013,"Q1",315.16
+"Industry (except construction)","Croatia",2013,"Q2",296.73
+"Industry (except construction)","Croatia",2013,"Q3",302.62
+"Industry (except construction)","Croatia",2013,"Q4",311.8
+"Industry (except construction)","Croatia",2014,"Q1",323.76
+"Industry (except construction)","Croatia",2014,"Q2",318.93
+"Industry (except construction)","Croatia",2014,"Q3",304.63
+"Industry (except construction)","Croatia",2014,"Q4",300.64
+"Industry (except construction)","Croatia",2015,"Q1",297.57
+"Industry (except construction)","Croatia",2015,"Q2",320.28
+"Industry (except construction)","Croatia",2015,"Q3",315.09
+"Industry (except construction)","Croatia",2015,"Q4",297.96
+"Industry (except construction)","Croatia",2016,"Q1",298.11
+"Industry (except construction)","Croatia",2016,"Q2",322.66
+"Industry (except construction)","Croatia",2016,"Q3",323.75
+"Industry (except construction)","Croatia",2016,"Q4",298.85
+"Industry (except construction)","Croatia",2017,"Q1",309.88
+"Industry (except construction)","Croatia",2017,"Q2",324.68
+"Industry (except construction)","Croatia",2017,"Q3",326.55
+"Industry (except construction)","Croatia",2017,"Q4",308.41
+"Industry (except construction)","Croatia",2018,"Q1",324.68
+"Industry (except construction)","Croatia",2018,"Q2",345.63
+"Industry (except construction)","Croatia",2018,"Q3",322.97
+"Industry (except construction)","Croatia",2018,"Q4",341.52
+"Industry (except construction)","Croatia",2019,"Q1",353.41
+"Industry (except construction)","Croatia",2019,"Q2",328.9
+"Industry (except construction)","Croatia",2019,"Q3",336.88
+"Industry (except construction)","Croatia",2019,"Q4",340.35
+"Industry (except construction)","Croatia",2021,"Q1",328.05
+"Industry (except construction)","Croatia",2021,"Q2",317.3
+"Industry (except construction)","Croatia",2021,"Q3",346.78
+"Industry (except construction)","Croatia",2021,"Q4",360.62
+"Industry (except construction)","Croatia",2022,"Q1",356.33
+"Industry (except construction)","Croatia",2022,"Q2",343.29
+"Industry (except construction)","Croatia",2022,"Q3",311.48
+"Industry (except construction)","Croatia",2022,"Q4",328.74
+"Industry (except construction)","Croatia",2023,"Q1",336.86
+"Industry (except construction)","Croatia",2023,"Q2",354.55
+"Industry (except construction)","Croatia",2023,"Q3",324.57
+"Industry (except construction)","Croatia",2023,"Q4",314.28
+"Industry (except construction)","Croatia",2024,"Q1",337.78
+"Industry (except construction)","Croatia",2024,"Q2",359.26
+"Industry (except construction)","Croatia",2024,"Q3",348.42
+"Industry (except construction)","Ireland",2010,"Q1",250.04
+"Industry (except construction)","Ireland",2010,"Q2",248.01
+"Industry (except construction)","Ireland",2010,"Q3",249.21
+"Industry (except construction)","Ireland",2010,"Q4",246.28
+"Industry (except construction)","Ireland",2011,"Q1",240.36
+"Industry (except construction)","Ireland",2011,"Q2",240.17
+"Industry (except construction)","Ireland",2011,"Q3",239.89
+"Industry (except construction)","Ireland",2011,"Q4",245.5
+"Industry (except construction)","Ireland",2012,"Q1",236.68
+"Industry (except construction)","Ireland",2012,"Q2",232.15
+"Industry (except construction)","Ireland",2012,"Q3",233.61
+"Industry (except construction)","Ireland",2012,"Q4",241.03
+"Industry (except construction)","Ireland",2013,"Q1",243.31
+"Industry (except construction)","Ireland",2013,"Q2",244.16
+"Industry (except construction)","Ireland",2013,"Q3",250.64
+"Industry (except construction)","Ireland",2013,"Q4",252.91
+"Industry (except construction)","Ireland",2014,"Q1",245.89
+"Industry (except construction)","Ireland",2014,"Q2",245.84
+"Industry (except construction)","Ireland",2014,"Q3",251.55
+"Industry (except construction)","Ireland",2014,"Q4",258.13
+"Industry (except construction)","Ireland",2015,"Q1",260.33
+"Industry (except construction)","Ireland",2015,"Q2",260.96
+"Industry (except construction)","Ireland",2015,"Q3",267.9
+"Industry (except construction)","Ireland",2015,"Q4",265.54
+"Industry (except construction)","Ireland",2016,"Q1",268.16
+"Industry (except construction)","Ireland",2016,"Q2",274.03
+"Industry (except construction)","Ireland",2016,"Q3",286.55
+"Industry (except construction)","Ireland",2016,"Q4",278.99
+"Industry (except construction)","Ireland",2017,"Q1",284.05
+"Industry (except construction)","Ireland",2017,"Q2",281.23
+"Industry (except construction)","Ireland",2017,"Q3",291.41
+"Industry (except construction)","Ireland",2017,"Q4",284.98
+"Industry (except construction)","Ireland",2018,"Q1",281.3
+"Industry (except construction)","Ireland",2018,"Q2",277.68
+"Industry (except construction)","Ireland",2018,"Q3",287.11
+"Industry (except construction)","Ireland",2018,"Q4",279.81
+"Industry (except construction)","Ireland",2019,"Q1",289.59
+"Industry (except construction)","Ireland",2019,"Q2",284.92
+"Industry (except construction)","Ireland",2019,"Q3",296.86
+"Industry (except construction)","Ireland",2019,"Q4",289.13
+"Industry (except construction)","Ireland",2021,"Q1",308.78
+"Industry (except construction)","Ireland",2021,"Q2",316.45
+"Industry (except construction)","Ireland",2021,"Q3",313.04
+"Industry (except construction)","Ireland",2021,"Q4",318.89
+"Industry (except construction)","Ireland",2022,"Q1",321.78
+"Industry (except construction)","Ireland",2022,"Q2",326.79
+"Industry (except construction)","Ireland",2022,"Q3",336.73
+"Industry (except construction)","Ireland",2022,"Q4",328.09
+"Industry (except construction)","Ireland",2023,"Q1",335.61
+"Industry (except construction)","Ireland",2023,"Q2",321.25
+"Industry (except construction)","Ireland",2023,"Q3",326.26
+"Industry (except construction)","Ireland",2023,"Q4",321.35
+"Industry (except construction)","Ireland",2024,"Q1",324.45
+"Industry (except construction)","Ireland",2024,"Q2",343.02
+"Industry (except construction)","Ireland",2024,"Q3",343.68
+"Industry (except construction)","Italy",2010,"Q1",4416
+"Industry (except construction)","Italy",2010,"Q2",4418.3
+"Industry (except construction)","Italy",2010,"Q3",4420.3
+"Industry (except construction)","Italy",2010,"Q4",4377.6
+"Industry (except construction)","Italy",2011,"Q1",4355.5
+"Industry (except construction)","Italy",2011,"Q2",4396.6
+"Industry (except construction)","Italy",2011,"Q3",4393.9
+"Industry (except construction)","Italy",2011,"Q4",4370.4
+"Industry (except construction)","Italy",2012,"Q1",4321.1
+"Industry (except construction)","Italy",2012,"Q2",4323.8
+"Industry (except construction)","Italy",2012,"Q3",4313.3
+"Industry (except construction)","Italy",2012,"Q4",4286.8
+"Industry (except construction)","Italy",2013,"Q1",4207.8
+"Industry (except construction)","Italy",2013,"Q2",4186.8
+"Industry (except construction)","Italy",2013,"Q3",4186.6
+"Industry (except construction)","Italy",2013,"Q4",4181.3
+"Industry (except construction)","Italy",2014,"Q1",4120.9
+"Industry (except construction)","Italy",2014,"Q2",4124.6
+"Industry (except construction)","Italy",2014,"Q3",4104.6
+"Industry (except construction)","Italy",2014,"Q4",4116.6
+"Industry (except construction)","Italy",2015,"Q1",4033.1
+"Industry (except construction)","Italy",2015,"Q2",4066.4
+"Industry (except construction)","Italy",2015,"Q3",4088.5
+"Industry (except construction)","Italy",2015,"Q4",4146
+"Industry (except construction)","Italy",2016,"Q1",4102.6
+"Industry (except construction)","Italy",2016,"Q2",4107.3
+"Industry (except construction)","Italy",2016,"Q3",4125.6
+"Industry (except construction)","Italy",2016,"Q4",4154.6
+"Industry (except construction)","Italy",2017,"Q1",4105.7
+"Industry (except construction)","Italy",2017,"Q2",4131.6
+"Industry (except construction)","Italy",2017,"Q3",4182.5
+"Industry (except construction)","Italy",2017,"Q4",4163.7
+"Industry (except construction)","Italy",2018,"Q1",4127.9
+"Industry (except construction)","Italy",2018,"Q2",4200.1
+"Industry (except construction)","Italy",2018,"Q3",4218.3
+"Industry (except construction)","Italy",2018,"Q4",4212.2
+"Industry (except construction)","Italy",2019,"Q1",4203.8
+"Industry (except construction)","Italy",2019,"Q2",4241.5
+"Industry (except construction)","Italy",2019,"Q3",4233
+"Industry (except construction)","Italy",2019,"Q4",4202.4
+"Industry (except construction)","Italy",2021,"Q1",4100.3
+"Industry (except construction)","Italy",2021,"Q2",4142.7
+"Industry (except construction)","Italy",2021,"Q3",4162
+"Industry (except construction)","Italy",2021,"Q4",4191.9
+"Industry (except construction)","Italy",2022,"Q1",4193.1
+"Industry (except construction)","Italy",2022,"Q2",4187.1
+"Industry (except construction)","Italy",2022,"Q3",4221.6
+"Industry (except construction)","Italy",2022,"Q4",4222.5
+"Industry (except construction)","Italy",2023,"Q1",4250.9
+"Industry (except construction)","Italy",2023,"Q2",4273.6
+"Industry (except construction)","Italy",2023,"Q3",4298.5
+"Industry (except construction)","Italy",2023,"Q4",4297.8
+"Industry (except construction)","Italy",2024,"Q1",4307.3
+"Industry (except construction)","Italy",2024,"Q2",4310
+"Industry (except construction)","Italy",2024,"Q3",4331.2
+"Industry (except construction)","Lithuania",2010,"Q1",217.42
+"Industry (except construction)","Lithuania",2010,"Q2",216.65
+"Industry (except construction)","Lithuania",2010,"Q3",222.94
+"Industry (except construction)","Lithuania",2010,"Q4",224.59
+"Industry (except construction)","Lithuania",2011,"Q1",219.86
+"Industry (except construction)","Lithuania",2011,"Q2",225.72
+"Industry (except construction)","Lithuania",2011,"Q3",223.01
+"Industry (except construction)","Lithuania",2011,"Q4",226.88
+"Industry (except construction)","Lithuania",2012,"Q1",232.41
+"Industry (except construction)","Lithuania",2012,"Q2",230.62
+"Industry (except construction)","Lithuania",2012,"Q3",236.75
+"Industry (except construction)","Lithuania",2012,"Q4",228.52
+"Industry (except construction)","Lithuania",2013,"Q1",239.38
+"Industry (except construction)","Lithuania",2013,"Q2",232.96
+"Industry (except construction)","Lithuania",2013,"Q3",230.63
+"Industry (except construction)","Lithuania",2013,"Q4",226.03
+"Industry (except construction)","Lithuania",2014,"Q1",222.02
+"Industry (except construction)","Lithuania",2014,"Q2",227.56
+"Industry (except construction)","Lithuania",2014,"Q3",232.94
+"Industry (except construction)","Lithuania",2014,"Q4",230.14
+"Industry (except construction)","Lithuania",2015,"Q1",222.73
+"Industry (except construction)","Lithuania",2015,"Q2",228.52
+"Industry (except construction)","Lithuania",2015,"Q3",235.54
+"Industry (except construction)","Lithuania",2015,"Q4",238.21
+"Industry (except construction)","Lithuania",2016,"Q1",233.87
+"Industry (except construction)","Lithuania",2016,"Q2",237.23
+"Industry (except construction)","Lithuania",2016,"Q3",242.15
+"Industry (except construction)","Lithuania",2016,"Q4",246.05
+"Industry (except construction)","Lithuania",2017,"Q1",245.38
+"Industry (except construction)","Lithuania",2017,"Q2",242.45
+"Industry (except construction)","Lithuania",2017,"Q3",244.74
+"Industry (except construction)","Lithuania",2017,"Q4",238.57
+"Industry (except construction)","Lithuania",2018,"Q1",247.86
+"Industry (except construction)","Lithuania",2018,"Q2",254.1
+"Industry (except construction)","Lithuania",2018,"Q3",257.75
+"Industry (except construction)","Lithuania",2018,"Q4",252.48
+"Industry (except construction)","Lithuania",2019,"Q1",256.23
+"Industry (except construction)","Lithuania",2019,"Q2",249.29
+"Industry (except construction)","Lithuania",2019,"Q3",242.09
+"Industry (except construction)","Lithuania",2019,"Q4",255.89
+"Industry (except construction)","Lithuania",2021,"Q1",259.79
+"Industry (except construction)","Lithuania",2021,"Q2",263.59
+"Industry (except construction)","Lithuania",2021,"Q3",259.77
+"Industry (except construction)","Lithuania",2021,"Q4",258.39
+"Industry (except construction)","Lithuania",2022,"Q1",255.78
+"Industry (except construction)","Lithuania",2022,"Q2",254.37
+"Industry (except construction)","Lithuania",2022,"Q3",261.84
+"Industry (except construction)","Lithuania",2022,"Q4",264.21
+"Industry (except construction)","Lithuania",2023,"Q1",252.02
+"Industry (except construction)","Lithuania",2023,"Q2",265.45
+"Industry (except construction)","Lithuania",2023,"Q3",274.85
+"Industry (except construction)","Lithuania",2023,"Q4",258.44
+"Industry (except construction)","Lithuania",2024,"Q1",255.36
+"Industry (except construction)","Lithuania",2024,"Q2",278.13
+"Industry (except construction)","Lithuania",2024,"Q3",271.74
+"Industry (except construction)","Luxembourg",2010,"Q1",37.02
+"Industry (except construction)","Luxembourg",2010,"Q2",37.19
+"Industry (except construction)","Luxembourg",2010,"Q3",37.3
+"Industry (except construction)","Luxembourg",2010,"Q4",37.47
+"Industry (except construction)","Luxembourg",2011,"Q1",36.93
+"Industry (except construction)","Luxembourg",2011,"Q2",37.29
+"Industry (except construction)","Luxembourg",2011,"Q3",37.68
+"Industry (except construction)","Luxembourg",2011,"Q4",37.75
+"Industry (except construction)","Luxembourg",2012,"Q1",37.22
+"Industry (except construction)","Luxembourg",2012,"Q2",37.09
+"Industry (except construction)","Luxembourg",2012,"Q3",36.93
+"Industry (except construction)","Luxembourg",2012,"Q4",36.77
+"Industry (except construction)","Luxembourg",2013,"Q1",36.05
+"Industry (except construction)","Luxembourg",2013,"Q2",36.02
+"Industry (except construction)","Luxembourg",2013,"Q3",36.12
+"Industry (except construction)","Luxembourg",2013,"Q4",36.17
+"Industry (except construction)","Luxembourg",2014,"Q1",35.92
+"Industry (except construction)","Luxembourg",2014,"Q2",36.03
+"Industry (except construction)","Luxembourg",2014,"Q3",36.12
+"Industry (except construction)","Luxembourg",2014,"Q4",36.25
+"Industry (except construction)","Luxembourg",2015,"Q1",36.55
+"Industry (except construction)","Luxembourg",2015,"Q2",36.88
+"Industry (except construction)","Luxembourg",2015,"Q3",37.02
+"Industry (except construction)","Luxembourg",2015,"Q4",37.23
+"Industry (except construction)","Luxembourg",2016,"Q1",37.15
+"Industry (except construction)","Luxembourg",2016,"Q2",37.35
+"Industry (except construction)","Luxembourg",2016,"Q3",37.56
+"Industry (except construction)","Luxembourg",2016,"Q4",37.72
+"Industry (except construction)","Luxembourg",2017,"Q1",37.37
+"Industry (except construction)","Luxembourg",2017,"Q2",37.54
+"Industry (except construction)","Luxembourg",2017,"Q3",37.67
+"Industry (except construction)","Luxembourg",2017,"Q4",37.94
+"Industry (except construction)","Luxembourg",2018,"Q1",38.28
+"Industry (except construction)","Luxembourg",2018,"Q2",38.43
+"Industry (except construction)","Luxembourg",2018,"Q3",38.35
+"Industry (except construction)","Luxembourg",2018,"Q4",38.5
+"Industry (except construction)","Luxembourg",2019,"Q1",38.54
+"Industry (except construction)","Luxembourg",2019,"Q2",38.7
+"Industry (except construction)","Luxembourg",2019,"Q3",38.62
+"Industry (except construction)","Luxembourg",2019,"Q4",38.81
+"Industry (except construction)","Luxembourg",2021,"Q1",37.74
+"Industry (except construction)","Luxembourg",2021,"Q2",37.88
+"Industry (except construction)","Luxembourg",2021,"Q3",37.97
+"Industry (except construction)","Luxembourg",2021,"Q4",38.31
+"Industry (except construction)","Luxembourg",2022,"Q1",38.57
+"Industry (except construction)","Luxembourg",2022,"Q2",38.66
+"Industry (except construction)","Luxembourg",2022,"Q3",38.71
+"Industry (except construction)","Luxembourg",2022,"Q4",39.01
+"Industry (except construction)","Luxembourg",2023,"Q1",39.09
+"Industry (except construction)","Luxembourg",2023,"Q2",38.89
+"Industry (except construction)","Luxembourg",2023,"Q3",38.6
+"Industry (except construction)","Luxembourg",2023,"Q4",38.71
+"Industry (except construction)","Luxembourg",2024,"Q1",38.56
+"Industry (except construction)","Luxembourg",2024,"Q2",38.46
+"Industry (except construction)","Luxembourg",2024,"Q3",38.2
+"Industry (except construction)","Latvia",2010,"Q1",129.27
+"Industry (except construction)","Latvia",2010,"Q2",135.53
+"Industry (except construction)","Latvia",2010,"Q3",140.09
+"Industry (except construction)","Latvia",2010,"Q4",139.73
+"Industry (except construction)","Latvia",2011,"Q1",135.63
+"Industry (except construction)","Latvia",2011,"Q2",139.86
+"Industry (except construction)","Latvia",2011,"Q3",140.92
+"Industry (except construction)","Latvia",2011,"Q4",142.18
+"Industry (except construction)","Latvia",2012,"Q1",142.32
+"Industry (except construction)","Latvia",2012,"Q2",145.73
+"Industry (except construction)","Latvia",2012,"Q3",146.43
+"Industry (except construction)","Latvia",2012,"Q4",146.84
+"Industry (except construction)","Latvia",2013,"Q1",147.04
+"Industry (except construction)","Latvia",2013,"Q2",148.92
+"Industry (except construction)","Latvia",2013,"Q3",146.97
+"Industry (except construction)","Latvia",2013,"Q4",142.54
+"Industry (except construction)","Latvia",2014,"Q1",141.72
+"Industry (except construction)","Latvia",2014,"Q2",139.94
+"Industry (except construction)","Latvia",2014,"Q3",137.06
+"Industry (except construction)","Latvia",2014,"Q4",138.83
+"Industry (except construction)","Latvia",2015,"Q1",138.23
+"Industry (except construction)","Latvia",2015,"Q2",138.46
+"Industry (except construction)","Latvia",2015,"Q3",137.84
+"Industry (except construction)","Latvia",2015,"Q4",138.96
+"Industry (except construction)","Latvia",2016,"Q1",139.36
+"Industry (except construction)","Latvia",2016,"Q2",139.07
+"Industry (except construction)","Latvia",2016,"Q3",138.42
+"Industry (except construction)","Latvia",2016,"Q4",139.33
+"Industry (except construction)","Latvia",2017,"Q1",138.54
+"Industry (except construction)","Latvia",2017,"Q2",138.47
+"Industry (except construction)","Latvia",2017,"Q3",138.44
+"Industry (except construction)","Latvia",2017,"Q4",139.61
+"Industry (except construction)","Latvia",2018,"Q1",138.18
+"Industry (except construction)","Latvia",2018,"Q2",138.6
+"Industry (except construction)","Latvia",2018,"Q3",140.52
+"Industry (except construction)","Latvia",2018,"Q4",140.36
+"Industry (except construction)","Latvia",2019,"Q1",135.68
+"Industry (except construction)","Latvia",2019,"Q2",136.35
+"Industry (except construction)","Latvia",2019,"Q3",136.68
+"Industry (except construction)","Latvia",2019,"Q4",136.56
+"Industry (except construction)","Latvia",2021,"Q1",133.51
+"Industry (except construction)","Latvia",2021,"Q2",134.47
+"Industry (except construction)","Latvia",2021,"Q3",137.06
+"Industry (except construction)","Latvia",2021,"Q4",138.06
+"Industry (except construction)","Latvia",2022,"Q1",135.8
+"Industry (except construction)","Latvia",2022,"Q2",132.53
+"Industry (except construction)","Latvia",2022,"Q3",137.62
+"Industry (except construction)","Latvia",2022,"Q4",136.73
+"Industry (except construction)","Latvia",2023,"Q1",135.14
+"Industry (except construction)","Latvia",2023,"Q2",127.94
+"Industry (except construction)","Latvia",2023,"Q3",133.2
+"Industry (except construction)","Latvia",2023,"Q4",130.17
+"Industry (except construction)","Latvia",2024,"Q1",129.33
+"Industry (except construction)","Latvia",2024,"Q2",124.03
+"Industry (except construction)","Latvia",2024,"Q3",130.13
+"Industry (except construction)","Malta",2010,"Q1",24.2
+"Industry (except construction)","Malta",2010,"Q2",24.44
+"Industry (except construction)","Malta",2010,"Q3",24.7
+"Industry (except construction)","Malta",2010,"Q4",24.83
+"Industry (except construction)","Malta",2011,"Q1",25.08
+"Industry (except construction)","Malta",2011,"Q2",25.32
+"Industry (except construction)","Malta",2011,"Q3",25.09
+"Industry (except construction)","Malta",2011,"Q4",24.97
+"Industry (except construction)","Malta",2012,"Q1",24.33
+"Industry (except construction)","Malta",2012,"Q2",24.31
+"Industry (except construction)","Malta",2012,"Q3",24.28
+"Industry (except construction)","Malta",2012,"Q4",24.15
+"Industry (except construction)","Malta",2013,"Q1",24.41
+"Industry (except construction)","Malta",2013,"Q2",24.46
+"Industry (except construction)","Malta",2013,"Q3",24.49
+"Industry (except construction)","Malta",2013,"Q4",24.31
+"Industry (except construction)","Malta",2014,"Q1",24.52
+"Industry (except construction)","Malta",2014,"Q2",24.69
+"Industry (except construction)","Malta",2014,"Q3",24.16
+"Industry (except construction)","Malta",2014,"Q4",23.16
+"Industry (except construction)","Malta",2015,"Q1",23.52
+"Industry (except construction)","Malta",2015,"Q2",23.37
+"Industry (except construction)","Malta",2015,"Q3",23.39
+"Industry (except construction)","Malta",2015,"Q4",23.52
+"Industry (except construction)","Malta",2016,"Q1",23.92
+"Industry (except construction)","Malta",2016,"Q2",23.73
+"Industry (except construction)","Malta",2016,"Q3",23.77
+"Industry (except construction)","Malta",2016,"Q4",23.75
+"Industry (except construction)","Malta",2017,"Q1",24.05
+"Industry (except construction)","Malta",2017,"Q2",23.96
+"Industry (except construction)","Malta",2017,"Q3",24.03
+"Industry (except construction)","Malta",2017,"Q4",24.35
+"Industry (except construction)","Malta",2018,"Q1",25.2
+"Industry (except construction)","Malta",2018,"Q2",25.21
+"Industry (except construction)","Malta",2018,"Q3",25.01
+"Industry (except construction)","Malta",2018,"Q4",25.05
+"Industry (except construction)","Malta",2019,"Q1",25.23
+"Industry (except construction)","Malta",2019,"Q2",25.29
+"Industry (except construction)","Malta",2019,"Q3",25.32
+"Industry (except construction)","Malta",2019,"Q4",25.55
+"Industry (except construction)","Malta",2021,"Q1",25.79
+"Industry (except construction)","Malta",2021,"Q2",25.91
+"Industry (except construction)","Malta",2021,"Q3",25.78
+"Industry (except construction)","Malta",2021,"Q4",25.74
+"Industry (except construction)","Malta",2022,"Q1",25.57
+"Industry (except construction)","Malta",2022,"Q2",25.7
+"Industry (except construction)","Malta",2022,"Q3",25.88
+"Industry (except construction)","Malta",2022,"Q4",26.1
+"Industry (except construction)","Malta",2023,"Q1",26.67
+"Industry (except construction)","Malta",2023,"Q2",26.91
+"Industry (except construction)","Malta",2023,"Q3",26.99
+"Industry (except construction)","Malta",2023,"Q4",27.14
+"Industry (except construction)","Malta",2024,"Q1",27.51
+"Industry (except construction)","Malta",2024,"Q2",27.51
+"Industry (except construction)","Malta",2024,"Q3",27.83
+"Industry (except construction)","Netherlands",2010,"Q1",761
+"Industry (except construction)","Netherlands",2010,"Q2",760
+"Industry (except construction)","Netherlands",2010,"Q3",752
+"Industry (except construction)","Netherlands",2010,"Q4",748
+"Industry (except construction)","Netherlands",2011,"Q1",753
+"Industry (except construction)","Netherlands",2011,"Q2",751
+"Industry (except construction)","Netherlands",2011,"Q3",751
+"Industry (except construction)","Netherlands",2011,"Q4",754
+"Industry (except construction)","Netherlands",2012,"Q1",750
+"Industry (except construction)","Netherlands",2012,"Q2",748
+"Industry (except construction)","Netherlands",2012,"Q3",744
+"Industry (except construction)","Netherlands",2012,"Q4",736
+"Industry (except construction)","Netherlands",2013,"Q1",739
+"Industry (except construction)","Netherlands",2013,"Q2",737
+"Industry (except construction)","Netherlands",2013,"Q3",738
+"Industry (except construction)","Netherlands",2013,"Q4",732
+"Industry (except construction)","Netherlands",2014,"Q1",730
+"Industry (except construction)","Netherlands",2014,"Q2",729
+"Industry (except construction)","Netherlands",2014,"Q3",731
+"Industry (except construction)","Netherlands",2014,"Q4",733
+"Industry (except construction)","Netherlands",2015,"Q1",728
+"Industry (except construction)","Netherlands",2015,"Q2",737
+"Industry (except construction)","Netherlands",2015,"Q3",736
+"Industry (except construction)","Netherlands",2015,"Q4",737
+"Industry (except construction)","Netherlands",2016,"Q1",737
+"Industry (except construction)","Netherlands",2016,"Q2",743
+"Industry (except construction)","Netherlands",2016,"Q3",742
+"Industry (except construction)","Netherlands",2016,"Q4",749
+"Industry (except construction)","Netherlands",2017,"Q1",748
+"Industry (except construction)","Netherlands",2017,"Q2",752
+"Industry (except construction)","Netherlands",2017,"Q3",754
+"Industry (except construction)","Netherlands",2017,"Q4",759
+"Industry (except construction)","Netherlands",2018,"Q1",764
+"Industry (except construction)","Netherlands",2018,"Q2",772
+"Industry (except construction)","Netherlands",2018,"Q3",775
+"Industry (except construction)","Netherlands",2018,"Q4",783
+"Industry (except construction)","Netherlands",2019,"Q1",792
+"Industry (except construction)","Netherlands",2019,"Q2",794
+"Industry (except construction)","Netherlands",2019,"Q3",789
+"Industry (except construction)","Netherlands",2019,"Q4",800
+"Industry (except construction)","Netherlands",2021,"Q1",794
+"Industry (except construction)","Netherlands",2021,"Q2",802
+"Industry (except construction)","Netherlands",2021,"Q3",797
+"Industry (except construction)","Netherlands",2021,"Q4",812
+"Industry (except construction)","Netherlands",2022,"Q1",815
+"Industry (except construction)","Netherlands",2022,"Q2",822
+"Industry (except construction)","Netherlands",2022,"Q3",826
+"Industry (except construction)","Netherlands",2022,"Q4",830
+"Industry (except construction)","Netherlands",2023,"Q1",844
+"Industry (except construction)","Netherlands",2023,"Q2",846
+"Industry (except construction)","Netherlands",2023,"Q3",840
+"Industry (except construction)","Netherlands",2023,"Q4",851
+"Industry (except construction)","Netherlands",2024,"Q1",854
+"Industry (except construction)","Netherlands",2024,"Q2",856
+"Industry (except construction)","Netherlands",2024,"Q3",859
+"Industry (except construction)","Portugal",2010,"Q1",789.96
+"Industry (except construction)","Portugal",2010,"Q2",802.31
+"Industry (except construction)","Portugal",2010,"Q3",787.92
+"Industry (except construction)","Portugal",2010,"Q4",781.99
+"Industry (except construction)","Portugal",2011,"Q1",782.63
+"Industry (except construction)","Portugal",2011,"Q2",783.24
+"Industry (except construction)","Portugal",2011,"Q3",777.85
+"Industry (except construction)","Portugal",2011,"Q4",761.75
+"Industry (except construction)","Portugal",2012,"Q1",753.82
+"Industry (except construction)","Portugal",2012,"Q2",754.57
+"Industry (except construction)","Portugal",2012,"Q3",748.46
+"Industry (except construction)","Portugal",2012,"Q4",731.96
+"Industry (except construction)","Portugal",2013,"Q1",722.45
+"Industry (except construction)","Portugal",2013,"Q2",728.03
+"Industry (except construction)","Portugal",2013,"Q3",736.34
+"Industry (except construction)","Portugal",2013,"Q4",743.56
+"Industry (except construction)","Portugal",2014,"Q1",734.92
+"Industry (except construction)","Portugal",2014,"Q2",744.04
+"Industry (except construction)","Portugal",2014,"Q3",753.03
+"Industry (except construction)","Portugal",2014,"Q4",752.24
+"Industry (except construction)","Portugal",2015,"Q1",757.39
+"Industry (except construction)","Portugal",2015,"Q2",770.44
+"Industry (except construction)","Portugal",2015,"Q3",772.31
+"Industry (except construction)","Portugal",2015,"Q4",775.05
+"Industry (except construction)","Portugal",2016,"Q1",768.45
+"Industry (except construction)","Portugal",2016,"Q2",774.02
+"Industry (except construction)","Portugal",2016,"Q3",780.32
+"Industry (except construction)","Portugal",2016,"Q4",780.1
+"Industry (except construction)","Portugal",2017,"Q1",785.63
+"Industry (except construction)","Portugal",2017,"Q2",793.26
+"Industry (except construction)","Portugal",2017,"Q3",801.47
+"Industry (except construction)","Portugal",2017,"Q4",811.04
+"Industry (except construction)","Portugal",2018,"Q1",816.43
+"Industry (except construction)","Portugal",2018,"Q2",817.4
+"Industry (except construction)","Portugal",2018,"Q3",820.26
+"Industry (except construction)","Portugal",2018,"Q4",821.57
+"Industry (except construction)","Portugal",2019,"Q1",814.71
+"Industry (except construction)","Portugal",2019,"Q2",809.51
+"Industry (except construction)","Portugal",2019,"Q3",811.45
+"Industry (except construction)","Portugal",2019,"Q4",810.04
+"Industry (except construction)","Portugal",2021,"Q1",780.34
+"Industry (except construction)","Portugal",2021,"Q2",796.77
+"Industry (except construction)","Portugal",2021,"Q3",799.62
+"Industry (except construction)","Portugal",2021,"Q4",799.68
+"Industry (except construction)","Portugal",2022,"Q1",810.04
+"Industry (except construction)","Portugal",2022,"Q2",796.8
+"Industry (except construction)","Portugal",2022,"Q3",806.58
+"Industry (except construction)","Portugal",2022,"Q4",801.1
+"Industry (except construction)","Portugal",2023,"Q1",806.84
+"Industry (except construction)","Portugal",2023,"Q2",804.87
+"Industry (except construction)","Portugal",2023,"Q3",805.3
+"Industry (except construction)","Portugal",2023,"Q4",803.99
+"Industry (except construction)","Portugal",2024,"Q1",806.99
+"Industry (except construction)","Portugal",2024,"Q2",797.09
+"Industry (except construction)","Portugal",2024,"Q3",807
+"Industry (except construction)","Slovenia",2010,"Q1",218.51
+"Industry (except construction)","Slovenia",2010,"Q2",217.86
+"Industry (except construction)","Slovenia",2010,"Q3",217.16
+"Industry (except construction)","Slovenia",2010,"Q4",214.77
+"Industry (except construction)","Slovenia",2011,"Q1",215.88
+"Industry (except construction)","Slovenia",2011,"Q2",216.73
+"Industry (except construction)","Slovenia",2011,"Q3",217.36
+"Industry (except construction)","Slovenia",2011,"Q4",216.02
+"Industry (except construction)","Slovenia",2012,"Q1",215.08
+"Industry (except construction)","Slovenia",2012,"Q2",215.08
+"Industry (except construction)","Slovenia",2012,"Q3",213.92
+"Industry (except construction)","Slovenia",2012,"Q4",211.62
+"Industry (except construction)","Slovenia",2013,"Q1",209.55
+"Industry (except construction)","Slovenia",2013,"Q2",209.64
+"Industry (except construction)","Slovenia",2013,"Q3",209.88
+"Industry (except construction)","Slovenia",2013,"Q4",210.09
+"Industry (except construction)","Slovenia",2014,"Q1",209.34
+"Industry (except construction)","Slovenia",2014,"Q2",210.11
+"Industry (except construction)","Slovenia",2014,"Q3",210.77
+"Industry (except construction)","Slovenia",2014,"Q4",211.42
+"Industry (except construction)","Slovenia",2015,"Q1",211.44
+"Industry (except construction)","Slovenia",2015,"Q2",212.99
+"Industry (except construction)","Slovenia",2015,"Q3",214.67
+"Industry (except construction)","Slovenia",2015,"Q4",216.68
+"Industry (except construction)","Slovenia",2016,"Q1",216.46
+"Industry (except construction)","Slovenia",2016,"Q2",219.03
+"Industry (except construction)","Slovenia",2016,"Q3",220.3
+"Industry (except construction)","Slovenia",2016,"Q4",221.5
+"Industry (except construction)","Slovenia",2017,"Q1",221.6
+"Industry (except construction)","Slovenia",2017,"Q2",224.88
+"Industry (except construction)","Slovenia",2017,"Q3",227.68
+"Industry (except construction)","Slovenia",2017,"Q4",230.34
+"Industry (except construction)","Slovenia",2018,"Q1",231.92
+"Industry (except construction)","Slovenia",2018,"Q2",234.84
+"Industry (except construction)","Slovenia",2018,"Q3",236.78
+"Industry (except construction)","Slovenia",2018,"Q4",239.54
+"Industry (except construction)","Slovenia",2019,"Q1",240.22
+"Industry (except construction)","Slovenia",2019,"Q2",241.53
+"Industry (except construction)","Slovenia",2019,"Q3",241.61
+"Industry (except construction)","Slovenia",2019,"Q4",241.93
+"Industry (except construction)","Slovenia",2021,"Q1",238.72
+"Industry (except construction)","Slovenia",2021,"Q2",241.4
+"Industry (except construction)","Slovenia",2021,"Q3",242.15
+"Industry (except construction)","Slovenia",2021,"Q4",243.78
+"Industry (except construction)","Slovenia",2022,"Q1",245
+"Industry (except construction)","Slovenia",2022,"Q2",246.38
+"Industry (except construction)","Slovenia",2022,"Q3",246.46
+"Industry (except construction)","Slovenia",2022,"Q4",247.98
+"Industry (except construction)","Slovenia",2023,"Q1",247.76
+"Industry (except construction)","Slovenia",2023,"Q2",248.24
+"Industry (except construction)","Slovenia",2023,"Q3",247.67
+"Industry (except construction)","Slovenia",2023,"Q4",247.76
+"Industry (except construction)","Slovenia",2024,"Q1",245.95
+"Industry (except construction)","Slovenia",2024,"Q2",245.47
+"Industry (except construction)","Slovenia",2024,"Q3",244.04
+"Industry (except construction)","Slovakia",2010,"Q1",505.42
+"Industry (except construction)","Slovakia",2010,"Q2",507.15
+"Industry (except construction)","Slovakia",2010,"Q3",513.86
+"Industry (except construction)","Slovakia",2010,"Q4",517.88
+"Industry (except construction)","Slovakia",2011,"Q1",524.67
+"Industry (except construction)","Slovakia",2011,"Q2",527.57
+"Industry (except construction)","Slovakia",2011,"Q3",532.32
+"Industry (except construction)","Slovakia",2011,"Q4",531.4
+"Industry (except construction)","Slovakia",2012,"Q1",525.83
+"Industry (except construction)","Slovakia",2012,"Q2",525.34
+"Industry (except construction)","Slovakia",2012,"Q3",526.65
+"Industry (except construction)","Slovakia",2012,"Q4",517.86
+"Industry (except construction)","Slovakia",2013,"Q1",512.27
+"Industry (except construction)","Slovakia",2013,"Q2",514.93
+"Industry (except construction)","Slovakia",2013,"Q3",520.27
+"Industry (except construction)","Slovakia",2013,"Q4",518.92
+"Industry (except construction)","Slovakia",2014,"Q1",518.32
+"Industry (except construction)","Slovakia",2014,"Q2",522.05
+"Industry (except construction)","Slovakia",2014,"Q3",529.86
+"Industry (except construction)","Slovakia",2014,"Q4",531.05
+"Industry (except construction)","Slovakia",2015,"Q1",528.36
+"Industry (except construction)","Slovakia",2015,"Q2",532.76
+"Industry (except construction)","Slovakia",2015,"Q3",540.33
+"Industry (except construction)","Slovakia",2015,"Q4",543.43
+"Industry (except construction)","Slovakia",2016,"Q1",546.31
+"Industry (except construction)","Slovakia",2016,"Q2",549.51
+"Industry (except construction)","Slovakia",2016,"Q3",559.7
+"Industry (except construction)","Slovakia",2016,"Q4",561.7
+"Industry (except construction)","Slovakia",2017,"Q1",562.24
+"Industry (except construction)","Slovakia",2017,"Q2",572.51
+"Industry (except construction)","Slovakia",2017,"Q3",580.23
+"Industry (except construction)","Slovakia",2017,"Q4",580.19
+"Industry (except construction)","Slovakia",2018,"Q1",578.57
+"Industry (except construction)","Slovakia",2018,"Q2",582.35
+"Industry (except construction)","Slovakia",2018,"Q3",589.42
+"Industry (except construction)","Slovakia",2018,"Q4",586.13
+"Industry (except construction)","Slovakia",2019,"Q1",585.36
+"Industry (except construction)","Slovakia",2019,"Q2",589.21
+"Industry (except construction)","Slovakia",2019,"Q3",587.4
+"Industry (except construction)","Slovakia",2019,"Q4",580.91
+"Industry (except construction)","Slovakia",2021,"Q1",554.44
+"Industry (except construction)","Slovakia",2021,"Q2",557.49
+"Industry (except construction)","Slovakia",2021,"Q3",560.37
+"Industry (except construction)","Slovakia",2021,"Q4",557.2
+"Industry (except construction)","Slovakia",2022,"Q1",565.65
+"Industry (except construction)","Slovakia",2022,"Q2",568.08
+"Industry (except construction)","Slovakia",2022,"Q3",565.14
+"Industry (except construction)","Slovakia",2022,"Q4",560.86
+"Industry (except construction)","Slovakia",2023,"Q1",560.77
+"Industry (except construction)","Slovakia",2023,"Q2",565.29
+"Industry (except construction)","Slovakia",2023,"Q3",561.65
+"Industry (except construction)","Slovakia",2023,"Q4",557.32
+"Industry (except construction)","Slovakia",2024,"Q1",555.45
+"Industry (except construction)","Slovakia",2024,"Q2",558.76
+"Industry (except construction)","Slovakia",2024,"Q3",553.29
+"Manufacturing","Austria",2010,"Q1",605.06
+"Manufacturing","Austria",2010,"Q2",610.86
+"Manufacturing","Austria",2010,"Q3",628.13
+"Manufacturing","Austria",2010,"Q4",624.2
+"Manufacturing","Austria",2011,"Q1",611.13
+"Manufacturing","Austria",2011,"Q2",619.55
+"Manufacturing","Austria",2011,"Q3",638.48
+"Manufacturing","Austria",2011,"Q4",633.48
+"Manufacturing","Austria",2012,"Q1",621.13
+"Manufacturing","Austria",2012,"Q2",626.19
+"Manufacturing","Austria",2012,"Q3",642.7
+"Manufacturing","Austria",2012,"Q4",638.28
+"Manufacturing","Austria",2013,"Q1",620.83
+"Manufacturing","Austria",2013,"Q2",628.38
+"Manufacturing","Austria",2013,"Q3",643.56
+"Manufacturing","Austria",2013,"Q4",636.27
+"Manufacturing","Austria",2014,"Q1",627.76
+"Manufacturing","Austria",2014,"Q2",631.49
+"Manufacturing","Austria",2014,"Q3",642.67
+"Manufacturing","Austria",2014,"Q4",633.76
+"Manufacturing","Austria",2015,"Q1",626.82
+"Manufacturing","Austria",2015,"Q2",633.28
+"Manufacturing","Austria",2015,"Q3",646.99
+"Manufacturing","Austria",2015,"Q4",639.76
+"Manufacturing","Austria",2016,"Q1",631.79
+"Manufacturing","Austria",2016,"Q2",638.89
+"Manufacturing","Austria",2016,"Q3",653.12
+"Manufacturing","Austria",2016,"Q4",645.71
+"Manufacturing","Austria",2017,"Q1",637.17
+"Manufacturing","Austria",2017,"Q2",644.53
+"Manufacturing","Austria",2017,"Q3",658.01
+"Manufacturing","Austria",2017,"Q4",653.4
+"Manufacturing","Austria",2018,"Q1",653.67
+"Manufacturing","Austria",2018,"Q2",661.49
+"Manufacturing","Austria",2018,"Q3",674.78
+"Manufacturing","Austria",2018,"Q4",668.64
+"Manufacturing","Austria",2019,"Q1",667.97
+"Manufacturing","Austria",2019,"Q2",674.8
+"Manufacturing","Austria",2019,"Q3",685.25
+"Manufacturing","Austria",2019,"Q4",679.39
+"Manufacturing","Austria",2021,"Q1",665.98
+"Manufacturing","Austria",2021,"Q2",670.76
+"Manufacturing","Austria",2021,"Q3",682.21
+"Manufacturing","Austria",2021,"Q4",679.36
+"Manufacturing","Austria",2022,"Q1",678.98
+"Manufacturing","Austria",2022,"Q2",686.5
+"Manufacturing","Austria",2022,"Q3",699.06
+"Manufacturing","Austria",2022,"Q4",695.82
+"Manufacturing","Austria",2023,"Q1",692.42
+"Manufacturing","Austria",2023,"Q2",695.96
+"Manufacturing","Austria",2023,"Q3",701.9
+"Manufacturing","Austria",2023,"Q4",695.1
+"Manufacturing","Austria",2024,"Q1",688.13
+"Manufacturing","Austria",2024,"Q2",686.7
+"Manufacturing","Austria",2024,"Q3",691.18
+"Manufacturing","Belgium",2010,"Q1",540.2
+"Manufacturing","Belgium",2010,"Q2",537.3
+"Manufacturing","Belgium",2010,"Q3",539.7
+"Manufacturing","Belgium",2010,"Q4",537
+"Manufacturing","Belgium",2011,"Q1",538.7
+"Manufacturing","Belgium",2011,"Q2",539.2
+"Manufacturing","Belgium",2011,"Q3",542.4
+"Manufacturing","Belgium",2011,"Q4",538.7
+"Manufacturing","Belgium",2012,"Q1",534.1
+"Manufacturing","Belgium",2012,"Q2",532.4
+"Manufacturing","Belgium",2012,"Q3",532.8
+"Manufacturing","Belgium",2012,"Q4",526.2
+"Manufacturing","Belgium",2013,"Q1",521.9
+"Manufacturing","Belgium",2013,"Q2",518.4
+"Manufacturing","Belgium",2013,"Q3",518.5
+"Manufacturing","Belgium",2013,"Q4",512.9
+"Manufacturing","Belgium",2014,"Q1",508.1
+"Manufacturing","Belgium",2014,"Q2",505.4
+"Manufacturing","Belgium",2014,"Q3",506.7
+"Manufacturing","Belgium",2014,"Q4",502.3
+"Manufacturing","Belgium",2015,"Q1",492.4
+"Manufacturing","Belgium",2015,"Q2",492
+"Manufacturing","Belgium",2015,"Q3",494.7
+"Manufacturing","Belgium",2015,"Q4",491.4
+"Manufacturing","Belgium",2016,"Q1",490.7
+"Manufacturing","Belgium",2016,"Q2",492.2
+"Manufacturing","Belgium",2016,"Q3",496
+"Manufacturing","Belgium",2016,"Q4",493.1
+"Manufacturing","Belgium",2017,"Q1",494.5
+"Manufacturing","Belgium",2017,"Q2",495.8
+"Manufacturing","Belgium",2017,"Q3",498.6
+"Manufacturing","Belgium",2017,"Q4",496.9
+"Manufacturing","Belgium",2018,"Q1",496
+"Manufacturing","Belgium",2018,"Q2",498.7
+"Manufacturing","Belgium",2018,"Q3",503
+"Manufacturing","Belgium",2018,"Q4",500.6
+"Manufacturing","Belgium",2019,"Q1",502.2
+"Manufacturing","Belgium",2019,"Q2",503.6
+"Manufacturing","Belgium",2019,"Q3",506.7
+"Manufacturing","Belgium",2019,"Q4",503.6
+"Manufacturing","Belgium",2021,"Q1",498.7
+"Manufacturing","Belgium",2021,"Q2",499.8
+"Manufacturing","Belgium",2021,"Q3",503
+"Manufacturing","Belgium",2021,"Q4",502.9
+"Manufacturing","Belgium",2022,"Q1",505.3
+"Manufacturing","Belgium",2022,"Q2",507.3
+"Manufacturing","Belgium",2022,"Q3",509.9
+"Manufacturing","Belgium",2022,"Q4",507.9
+"Manufacturing","Belgium",2023,"Q1",507.9
+"Manufacturing","Belgium",2023,"Q2",507.4
+"Manufacturing","Belgium",2023,"Q3",506.7
+"Manufacturing","Belgium",2023,"Q4",501.9
+"Manufacturing","Belgium",2024,"Q1",499.7
+"Manufacturing","Belgium",2024,"Q2",496.2
+"Manufacturing","Belgium",2024,"Q3",494.4
+"Manufacturing","Cyprus",2010,"Q1",37.32
+"Manufacturing","Cyprus",2010,"Q2",37.02
+"Manufacturing","Cyprus",2010,"Q3",36.4
+"Manufacturing","Cyprus",2010,"Q4",36.71
+"Manufacturing","Cyprus",2011,"Q1",36.31
+"Manufacturing","Cyprus",2011,"Q2",36.07
+"Manufacturing","Cyprus",2011,"Q3",35.35
+"Manufacturing","Cyprus",2011,"Q4",34.9
+"Manufacturing","Cyprus",2012,"Q1",34.47
+"Manufacturing","Cyprus",2012,"Q2",33.5
+"Manufacturing","Cyprus",2012,"Q3",32.75
+"Manufacturing","Cyprus",2012,"Q4",32.26
+"Manufacturing","Cyprus",2013,"Q1",31.13
+"Manufacturing","Cyprus",2013,"Q2",30
+"Manufacturing","Cyprus",2013,"Q3",29.08
+"Manufacturing","Cyprus",2013,"Q4",29.42
+"Manufacturing","Cyprus",2014,"Q1",28.36
+"Manufacturing","Cyprus",2014,"Q2",28.53
+"Manufacturing","Cyprus",2014,"Q3",28.07
+"Manufacturing","Cyprus",2014,"Q4",28.35
+"Manufacturing","Cyprus",2015,"Q1",28.45
+"Manufacturing","Cyprus",2015,"Q2",28.99
+"Manufacturing","Cyprus",2015,"Q3",29.2
+"Manufacturing","Cyprus",2015,"Q4",29.71
+"Manufacturing","Cyprus",2016,"Q1",30.05
+"Manufacturing","Cyprus",2016,"Q2",30.65
+"Manufacturing","Cyprus",2016,"Q3",30.61
+"Manufacturing","Cyprus",2016,"Q4",31.17
+"Manufacturing","Cyprus",2017,"Q1",31.24
+"Manufacturing","Cyprus",2017,"Q2",32.34
+"Manufacturing","Cyprus",2017,"Q3",32.77
+"Manufacturing","Cyprus",2017,"Q4",33.32
+"Manufacturing","Cyprus",2018,"Q1",31.75
+"Manufacturing","Cyprus",2018,"Q2",33.15
+"Manufacturing","Cyprus",2018,"Q3",33.6
+"Manufacturing","Cyprus",2018,"Q4",34.04
+"Manufacturing","Cyprus",2019,"Q1",32.75
+"Manufacturing","Cyprus",2019,"Q2",33.63
+"Manufacturing","Cyprus",2019,"Q3",33.95
+"Manufacturing","Cyprus",2019,"Q4",34.4
+"Manufacturing","Cyprus",2021,"Q1",33.71
+"Manufacturing","Cyprus",2021,"Q2",34
+"Manufacturing","Cyprus",2021,"Q3",34.2
+"Manufacturing","Cyprus",2021,"Q4",34.27
+"Manufacturing","Cyprus",2022,"Q1",34.47
+"Manufacturing","Cyprus",2022,"Q2",35.11
+"Manufacturing","Cyprus",2022,"Q3",35.71
+"Manufacturing","Cyprus",2022,"Q4",35.7
+"Manufacturing","Cyprus",2023,"Q1",35.29
+"Manufacturing","Cyprus",2023,"Q2",36.06
+"Manufacturing","Cyprus",2023,"Q3",36.28
+"Manufacturing","Cyprus",2023,"Q4",36.21
+"Manufacturing","Cyprus",2024,"Q1",36.05
+"Manufacturing","Cyprus",2024,"Q2",36.55
+"Manufacturing","Cyprus",2024,"Q3",37.01
+"Manufacturing","Germany",2010,"Q1",7091
+"Manufacturing","Germany",2010,"Q2",7100
+"Manufacturing","Germany",2010,"Q3",7171
+"Manufacturing","Germany",2010,"Q4",7207
+"Manufacturing","Germany",2011,"Q1",7183
+"Manufacturing","Germany",2011,"Q2",7236
+"Manufacturing","Germany",2011,"Q3",7339
+"Manufacturing","Germany",2011,"Q4",7391
+"Manufacturing","Germany",2012,"Q1",7352
+"Manufacturing","Germany",2012,"Q2",7375
+"Manufacturing","Germany",2012,"Q3",7451
+"Manufacturing","Germany",2012,"Q4",7470
+"Manufacturing","Germany",2013,"Q1",7415
+"Manufacturing","Germany",2013,"Q2",7410
+"Manufacturing","Germany",2013,"Q3",7454
+"Manufacturing","Germany",2013,"Q4",7466
+"Manufacturing","Germany",2014,"Q1",7417
+"Manufacturing","Germany",2014,"Q2",7448
+"Manufacturing","Germany",2014,"Q3",7515
+"Manufacturing","Germany",2014,"Q4",7537
+"Manufacturing","Germany",2015,"Q1",7469
+"Manufacturing","Germany",2015,"Q2",7478
+"Manufacturing","Germany",2015,"Q3",7537
+"Manufacturing","Germany",2015,"Q4",7554
+"Manufacturing","Germany",2016,"Q1",7498
+"Manufacturing","Germany",2016,"Q2",7509
+"Manufacturing","Germany",2016,"Q3",7559
+"Manufacturing","Germany",2016,"Q4",7579
+"Manufacturing","Germany",2017,"Q1",7539
+"Manufacturing","Germany",2017,"Q2",7564
+"Manufacturing","Germany",2017,"Q3",7632
+"Manufacturing","Germany",2017,"Q4",7667
+"Manufacturing","Germany",2018,"Q1",7662
+"Manufacturing","Germany",2018,"Q2",7690
+"Manufacturing","Germany",2018,"Q3",7769
+"Manufacturing","Germany",2018,"Q4",7805
+"Manufacturing","Germany",2019,"Q1",7767
+"Manufacturing","Germany",2019,"Q2",7765
+"Manufacturing","Germany",2019,"Q3",7792
+"Manufacturing","Germany",2019,"Q4",7775
+"Manufacturing","Germany",2021,"Q1",7469
+"Manufacturing","Germany",2021,"Q2",7465
+"Manufacturing","Germany",2021,"Q3",7485
+"Manufacturing","Germany",2021,"Q4",7505
+"Manufacturing","Germany",2022,"Q1",7470
+"Manufacturing","Germany",2022,"Q2",7475
+"Manufacturing","Germany",2022,"Q3",7505
+"Manufacturing","Germany",2022,"Q4",7534
+"Manufacturing","Germany",2023,"Q1",7500
+"Manufacturing","Germany",2023,"Q2",7503
+"Manufacturing","Germany",2023,"Q3",7517
+"Manufacturing","Germany",2023,"Q4",7528
+"Manufacturing","Germany",2024,"Q1",7464
+"Manufacturing","Germany",2024,"Q2",7440
+"Manufacturing","Germany",2024,"Q3",7428
+"Manufacturing","Euroarea",2010,"Q1",21218.95
+"Manufacturing","Euroarea",2010,"Q2",21253.32
+"Manufacturing","Euroarea",2010,"Q3",21306.16
+"Manufacturing","Euroarea",2010,"Q4",21284.77
+"Manufacturing","Euroarea",2011,"Q1",21117.56
+"Manufacturing","Euroarea",2011,"Q2",21226.87
+"Manufacturing","Euroarea",2011,"Q3",21372.52
+"Manufacturing","Euroarea",2011,"Q4",21350.75
+"Manufacturing","Euroarea",2012,"Q1",21091.48
+"Manufacturing","Euroarea",2012,"Q2",21052.87
+"Manufacturing","Euroarea",2012,"Q3",21110.6
+"Manufacturing","Euroarea",2012,"Q4",21021.18
+"Manufacturing","Euroarea",2013,"Q1",20761.5
+"Manufacturing","Euroarea",2013,"Q2",20718.28
+"Manufacturing","Euroarea",2013,"Q3",20806.66
+"Manufacturing","Euroarea",2013,"Q4",20792.25
+"Manufacturing","Euroarea",2014,"Q1",20591.77
+"Manufacturing","Euroarea",2014,"Q2",20674.98
+"Manufacturing","Euroarea",2014,"Q3",20774.39
+"Manufacturing","Euroarea",2014,"Q4",20802.52
+"Manufacturing","Euroarea",2015,"Q1",20526.26
+"Manufacturing","Euroarea",2015,"Q2",20670.13
+"Manufacturing","Euroarea",2015,"Q3",20829.95
+"Manufacturing","Euroarea",2015,"Q4",20875.17
+"Manufacturing","Euroarea",2016,"Q1",20726.85
+"Manufacturing","Euroarea",2016,"Q2",20871.03
+"Manufacturing","Euroarea",2016,"Q3",21051.67
+"Manufacturing","Euroarea",2016,"Q4",21073.26
+"Manufacturing","Euroarea",2017,"Q1",20899.69
+"Manufacturing","Euroarea",2017,"Q2",21046.13
+"Manufacturing","Euroarea",2017,"Q3",21292.8
+"Manufacturing","Euroarea",2017,"Q4",21320.38
+"Manufacturing","Euroarea",2018,"Q1",21252.89
+"Manufacturing","Euroarea",2018,"Q2",21438.69
+"Manufacturing","Euroarea",2018,"Q3",21589.17
+"Manufacturing","Euroarea",2018,"Q4",21636.33
+"Manufacturing","Euroarea",2019,"Q1",21604.57
+"Manufacturing","Euroarea",2019,"Q2",21730.55
+"Manufacturing","Euroarea",2019,"Q3",21847.98
+"Manufacturing","Euroarea",2019,"Q4",21757.85
+"Manufacturing","Euroarea",2021,"Q1",21063.2
+"Manufacturing","Euroarea",2021,"Q2",21210.36
+"Manufacturing","Euroarea",2021,"Q3",21357.55
+"Manufacturing","Euroarea",2021,"Q4",21468.27
+"Manufacturing","Euroarea",2022,"Q1",21388.1
+"Manufacturing","Euroarea",2022,"Q2",21473.47
+"Manufacturing","Euroarea",2022,"Q3",21602.48
+"Manufacturing","Euroarea",2022,"Q4",21650.59
+"Manufacturing","Euroarea",2023,"Q1",21622.31
+"Manufacturing","Euroarea",2023,"Q2",21695.93
+"Manufacturing","Euroarea",2023,"Q3",21748.06
+"Manufacturing","Euroarea",2023,"Q4",21707.23
+"Manufacturing","Euroarea",2024,"Q1",21590.91
+"Manufacturing","Euroarea",2024,"Q2",21707.98
+"Manufacturing","Euroarea",2024,"Q3",21716.56
+"Manufacturing","Estonia",2010,"Q1",93.1
+"Manufacturing","Estonia",2010,"Q2",99
+"Manufacturing","Estonia",2010,"Q3",108
+"Manufacturing","Estonia",2010,"Q4",117.1
+"Manufacturing","Estonia",2011,"Q1",113.4
+"Manufacturing","Estonia",2011,"Q2",111.5
+"Manufacturing","Estonia",2011,"Q3",119.7
+"Manufacturing","Estonia",2011,"Q4",125
+"Manufacturing","Estonia",2012,"Q1",115
+"Manufacturing","Estonia",2012,"Q2",107.7
+"Manufacturing","Estonia",2012,"Q3",113.4
+"Manufacturing","Estonia",2012,"Q4",114.6
+"Manufacturing","Estonia",2013,"Q1",113.5
+"Manufacturing","Estonia",2013,"Q2",112.8
+"Manufacturing","Estonia",2013,"Q3",116
+"Manufacturing","Estonia",2013,"Q4",113.7
+"Manufacturing","Estonia",2014,"Q1",107.3
+"Manufacturing","Estonia",2014,"Q2",112.8
+"Manufacturing","Estonia",2014,"Q3",111.5
+"Manufacturing","Estonia",2014,"Q4",113.8
+"Manufacturing","Estonia",2015,"Q1",117.6
+"Manufacturing","Estonia",2015,"Q2",120.9
+"Manufacturing","Estonia",2015,"Q3",119.5
+"Manufacturing","Estonia",2015,"Q4",113.7
+"Manufacturing","Estonia",2016,"Q1",118
+"Manufacturing","Estonia",2016,"Q2",116.8
+"Manufacturing","Estonia",2016,"Q3",118.7
+"Manufacturing","Estonia",2016,"Q4",121.6
+"Manufacturing","Estonia",2017,"Q1",118.9
+"Manufacturing","Estonia",2017,"Q2",117.3
+"Manufacturing","Estonia",2017,"Q3",124
+"Manufacturing","Estonia",2017,"Q4",131
+"Manufacturing","Estonia",2018,"Q1",128.32
+"Manufacturing","Estonia",2018,"Q2",120.69
+"Manufacturing","Estonia",2018,"Q3",116.81
+"Manufacturing","Estonia",2018,"Q4",126.28
+"Manufacturing","Estonia",2019,"Q1",122.56
+"Manufacturing","Estonia",2019,"Q2",114.98
+"Manufacturing","Estonia",2019,"Q3",121.42
+"Manufacturing","Estonia",2019,"Q4",127.22
+"Manufacturing","Estonia",2021,"Q1",116.77
+"Manufacturing","Estonia",2021,"Q2",112.02
+"Manufacturing","Estonia",2021,"Q3",120.12
+"Manufacturing","Estonia",2021,"Q4",119.2
+"Manufacturing","Estonia",2022,"Q1",118.82
+"Manufacturing","Estonia",2022,"Q2",120.32
+"Manufacturing","Estonia",2022,"Q3",123.82
+"Manufacturing","Estonia",2022,"Q4",124.04
+"Manufacturing","Estonia",2023,"Q1",116.5
+"Manufacturing","Estonia",2023,"Q2",119.93
+"Manufacturing","Estonia",2023,"Q3",122.67
+"Manufacturing","Estonia",2023,"Q4",117.16
+"Manufacturing","Estonia",2024,"Q1",103.88
+"Manufacturing","Estonia",2024,"Q2",106.65
+"Manufacturing","Estonia",2024,"Q3",117.87
+"Manufacturing","Greece",2010,"Q1",419.44
+"Manufacturing","Greece",2010,"Q2",418.84
+"Manufacturing","Greece",2010,"Q3",402.75
+"Manufacturing","Greece",2010,"Q4",388.98
+"Manufacturing","Greece",2011,"Q1",398.96
+"Manufacturing","Greece",2011,"Q2",378.44
+"Manufacturing","Greece",2011,"Q3",381.03
+"Manufacturing","Greece",2011,"Q4",352.54
+"Manufacturing","Greece",2012,"Q1",364.08
+"Manufacturing","Greece",2012,"Q2",348.53
+"Manufacturing","Greece",2012,"Q3",346.39
+"Manufacturing","Greece",2012,"Q4",340.95
+"Manufacturing","Greece",2013,"Q1",337.37
+"Manufacturing","Greece",2013,"Q2",337.83
+"Manufacturing","Greece",2013,"Q3",338.62
+"Manufacturing","Greece",2013,"Q4",336.37
+"Manufacturing","Greece",2014,"Q1",347.45
+"Manufacturing","Greece",2014,"Q2",351.24
+"Manufacturing","Greece",2014,"Q3",343.45
+"Manufacturing","Greece",2014,"Q4",340.87
+"Manufacturing","Greece",2015,"Q1",321.8
+"Manufacturing","Greece",2015,"Q2",319.93
+"Manufacturing","Greece",2015,"Q3",330.2
+"Manufacturing","Greece",2015,"Q4",320.68
+"Manufacturing","Greece",2016,"Q1",331.65
+"Manufacturing","Greece",2016,"Q2",344.07
+"Manufacturing","Greece",2016,"Q3",346.59
+"Manufacturing","Greece",2016,"Q4",330.32
+"Manufacturing","Greece",2017,"Q1",334.23
+"Manufacturing","Greece",2017,"Q2",332.95
+"Manufacturing","Greece",2017,"Q3",331.2
+"Manufacturing","Greece",2017,"Q4",334.52
+"Manufacturing","Greece",2018,"Q1",350.99
+"Manufacturing","Greece",2018,"Q2",358.99
+"Manufacturing","Greece",2018,"Q3",358.91
+"Manufacturing","Greece",2018,"Q4",351.65
+"Manufacturing","Greece",2019,"Q1",359.77
+"Manufacturing","Greece",2019,"Q2",363.6
+"Manufacturing","Greece",2019,"Q3",361.45
+"Manufacturing","Greece",2019,"Q4",352.37
+"Manufacturing","Greece",2021,"Q1",373.08
+"Manufacturing","Greece",2021,"Q2",378.84
+"Manufacturing","Greece",2021,"Q3",399.09
+"Manufacturing","Greece",2021,"Q4",398.64
+"Manufacturing","Greece",2022,"Q1",394.85
+"Manufacturing","Greece",2022,"Q2",392.08
+"Manufacturing","Greece",2022,"Q3",397.92
+"Manufacturing","Greece",2022,"Q4",405.71
+"Manufacturing","Greece",2023,"Q1",406.17
+"Manufacturing","Greece",2023,"Q2",406.1
+"Manufacturing","Greece",2023,"Q3",409.94
+"Manufacturing","Greece",2023,"Q4",409.01
+"Manufacturing","Greece",2024,"Q1",410.5
+"Manufacturing","Greece",2024,"Q2",401.83
+"Manufacturing","Greece",2024,"Q3",415.11
+"Manufacturing","Spain",2010,"Q1",2233.1
+"Manufacturing","Spain",2010,"Q2",2255.7
+"Manufacturing","Spain",2010,"Q3",2236.9
+"Manufacturing","Spain",2010,"Q4",2240.7
+"Manufacturing","Spain",2011,"Q1",2139.3
+"Manufacturing","Spain",2011,"Q2",2168.2
+"Manufacturing","Spain",2011,"Q3",2151
+"Manufacturing","Spain",2011,"Q4",2139.9
+"Manufacturing","Spain",2012,"Q1",2018.2
+"Manufacturing","Spain",2012,"Q2",1996.8
+"Manufacturing","Spain",2012,"Q3",1984.4
+"Manufacturing","Spain",2012,"Q4",1967.8
+"Manufacturing","Spain",2013,"Q1",1886.6
+"Manufacturing","Spain",2013,"Q2",1883.9
+"Manufacturing","Spain",2013,"Q3",1899.7
+"Manufacturing","Spain",2013,"Q4",1895.8
+"Manufacturing","Spain",2014,"Q1",1827.3
+"Manufacturing","Spain",2014,"Q2",1853.4
+"Manufacturing","Spain",2014,"Q3",1901.4
+"Manufacturing","Spain",2014,"Q4",1915.5
+"Manufacturing","Spain",2015,"Q1",1860.3
+"Manufacturing","Spain",2015,"Q2",1913.3
+"Manufacturing","Spain",2015,"Q3",1962.4
+"Manufacturing","Spain",2015,"Q4",1967.6
+"Manufacturing","Spain",2016,"Q1",1932
+"Manufacturing","Spain",2016,"Q2",1980.6
+"Manufacturing","Spain",2016,"Q3",2032.7
+"Manufacturing","Spain",2016,"Q4",2045.9
+"Manufacturing","Spain",2017,"Q1",1983.8
+"Manufacturing","Spain",2017,"Q2",2031.7
+"Manufacturing","Spain",2017,"Q3",2087.4
+"Manufacturing","Spain",2017,"Q4",2111.9
+"Manufacturing","Spain",2018,"Q1",2063.5
+"Manufacturing","Spain",2018,"Q2",2103.5
+"Manufacturing","Spain",2018,"Q3",2116.9
+"Manufacturing","Spain",2018,"Q4",2109.7
+"Manufacturing","Spain",2019,"Q1",2091.2
+"Manufacturing","Spain",2019,"Q2",2148.9
+"Manufacturing","Spain",2019,"Q3",2205.6
+"Manufacturing","Spain",2019,"Q4",2178.7
+"Manufacturing","Spain",2021,"Q1",2009.4
+"Manufacturing","Spain",2021,"Q2",2043.3
+"Manufacturing","Spain",2021,"Q3",2079.9
+"Manufacturing","Spain",2021,"Q4",2106.6
+"Manufacturing","Spain",2022,"Q1",2040.3
+"Manufacturing","Spain",2022,"Q2",2109.3
+"Manufacturing","Spain",2022,"Q3",2140.8
+"Manufacturing","Spain",2022,"Q4",2143.6
+"Manufacturing","Spain",2023,"Q1",2119.2
+"Manufacturing","Spain",2023,"Q2",2126.6
+"Manufacturing","Spain",2023,"Q3",2160.1
+"Manufacturing","Spain",2023,"Q4",2154.1
+"Manufacturing","Spain",2024,"Q1",2115.3
+"Manufacturing","Spain",2024,"Q2",2208.7
+"Manufacturing","Spain",2024,"Q3",2182.3
+"Manufacturing","Finland",2010,"Q1",358.4
+"Manufacturing","Finland",2010,"Q2",374.4
+"Manufacturing","Finland",2010,"Q3",370
+"Manufacturing","Finland",2010,"Q4",360.8
+"Manufacturing","Finland",2011,"Q1",356
+"Manufacturing","Finland",2011,"Q2",370.4
+"Manufacturing","Finland",2011,"Q3",384
+"Manufacturing","Finland",2011,"Q4",369.6
+"Manufacturing","Finland",2012,"Q1",363.6
+"Manufacturing","Finland",2012,"Q2",380.4
+"Manufacturing","Finland",2012,"Q3",373.6
+"Manufacturing","Finland",2012,"Q4",356.8
+"Manufacturing","Finland",2013,"Q1",352
+"Manufacturing","Finland",2013,"Q2",364.4
+"Manufacturing","Finland",2013,"Q3",354.4
+"Manufacturing","Finland",2013,"Q4",348.8
+"Manufacturing","Finland",2014,"Q1",340.4
+"Manufacturing","Finland",2014,"Q2",351.6
+"Manufacturing","Finland",2014,"Q3",346.4
+"Manufacturing","Finland",2014,"Q4",342
+"Manufacturing","Finland",2015,"Q1",336.8
+"Manufacturing","Finland",2015,"Q2",342.8
+"Manufacturing","Finland",2015,"Q3",344
+"Manufacturing","Finland",2015,"Q4",336
+"Manufacturing","Finland",2016,"Q1",326
+"Manufacturing","Finland",2016,"Q2",340.8
+"Manufacturing","Finland",2016,"Q3",342.4
+"Manufacturing","Finland",2016,"Q4",336
+"Manufacturing","Finland",2017,"Q1",320.8
+"Manufacturing","Finland",2017,"Q2",338.8
+"Manufacturing","Finland",2017,"Q3",348
+"Manufacturing","Finland",2017,"Q4",338.8
+"Manufacturing","Finland",2018,"Q1",328.8
+"Manufacturing","Finland",2018,"Q2",341.6
+"Manufacturing","Finland",2018,"Q3",352
+"Manufacturing","Finland",2018,"Q4",346.8
+"Manufacturing","Finland",2019,"Q1",327.2
+"Manufacturing","Finland",2019,"Q2",354
+"Manufacturing","Finland",2019,"Q3",353.2
+"Manufacturing","Finland",2019,"Q4",339.2
+"Manufacturing","Finland",2021,"Q1",324.4
+"Manufacturing","Finland",2021,"Q2",343.2
+"Manufacturing","Finland",2021,"Q3",344
+"Manufacturing","Finland",2021,"Q4",340.4
+"Manufacturing","Finland",2022,"Q1",331.6
+"Manufacturing","Finland",2022,"Q2",343.6
+"Manufacturing","Finland",2022,"Q3",352.4
+"Manufacturing","Finland",2022,"Q4",357.6
+"Manufacturing","Finland",2023,"Q1",345.2
+"Manufacturing","Finland",2023,"Q2",356
+"Manufacturing","Finland",2023,"Q3",345.6
+"Manufacturing","Finland",2023,"Q4",341.2
+"Manufacturing","Finland",2024,"Q1",332
+"Manufacturing","Finland",2024,"Q2",342.3
+"Manufacturing","Finland",2024,"Q3",341.6
+"Manufacturing","France",2010,"Q1",2808
+"Manufacturing","France",2010,"Q2",2788.8
+"Manufacturing","France",2010,"Q3",2780.6
+"Manufacturing","France",2010,"Q4",2763.7
+"Manufacturing","France",2011,"Q1",2757.3
+"Manufacturing","France",2011,"Q2",2769
+"Manufacturing","France",2011,"Q3",2778.1
+"Manufacturing","France",2011,"Q4",2767.4
+"Manufacturing","France",2012,"Q1",2753.8
+"Manufacturing","France",2012,"Q2",2755.9
+"Manufacturing","France",2012,"Q3",2758.8
+"Manufacturing","France",2012,"Q4",2744.5
+"Manufacturing","France",2013,"Q1",2727.7
+"Manufacturing","France",2013,"Q2",2724.7
+"Manufacturing","France",2013,"Q3",2724.2
+"Manufacturing","France",2013,"Q4",2716
+"Manufacturing","France",2014,"Q1",2712.1
+"Manufacturing","France",2014,"Q2",2716.6
+"Manufacturing","France",2014,"Q3",2712.3
+"Manufacturing","France",2014,"Q4",2688.2
+"Manufacturing","France",2015,"Q1",2662.3
+"Manufacturing","France",2015,"Q2",2656.6
+"Manufacturing","France",2015,"Q3",2653.3
+"Manufacturing","France",2015,"Q4",2640.7
+"Manufacturing","France",2016,"Q1",2635.7
+"Manufacturing","France",2016,"Q2",2641.7
+"Manufacturing","France",2016,"Q3",2645.1
+"Manufacturing","France",2016,"Q4",2633.5
+"Manufacturing","France",2017,"Q1",2622.3
+"Manufacturing","France",2017,"Q2",2626.5
+"Manufacturing","France",2017,"Q3",2626.2
+"Manufacturing","France",2017,"Q4",2615.2
+"Manufacturing","France",2018,"Q1",2606.8
+"Manufacturing","France",2018,"Q2",2615.7
+"Manufacturing","France",2018,"Q3",2629.8
+"Manufacturing","France",2018,"Q4",2643.4
+"Manufacturing","France",2019,"Q1",2673.5
+"Manufacturing","France",2019,"Q2",2704.9
+"Manufacturing","France",2019,"Q3",2721.8
+"Manufacturing","France",2019,"Q4",2720.8
+"Manufacturing","France",2021,"Q1",2686.5
+"Manufacturing","France",2021,"Q2",2703.4
+"Manufacturing","France",2021,"Q3",2719.5
+"Manufacturing","France",2021,"Q4",2728.9
+"Manufacturing","France",2022,"Q1",2735.8
+"Manufacturing","France",2022,"Q2",2747.1
+"Manufacturing","France",2022,"Q3",2759.2
+"Manufacturing","France",2022,"Q4",2763
+"Manufacturing","France",2023,"Q1",2764.3
+"Manufacturing","France",2023,"Q2",2772.6
+"Manufacturing","France",2023,"Q3",2782
+"Manufacturing","France",2023,"Q4",2787
+"Manufacturing","France",2024,"Q1",2790.8
+"Manufacturing","France",2024,"Q2",2797
+"Manufacturing","France",2024,"Q3",2800.3
+"Manufacturing","Croatia",2010,"Q1",278.06
+"Manufacturing","Croatia",2010,"Q2",262.45
+"Manufacturing","Croatia",2010,"Q3",270.58
+"Manufacturing","Croatia",2010,"Q4",292.37
+"Manufacturing","Croatia",2011,"Q1",286.94
+"Manufacturing","Croatia",2011,"Q2",257.66
+"Manufacturing","Croatia",2011,"Q3",269.06
+"Manufacturing","Croatia",2011,"Q4",286.23
+"Manufacturing","Croatia",2012,"Q1",295.64
+"Manufacturing","Croatia",2012,"Q2",265.49
+"Manufacturing","Croatia",2012,"Q3",255.46
+"Manufacturing","Croatia",2012,"Q4",259.73
+"Manufacturing","Croatia",2013,"Q1",267.38
+"Manufacturing","Croatia",2013,"Q2",245.07
+"Manufacturing","Croatia",2013,"Q3",250.67
+"Manufacturing","Croatia",2013,"Q4",262.35
+"Manufacturing","Croatia",2014,"Q1",277.88
+"Manufacturing","Croatia",2014,"Q2",267.53
+"Manufacturing","Croatia",2014,"Q3",251.84
+"Manufacturing","Croatia",2014,"Q4",257.46
+"Manufacturing","Croatia",2015,"Q1",255.02
+"Manufacturing","Croatia",2015,"Q2",267.37
+"Manufacturing","Croatia",2015,"Q3",256.69
+"Manufacturing","Croatia",2015,"Q4",255.28
+"Manufacturing","Croatia",2016,"Q1",253.62
+"Manufacturing","Croatia",2016,"Q2",271.12
+"Manufacturing","Croatia",2016,"Q3",276.11
+"Manufacturing","Croatia",2016,"Q4",264.62
+"Manufacturing","Croatia",2017,"Q1",266.35
+"Manufacturing","Croatia",2017,"Q2",266.81
+"Manufacturing","Croatia",2017,"Q3",282.84
+"Manufacturing","Croatia",2017,"Q4",274.8
+"Manufacturing","Croatia",2018,"Q1",286.2
+"Manufacturing","Croatia",2018,"Q2",288.2
+"Manufacturing","Croatia",2018,"Q3",267.94
+"Manufacturing","Croatia",2018,"Q4",285.74
+"Manufacturing","Croatia",2019,"Q1",299.04
+"Manufacturing","Croatia",2019,"Q2",279.21
+"Manufacturing","Croatia",2019,"Q3",288.52
+"Manufacturing","Croatia",2019,"Q4",288.19
+"Manufacturing","Croatia",2021,"Q1",277.18
+"Manufacturing","Croatia",2021,"Q2",269.55
+"Manufacturing","Croatia",2021,"Q3",290.7
+"Manufacturing","Croatia",2021,"Q4",298.61
+"Manufacturing","Croatia",2022,"Q1",310.63
+"Manufacturing","Croatia",2022,"Q2",298.38
+"Manufacturing","Croatia",2022,"Q3",261.79
+"Manufacturing","Croatia",2022,"Q4",280.21
+"Manufacturing","Croatia",2023,"Q1",289.62
+"Manufacturing","Croatia",2023,"Q2",308.12
+"Manufacturing","Croatia",2023,"Q3",276.16
+"Manufacturing","Croatia",2023,"Q4",261.47
+"Manufacturing","Croatia",2024,"Q1",282.32
+"Manufacturing","Croatia",2024,"Q2",301.22
+"Manufacturing","Croatia",2024,"Q3",293.42
+"Manufacturing","Ireland",2010,"Q1",218.32
+"Manufacturing","Ireland",2010,"Q2",216.75
+"Manufacturing","Ireland",2010,"Q3",218.12
+"Manufacturing","Ireland",2010,"Q4",216.55
+"Manufacturing","Ireland",2011,"Q1",213.64
+"Manufacturing","Ireland",2011,"Q2",213.16
+"Manufacturing","Ireland",2011,"Q3",210.77
+"Manufacturing","Ireland",2011,"Q4",218.69
+"Manufacturing","Ireland",2012,"Q1",210.81
+"Manufacturing","Ireland",2012,"Q2",206.88
+"Manufacturing","Ireland",2012,"Q3",208.71
+"Manufacturing","Ireland",2012,"Q4",217.86
+"Manufacturing","Ireland",2013,"Q1",217.45
+"Manufacturing","Ireland",2013,"Q2",216.42
+"Manufacturing","Ireland",2013,"Q3",221.44
+"Manufacturing","Ireland",2013,"Q4",224.29
+"Manufacturing","Ireland",2014,"Q1",218.5
+"Manufacturing","Ireland",2014,"Q2",216.9
+"Manufacturing","Ireland",2014,"Q3",223.1
+"Manufacturing","Ireland",2014,"Q4",231.5
+"Manufacturing","Ireland",2015,"Q1",232.08
+"Manufacturing","Ireland",2015,"Q2",232.53
+"Manufacturing","Ireland",2015,"Q3",237.38
+"Manufacturing","Ireland",2015,"Q4",238.9
+"Manufacturing","Ireland",2016,"Q1",240.2
+"Manufacturing","Ireland",2016,"Q2",248.33
+"Manufacturing","Ireland",2016,"Q3",258.02
+"Manufacturing","Ireland",2016,"Q4",251.78
+"Manufacturing","Ireland",2017,"Q1",252.96
+"Manufacturing","Ireland",2017,"Q2",250.28
+"Manufacturing","Ireland",2017,"Q3",258.99
+"Manufacturing","Ireland",2017,"Q4",252.83
+"Manufacturing","Ireland",2018,"Q1",250.12
+"Manufacturing","Ireland",2018,"Q2",246.67
+"Manufacturing","Ireland",2018,"Q3",256.27
+"Manufacturing","Ireland",2018,"Q4",249.57
+"Manufacturing","Ireland",2019,"Q1",255.73
+"Manufacturing","Ireland",2019,"Q2",248.51
+"Manufacturing","Ireland",2019,"Q3",263.66
+"Manufacturing","Ireland",2019,"Q4",257.71
+"Manufacturing","Ireland",2021,"Q1",280.27
+"Manufacturing","Ireland",2021,"Q2",285.17
+"Manufacturing","Ireland",2021,"Q3",280.93
+"Manufacturing","Ireland",2021,"Q4",287.53
+"Manufacturing","Ireland",2022,"Q1",286.39
+"Manufacturing","Ireland",2022,"Q2",289.65
+"Manufacturing","Ireland",2022,"Q3",296.91
+"Manufacturing","Ireland",2022,"Q4",287.47
+"Manufacturing","Ireland",2023,"Q1",297.18
+"Manufacturing","Ireland",2023,"Q2",284.08
+"Manufacturing","Ireland",2023,"Q3",288.67
+"Manufacturing","Ireland",2023,"Q4",284.45
+"Manufacturing","Ireland",2024,"Q1",284.45
+"Manufacturing","Ireland",2024,"Q2",298.69
+"Manufacturing","Ireland",2024,"Q3",296.13
+"Manufacturing","Italy",2010,"Q1",4106.8
+"Manufacturing","Italy",2010,"Q2",4107.1
+"Manufacturing","Italy",2010,"Q3",4108
+"Manufacturing","Italy",2010,"Q4",4068.7
+"Manufacturing","Italy",2011,"Q1",4048.4
+"Manufacturing","Italy",2011,"Q2",4084.8
+"Manufacturing","Italy",2011,"Q3",4078.4
+"Manufacturing","Italy",2011,"Q4",4055.8
+"Manufacturing","Italy",2012,"Q1",4004.3
+"Manufacturing","Italy",2012,"Q2",4003.5
+"Manufacturing","Italy",2012,"Q3",3991.5
+"Manufacturing","Italy",2012,"Q4",3969
+"Manufacturing","Italy",2013,"Q1",3894.5
+"Manufacturing","Italy",2013,"Q2",3873
+"Manufacturing","Italy",2013,"Q3",3871.7
+"Manufacturing","Italy",2013,"Q4",3870.7
+"Manufacturing","Italy",2014,"Q1",3811.3
+"Manufacturing","Italy",2014,"Q2",3811.6
+"Manufacturing","Italy",2014,"Q3",3790.2
+"Manufacturing","Italy",2014,"Q4",3803.7
+"Manufacturing","Italy",2015,"Q1",3723.7
+"Manufacturing","Italy",2015,"Q2",3754.1
+"Manufacturing","Italy",2015,"Q3",3774
+"Manufacturing","Italy",2015,"Q4",3831
+"Manufacturing","Italy",2016,"Q1",3789.4
+"Manufacturing","Italy",2016,"Q2",3790.6
+"Manufacturing","Italy",2016,"Q3",3807.5
+"Manufacturing","Italy",2016,"Q4",3837
+"Manufacturing","Italy",2017,"Q1",3791.2
+"Manufacturing","Italy",2017,"Q2",3814.4
+"Manufacturing","Italy",2017,"Q3",3862.2
+"Manufacturing","Italy",2017,"Q4",3845.7
+"Manufacturing","Italy",2018,"Q1",3810.8
+"Manufacturing","Italy",2018,"Q2",3878.3
+"Manufacturing","Italy",2018,"Q3",3893.1
+"Manufacturing","Italy",2018,"Q4",3888.4
+"Manufacturing","Italy",2019,"Q1",3880.3
+"Manufacturing","Italy",2019,"Q2",3913.8
+"Manufacturing","Italy",2019,"Q3",3902.6
+"Manufacturing","Italy",2019,"Q4",3875.3
+"Manufacturing","Italy",2021,"Q1",3776.1
+"Manufacturing","Italy",2021,"Q2",3813.9
+"Manufacturing","Italy",2021,"Q3",3829.4
+"Manufacturing","Italy",2021,"Q4",3860.4
+"Manufacturing","Italy",2022,"Q1",3861.2
+"Manufacturing","Italy",2022,"Q2",3852.8
+"Manufacturing","Italy",2022,"Q3",3883.2
+"Manufacturing","Italy",2022,"Q4",3886.1
+"Manufacturing","Italy",2023,"Q1",3914.3
+"Manufacturing","Italy",2023,"Q2",3932
+"Manufacturing","Italy",2023,"Q3",3953.2
+"Manufacturing","Italy",2023,"Q4",3953.5
+"Manufacturing","Italy",2024,"Q1",3962.1
+"Manufacturing","Italy",2024,"Q2",3962.3
+"Manufacturing","Italy",2024,"Q3",3980.4
+"Manufacturing","Lithuania",2010,"Q1",191.58
+"Manufacturing","Lithuania",2010,"Q2",189.93
+"Manufacturing","Lithuania",2010,"Q3",193.62
+"Manufacturing","Lithuania",2010,"Q4",195.7
+"Manufacturing","Lithuania",2011,"Q1",192.36
+"Manufacturing","Lithuania",2011,"Q2",196.2
+"Manufacturing","Lithuania",2011,"Q3",194.9
+"Manufacturing","Lithuania",2011,"Q4",200.77
+"Manufacturing","Lithuania",2012,"Q1",202.76
+"Manufacturing","Lithuania",2012,"Q2",199.09
+"Manufacturing","Lithuania",2012,"Q3",205.15
+"Manufacturing","Lithuania",2012,"Q4",200.73
+"Manufacturing","Lithuania",2013,"Q1",208.56
+"Manufacturing","Lithuania",2013,"Q2",200.14
+"Manufacturing","Lithuania",2013,"Q3",198.28
+"Manufacturing","Lithuania",2013,"Q4",197.08
+"Manufacturing","Lithuania",2014,"Q1",195.15
+"Manufacturing","Lithuania",2014,"Q2",197.97
+"Manufacturing","Lithuania",2014,"Q3",203.71
+"Manufacturing","Lithuania",2014,"Q4",203.13
+"Manufacturing","Lithuania",2015,"Q1",196.92
+"Manufacturing","Lithuania",2015,"Q2",203.32
+"Manufacturing","Lithuania",2015,"Q3",207.18
+"Manufacturing","Lithuania",2015,"Q4",209.86
+"Manufacturing","Lithuania",2016,"Q1",207.49
+"Manufacturing","Lithuania",2016,"Q2",209.79
+"Manufacturing","Lithuania",2016,"Q3",212.97
+"Manufacturing","Lithuania",2016,"Q4",214.99
+"Manufacturing","Lithuania",2017,"Q1",213.32
+"Manufacturing","Lithuania",2017,"Q2",210.3
+"Manufacturing","Lithuania",2017,"Q3",209.77
+"Manufacturing","Lithuania",2017,"Q4",206.47
+"Manufacturing","Lithuania",2018,"Q1",218.82
+"Manufacturing","Lithuania",2018,"Q2",221.66
+"Manufacturing","Lithuania",2018,"Q3",222.9
+"Manufacturing","Lithuania",2018,"Q4",221.02
+"Manufacturing","Lithuania",2019,"Q1",225.14
+"Manufacturing","Lithuania",2019,"Q2",221.12
+"Manufacturing","Lithuania",2019,"Q3",213.61
+"Manufacturing","Lithuania",2019,"Q4",222.94
+"Manufacturing","Lithuania",2021,"Q1",228.94
+"Manufacturing","Lithuania",2021,"Q2",233.22
+"Manufacturing","Lithuania",2021,"Q3",228.77
+"Manufacturing","Lithuania",2021,"Q4",228.08
+"Manufacturing","Lithuania",2022,"Q1",226.86
+"Manufacturing","Lithuania",2022,"Q2",225.63
+"Manufacturing","Lithuania",2022,"Q3",231.87
+"Manufacturing","Lithuania",2022,"Q4",229
+"Manufacturing","Lithuania",2023,"Q1",219.98
+"Manufacturing","Lithuania",2023,"Q2",238.13
+"Manufacturing","Lithuania",2023,"Q3",244.36
+"Manufacturing","Lithuania",2023,"Q4",230.17
+"Manufacturing","Lithuania",2024,"Q1",228.1
+"Manufacturing","Lithuania",2024,"Q2",244.09
+"Manufacturing","Lithuania",2024,"Q3",241.64
+"Manufacturing","Luxembourg",2010,"Q1",32.56
+"Manufacturing","Luxembourg",2010,"Q2",32.73
+"Manufacturing","Luxembourg",2010,"Q3",32.86
+"Manufacturing","Luxembourg",2010,"Q4",32.99
+"Manufacturing","Luxembourg",2011,"Q1",32.71
+"Manufacturing","Luxembourg",2011,"Q2",33.03
+"Manufacturing","Luxembourg",2011,"Q3",33.41
+"Manufacturing","Luxembourg",2011,"Q4",33.43
+"Manufacturing","Luxembourg",2012,"Q1",32.88
+"Manufacturing","Luxembourg",2012,"Q2",32.73
+"Manufacturing","Luxembourg",2012,"Q3",32.57
+"Manufacturing","Luxembourg",2012,"Q4",32.37
+"Manufacturing","Luxembourg",2013,"Q1",31.95
+"Manufacturing","Luxembourg",2013,"Q2",31.88
+"Manufacturing","Luxembourg",2013,"Q3",31.94
+"Manufacturing","Luxembourg",2013,"Q4",31.96
+"Manufacturing","Luxembourg",2014,"Q1",31.68
+"Manufacturing","Luxembourg",2014,"Q2",31.77
+"Manufacturing","Luxembourg",2014,"Q3",31.84
+"Manufacturing","Luxembourg",2014,"Q4",31.93
+"Manufacturing","Luxembourg",2015,"Q1",32.23
+"Manufacturing","Luxembourg",2015,"Q2",32.55
+"Manufacturing","Luxembourg",2015,"Q3",32.7
+"Manufacturing","Luxembourg",2015,"Q4",32.86
+"Manufacturing","Luxembourg",2016,"Q1",32.76
+"Manufacturing","Luxembourg",2016,"Q2",32.93
+"Manufacturing","Luxembourg",2016,"Q3",33.08
+"Manufacturing","Luxembourg",2016,"Q4",33.19
+"Manufacturing","Luxembourg",2017,"Q1",32.85
+"Manufacturing","Luxembourg",2017,"Q2",32.98
+"Manufacturing","Luxembourg",2017,"Q3",33.09
+"Manufacturing","Luxembourg",2017,"Q4",33.31
+"Manufacturing","Luxembourg",2018,"Q1",33.62
+"Manufacturing","Luxembourg",2018,"Q2",33.71
+"Manufacturing","Luxembourg",2018,"Q3",33.59
+"Manufacturing","Luxembourg",2018,"Q4",33.71
+"Manufacturing","Luxembourg",2019,"Q1",33.69
+"Manufacturing","Luxembourg",2019,"Q2",33.82
+"Manufacturing","Luxembourg",2019,"Q3",33.68
+"Manufacturing","Luxembourg",2019,"Q4",33.79
+"Manufacturing","Luxembourg",2021,"Q1",32.57
+"Manufacturing","Luxembourg",2021,"Q2",32.66
+"Manufacturing","Luxembourg",2021,"Q3",32.73
+"Manufacturing","Luxembourg",2021,"Q4",33.01
+"Manufacturing","Luxembourg",2022,"Q1",33.18
+"Manufacturing","Luxembourg",2022,"Q2",33.23
+"Manufacturing","Luxembourg",2022,"Q3",33.26
+"Manufacturing","Luxembourg",2022,"Q4",33.48
+"Manufacturing","Luxembourg",2023,"Q1",33.47
+"Manufacturing","Luxembourg",2023,"Q2",33.25
+"Manufacturing","Luxembourg",2023,"Q3",32.93
+"Manufacturing","Luxembourg",2023,"Q4",32.98
+"Manufacturing","Luxembourg",2024,"Q1",32.84
+"Manufacturing","Luxembourg",2024,"Q2",32.71
+"Manufacturing","Luxembourg",2024,"Q3",32.44
+"Manufacturing","Latvia",2010,"Q1",108.97
+"Manufacturing","Latvia",2010,"Q2",114.62
+"Manufacturing","Latvia",2010,"Q3",119.78
+"Manufacturing","Latvia",2010,"Q4",119.07
+"Manufacturing","Latvia",2011,"Q1",115.2
+"Manufacturing","Latvia",2011,"Q2",118.8
+"Manufacturing","Latvia",2011,"Q3",120.83
+"Manufacturing","Latvia",2011,"Q4",122.25
+"Manufacturing","Latvia",2012,"Q1",122.02
+"Manufacturing","Latvia",2012,"Q2",124.88
+"Manufacturing","Latvia",2012,"Q3",126.19
+"Manufacturing","Latvia",2012,"Q4",126.43
+"Manufacturing","Latvia",2013,"Q1",125.45
+"Manufacturing","Latvia",2013,"Q2",127.34
+"Manufacturing","Latvia",2013,"Q3",126.49
+"Manufacturing","Latvia",2013,"Q4",122.15
+"Manufacturing","Latvia",2014,"Q1",121.47
+"Manufacturing","Latvia",2014,"Q2",118.82
+"Manufacturing","Latvia",2014,"Q3",116.87
+"Manufacturing","Latvia",2014,"Q4",118.96
+"Manufacturing","Latvia",2015,"Q1",117.33
+"Manufacturing","Latvia",2015,"Q2",116.64
+"Manufacturing","Latvia",2015,"Q3",116.8
+"Manufacturing","Latvia",2015,"Q4",118.91
+"Manufacturing","Latvia",2016,"Q1",117.76
+"Manufacturing","Latvia",2016,"Q2",117.72
+"Manufacturing","Latvia",2016,"Q3",117.45
+"Manufacturing","Latvia",2016,"Q4",119.24
+"Manufacturing","Latvia",2017,"Q1",116.85
+"Manufacturing","Latvia",2017,"Q2",117.33
+"Manufacturing","Latvia",2017,"Q3",117.5
+"Manufacturing","Latvia",2017,"Q4",119.68
+"Manufacturing","Latvia",2018,"Q1",117.12
+"Manufacturing","Latvia",2018,"Q2",118.18
+"Manufacturing","Latvia",2018,"Q3",119.25
+"Manufacturing","Latvia",2018,"Q4",121.34
+"Manufacturing","Latvia",2019,"Q1",114.65
+"Manufacturing","Latvia",2019,"Q2",115.63
+"Manufacturing","Latvia",2019,"Q3",114.4
+"Manufacturing","Latvia",2019,"Q4",116.8
+"Manufacturing","Latvia",2021,"Q1",110.86
+"Manufacturing","Latvia",2021,"Q2",116.15
+"Manufacturing","Latvia",2021,"Q3",116.6
+"Manufacturing","Latvia",2021,"Q4",121.02
+"Manufacturing","Latvia",2022,"Q1",115.65
+"Manufacturing","Latvia",2022,"Q2",112.98
+"Manufacturing","Latvia",2022,"Q3",117.07
+"Manufacturing","Latvia",2022,"Q4",118.52
+"Manufacturing","Latvia",2023,"Q1",116.05
+"Manufacturing","Latvia",2023,"Q2",109.62
+"Manufacturing","Latvia",2023,"Q3",113.87
+"Manufacturing","Latvia",2023,"Q4",113.58
+"Manufacturing","Latvia",2024,"Q1",110.48
+"Manufacturing","Latvia",2024,"Q2",105.51
+"Manufacturing","Latvia",2024,"Q3",110.98
+"Manufacturing","Malta",2010,"Q1",21
+"Manufacturing","Malta",2010,"Q2",21.23
+"Manufacturing","Malta",2010,"Q3",21.49
+"Manufacturing","Malta",2010,"Q4",21.63
+"Manufacturing","Malta",2011,"Q1",21.66
+"Manufacturing","Malta",2011,"Q2",21.94
+"Manufacturing","Malta",2011,"Q3",21.74
+"Manufacturing","Malta",2011,"Q4",21.6
+"Manufacturing","Malta",2012,"Q1",21.18
+"Manufacturing","Malta",2012,"Q2",21.17
+"Manufacturing","Malta",2012,"Q3",21.1
+"Manufacturing","Malta",2012,"Q4",21.01
+"Manufacturing","Malta",2013,"Q1",21.13
+"Manufacturing","Malta",2013,"Q2",21.23
+"Manufacturing","Malta",2013,"Q3",21.26
+"Manufacturing","Malta",2013,"Q4",21.11
+"Manufacturing","Malta",2014,"Q1",21.31
+"Manufacturing","Malta",2014,"Q2",21.48
+"Manufacturing","Malta",2014,"Q3",21.33
+"Manufacturing","Malta",2014,"Q4",21.27
+"Manufacturing","Malta",2015,"Q1",21.82
+"Manufacturing","Malta",2015,"Q2",21.68
+"Manufacturing","Malta",2015,"Q3",21.67
+"Manufacturing","Malta",2015,"Q4",21.77
+"Manufacturing","Malta",2016,"Q1",22.1
+"Manufacturing","Malta",2016,"Q2",21.94
+"Manufacturing","Malta",2016,"Q3",21.94
+"Manufacturing","Malta",2016,"Q4",21.92
+"Manufacturing","Malta",2017,"Q1",22.18
+"Manufacturing","Malta",2017,"Q2",21.93
+"Manufacturing","Malta",2017,"Q3",21.97
+"Manufacturing","Malta",2017,"Q4",22.29
+"Manufacturing","Malta",2018,"Q1",23.08
+"Manufacturing","Malta",2018,"Q2",23.09
+"Manufacturing","Malta",2018,"Q3",22.9
+"Manufacturing","Malta",2018,"Q4",22.96
+"Manufacturing","Malta",2019,"Q1",23.17
+"Manufacturing","Malta",2019,"Q2",23.22
+"Manufacturing","Malta",2019,"Q3",23.2
+"Manufacturing","Malta",2019,"Q4",23.36
+"Manufacturing","Malta",2021,"Q1",23.47
+"Manufacturing","Malta",2021,"Q2",23.58
+"Manufacturing","Malta",2021,"Q3",23.44
+"Manufacturing","Malta",2021,"Q4",23.36
+"Manufacturing","Malta",2022,"Q1",23.17
+"Manufacturing","Malta",2022,"Q2",23.29
+"Manufacturing","Malta",2022,"Q3",23.4
+"Manufacturing","Malta",2022,"Q4",23.58
+"Manufacturing","Malta",2023,"Q1",24.11
+"Manufacturing","Malta",2023,"Q2",24.36
+"Manufacturing","Malta",2023,"Q3",24.36
+"Manufacturing","Malta",2023,"Q4",24.44
+"Manufacturing","Malta",2024,"Q1",24.83
+"Manufacturing","Malta",2024,"Q2",24.86
+"Manufacturing","Malta",2024,"Q3",25.28
+"Manufacturing","Netherlands",2010,"Q1",695
+"Manufacturing","Netherlands",2010,"Q2",693
+"Manufacturing","Netherlands",2010,"Q3",685
+"Manufacturing","Netherlands",2010,"Q4",680
+"Manufacturing","Netherlands",2011,"Q1",685
+"Manufacturing","Netherlands",2011,"Q2",683
+"Manufacturing","Netherlands",2011,"Q3",683
+"Manufacturing","Netherlands",2011,"Q4",684
+"Manufacturing","Netherlands",2012,"Q1",683
+"Manufacturing","Netherlands",2012,"Q2",680
+"Manufacturing","Netherlands",2012,"Q3",676
+"Manufacturing","Netherlands",2012,"Q4",669
+"Manufacturing","Netherlands",2013,"Q1",671
+"Manufacturing","Netherlands",2013,"Q2",669
+"Manufacturing","Netherlands",2013,"Q3",669
+"Manufacturing","Netherlands",2013,"Q4",662
+"Manufacturing","Netherlands",2014,"Q1",662
+"Manufacturing","Netherlands",2014,"Q2",661
+"Manufacturing","Netherlands",2014,"Q3",661
+"Manufacturing","Netherlands",2014,"Q4",663
+"Manufacturing","Netherlands",2015,"Q1",659
+"Manufacturing","Netherlands",2015,"Q2",666
+"Manufacturing","Netherlands",2015,"Q3",666
+"Manufacturing","Netherlands",2015,"Q4",668
+"Manufacturing","Netherlands",2016,"Q1",669
+"Manufacturing","Netherlands",2016,"Q2",674
+"Manufacturing","Netherlands",2016,"Q3",672
+"Manufacturing","Netherlands",2016,"Q4",681
+"Manufacturing","Netherlands",2017,"Q1",680
+"Manufacturing","Netherlands",2017,"Q2",684
+"Manufacturing","Netherlands",2017,"Q3",686
+"Manufacturing","Netherlands",2017,"Q4",690
+"Manufacturing","Netherlands",2018,"Q1",695
+"Manufacturing","Netherlands",2018,"Q2",703
+"Manufacturing","Netherlands",2018,"Q3",705
+"Manufacturing","Netherlands",2018,"Q4",713
+"Manufacturing","Netherlands",2019,"Q1",721
+"Manufacturing","Netherlands",2019,"Q2",723
+"Manufacturing","Netherlands",2019,"Q3",719
+"Manufacturing","Netherlands",2019,"Q4",730
+"Manufacturing","Netherlands",2021,"Q1",720
+"Manufacturing","Netherlands",2021,"Q2",728
+"Manufacturing","Netherlands",2021,"Q3",722
+"Manufacturing","Netherlands",2021,"Q4",736
+"Manufacturing","Netherlands",2022,"Q1",737
+"Manufacturing","Netherlands",2022,"Q2",744
+"Manufacturing","Netherlands",2022,"Q3",748
+"Manufacturing","Netherlands",2022,"Q4",749
+"Manufacturing","Netherlands",2023,"Q1",763
+"Manufacturing","Netherlands",2023,"Q2",763
+"Manufacturing","Netherlands",2023,"Q3",757
+"Manufacturing","Netherlands",2023,"Q4",767
+"Manufacturing","Netherlands",2024,"Q1",767
+"Manufacturing","Netherlands",2024,"Q2",769
+"Manufacturing","Netherlands",2024,"Q3",772
+"Manufacturing","Portugal",2010,"Q1",726.99
+"Manufacturing","Portugal",2010,"Q2",738.65
+"Manufacturing","Portugal",2010,"Q3",724.29
+"Manufacturing","Portugal",2010,"Q4",719.58
+"Manufacturing","Portugal",2011,"Q1",718.78
+"Manufacturing","Portugal",2011,"Q2",719.2
+"Manufacturing","Portugal",2011,"Q3",714.03
+"Manufacturing","Portugal",2011,"Q4",699.03
+"Manufacturing","Portugal",2012,"Q1",691.25
+"Manufacturing","Portugal",2012,"Q2",691.83
+"Manufacturing","Portugal",2012,"Q3",686.33
+"Manufacturing","Portugal",2012,"Q4",671.24
+"Manufacturing","Portugal",2013,"Q1",662.61
+"Manufacturing","Portugal",2013,"Q2",667.95
+"Manufacturing","Portugal",2013,"Q3",675.8
+"Manufacturing","Portugal",2013,"Q4",683.07
+"Manufacturing","Portugal",2014,"Q1",675.71
+"Manufacturing","Portugal",2014,"Q2",684.4
+"Manufacturing","Portugal",2014,"Q3",694.02
+"Manufacturing","Portugal",2014,"Q4",693.52
+"Manufacturing","Portugal",2015,"Q1",697.97
+"Manufacturing","Portugal",2015,"Q2",710.13
+"Manufacturing","Portugal",2015,"Q3",711.62
+"Manufacturing","Portugal",2015,"Q4",714.57
+"Manufacturing","Portugal",2016,"Q1",708.25
+"Manufacturing","Portugal",2016,"Q2",713.31
+"Manufacturing","Portugal",2016,"Q3",719.1
+"Manufacturing","Portugal",2016,"Q4",719.14
+"Manufacturing","Portugal",2017,"Q1",724.16
+"Manufacturing","Portugal",2017,"Q2",731.22
+"Manufacturing","Portugal",2017,"Q3",738.77
+"Manufacturing","Portugal",2017,"Q4",748.26
+"Manufacturing","Portugal",2018,"Q1",753.74
+"Manufacturing","Portugal",2018,"Q2",754.98
+"Manufacturing","Portugal",2018,"Q3",757.76
+"Manufacturing","Portugal",2018,"Q4",759.2
+"Manufacturing","Portugal",2019,"Q1",752.62
+"Manufacturing","Portugal",2019,"Q2",747.41
+"Manufacturing","Portugal",2019,"Q3",748.79
+"Manufacturing","Portugal",2019,"Q4",747.03
+"Manufacturing","Portugal",2021,"Q1",716.27
+"Manufacturing","Portugal",2021,"Q2",731.3
+"Manufacturing","Portugal",2021,"Q3",734.03
+"Manufacturing","Portugal",2021,"Q4",734.11
+"Manufacturing","Portugal",2022,"Q1",743.24
+"Manufacturing","Portugal",2022,"Q2",730.56
+"Manufacturing","Portugal",2022,"Q3",738.99
+"Manufacturing","Portugal",2022,"Q4",733.58
+"Manufacturing","Portugal",2023,"Q1",738.22
+"Manufacturing","Portugal",2023,"Q2",735.59
+"Manufacturing","Portugal",2023,"Q3",735.61
+"Manufacturing","Portugal",2023,"Q4",734.06
+"Manufacturing","Portugal",2024,"Q1",736.45
+"Manufacturing","Portugal",2024,"Q2",727.09
+"Manufacturing","Portugal",2024,"Q3",730.21
+"Manufacturing","Slovenia",2010,"Q1",197.76
+"Manufacturing","Slovenia",2010,"Q2",197.02
+"Manufacturing","Slovenia",2010,"Q3",196.28
+"Manufacturing","Slovenia",2010,"Q4",194.09
+"Manufacturing","Slovenia",2011,"Q1",195.18
+"Manufacturing","Slovenia",2011,"Q2",195.75
+"Manufacturing","Slovenia",2011,"Q3",196.09
+"Manufacturing","Slovenia",2011,"Q4",194.78
+"Manufacturing","Slovenia",2012,"Q1",193.6
+"Manufacturing","Slovenia",2012,"Q2",193.36
+"Manufacturing","Slovenia",2012,"Q3",192.15
+"Manufacturing","Slovenia",2012,"Q4",190.1
+"Manufacturing","Slovenia",2013,"Q1",188.25
+"Manufacturing","Slovenia",2013,"Q2",188.15
+"Manufacturing","Slovenia",2013,"Q3",188.23
+"Manufacturing","Slovenia",2013,"Q4",188.33
+"Manufacturing","Slovenia",2014,"Q1",187.67
+"Manufacturing","Slovenia",2014,"Q2",188.34
+"Manufacturing","Slovenia",2014,"Q3",188.96
+"Manufacturing","Slovenia",2014,"Q4",189.62
+"Manufacturing","Slovenia",2015,"Q1",189.65
+"Manufacturing","Slovenia",2015,"Q2",190.92
+"Manufacturing","Slovenia",2015,"Q3",192.57
+"Manufacturing","Slovenia",2015,"Q4",194.64
+"Manufacturing","Slovenia",2016,"Q1",195.11
+"Manufacturing","Slovenia",2016,"Q2",197.38
+"Manufacturing","Slovenia",2016,"Q3",198.73
+"Manufacturing","Slovenia",2016,"Q4",200.22
+"Manufacturing","Slovenia",2017,"Q1",200.83
+"Manufacturing","Slovenia",2017,"Q2",203.91
+"Manufacturing","Slovenia",2017,"Q3",206.58
+"Manufacturing","Slovenia",2017,"Q4",209.29
+"Manufacturing","Slovenia",2018,"Q1",211.08
+"Manufacturing","Slovenia",2018,"Q2",213.63
+"Manufacturing","Slovenia",2018,"Q3",215.44
+"Manufacturing","Slovenia",2018,"Q4",218.15
+"Manufacturing","Slovenia",2019,"Q1",219.17
+"Manufacturing","Slovenia",2019,"Q2",220.28
+"Manufacturing","Slovenia",2019,"Q3",220.25
+"Manufacturing","Slovenia",2019,"Q4",220.62
+"Manufacturing","Slovenia",2021,"Q1",216.87
+"Manufacturing","Slovenia",2021,"Q2",219.22
+"Manufacturing","Slovenia",2021,"Q3",220.1
+"Manufacturing","Slovenia",2021,"Q4",221.66
+"Manufacturing","Slovenia",2022,"Q1",223.08
+"Manufacturing","Slovenia",2022,"Q2",224.42
+"Manufacturing","Slovenia",2022,"Q3",224.37
+"Manufacturing","Slovenia",2022,"Q4",225.77
+"Manufacturing","Slovenia",2023,"Q1",225.5
+"Manufacturing","Slovenia",2023,"Q2",225.87
+"Manufacturing","Slovenia",2023,"Q3",225.16
+"Manufacturing","Slovenia",2023,"Q4",225.19
+"Manufacturing","Slovenia",2024,"Q1",223.45
+"Manufacturing","Slovenia",2024,"Q2",222.86
+"Manufacturing","Slovenia",2024,"Q3",221.38
+"Manufacturing","Slovakia",2010,"Q1",456.15
+"Manufacturing","Slovakia",2010,"Q2",457.23
+"Manufacturing","Slovakia",2010,"Q3",464.1
+"Manufacturing","Slovakia",2010,"Q4",468.4
+"Manufacturing","Slovakia",2011,"Q1",475.16
+"Manufacturing","Slovakia",2011,"Q2",478.1
+"Manufacturing","Slovakia",2011,"Q3",483
+"Manufacturing","Slovakia",2011,"Q4",483.16
+"Manufacturing","Slovakia",2012,"Q1",477.56
+"Manufacturing","Slovakia",2012,"Q2",477.44
+"Manufacturing","Slovakia",2012,"Q3",478.94
+"Manufacturing","Slovakia",2012,"Q4",470.98
+"Manufacturing","Slovakia",2013,"Q1",465
+"Manufacturing","Slovakia",2013,"Q2",465.84
+"Manufacturing","Slovakia",2013,"Q3",472.02
+"Manufacturing","Slovakia",2013,"Q4",472.07
+"Manufacturing","Slovakia",2014,"Q1",470.39
+"Manufacturing","Slovakia",2014,"Q2",474.41
+"Manufacturing","Slovakia",2014,"Q3",482.47
+"Manufacturing","Slovakia",2014,"Q4",484.3
+"Manufacturing","Slovakia",2015,"Q1",481.89
+"Manufacturing","Slovakia",2015,"Q2",485.94
+"Manufacturing","Slovakia",2015,"Q3",493.57
+"Manufacturing","Slovakia",2015,"Q4",496.75
+"Manufacturing","Slovakia",2016,"Q1",499.1
+"Manufacturing","Slovakia",2016,"Q2",502.91
+"Manufacturing","Slovakia",2016,"Q3",513.36
+"Manufacturing","Slovakia",2016,"Q4",515.05
+"Manufacturing","Slovakia",2017,"Q1",515.48
+"Manufacturing","Slovakia",2017,"Q2",525.59
+"Manufacturing","Slovakia",2017,"Q3",533.03
+"Manufacturing","Slovakia",2017,"Q4",533.28
+"Manufacturing","Slovakia",2018,"Q1",531
+"Manufacturing","Slovakia",2018,"Q2",533.98
+"Manufacturing","Slovakia",2018,"Q3",541.25
+"Manufacturing","Slovakia",2018,"Q4",537.94
+"Manufacturing","Slovakia",2019,"Q1",536.2
+"Manufacturing","Slovakia",2019,"Q2",541.62
+"Manufacturing","Slovakia",2019,"Q3",539.39
+"Manufacturing","Slovakia",2019,"Q4",532.43
+"Manufacturing","Slovakia",2021,"Q1",506.66
+"Manufacturing","Slovakia",2021,"Q2",510.78
+"Manufacturing","Slovakia",2021,"Q3",513.55
+"Manufacturing","Slovakia",2021,"Q4",510.43
+"Manufacturing","Slovakia",2022,"Q1",516.78
+"Manufacturing","Slovakia",2022,"Q2",519.95
+"Manufacturing","Slovakia",2022,"Q3",517.16
+"Manufacturing","Slovakia",2022,"Q4",513.8
+"Manufacturing","Slovakia",2023,"Q1",512.72
+"Manufacturing","Slovakia",2023,"Q2",517.35
+"Manufacturing","Slovakia",2023,"Q3",514.06
+"Manufacturing","Slovakia",2023,"Q4",510.42
+"Manufacturing","Slovakia",2024,"Q1",508.1
+"Manufacturing","Slovakia",2024,"Q2",511.22
+"Manufacturing","Slovakia",2024,"Q3",506.34
